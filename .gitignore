@@ -22,3 +22,6 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Hermes cron job outputs (large, contain internal session data)
+cron_*
