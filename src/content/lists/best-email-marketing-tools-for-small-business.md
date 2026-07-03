@@ -11,6 +11,9 @@ items:
   - "GetResponse — Best if webinars are part of your funnel"
   - "Mailchimp — Best for 10,000+ contact lists"
   - "AWeber — Best for existing AWeber users"
+pricing: "$0/mo (MailerLite free, Brevo free, Mailchimp free) — $10/mo (MailerLite paid) — $45+/mo (ActiveCampaign Plus)"
+bestFor: "Small business owners with 0–10,000 subscribers who need a reliable, affordable email tool without enterprise complexity"
+affiliateUrl: "https://www.mailerlite.com/?via=mailpilot"
 draft: false
 ---
 

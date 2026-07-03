@@ -15,6 +15,9 @@ alternatives:
   - "Beehiiv — Best for newsletter-first creators"
   - "Substack — Best if you want to monetize via subscriptions"
   - "Klaviyo — Best for e-commerce creators"
+pricing: "$0–$25/mo for most creators under 5,000 subscribers"
+bestFor: "Creators and solopreneurs paying for Kit's higher prices who mostly send newsletters and basic automations"
+affiliateUrl: "https://www.mailerlite.com/?via=mailpilot"
 draft: false
 ---
 

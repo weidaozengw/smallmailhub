@@ -10,6 +10,9 @@ items:
   - "ActiveCampaign — Best for e-commerce with complex sales cycles"
   - "MailerLite — Best budget option for new e-commerce stores"
   - "Sendlane — Best for e-commerce doing $1M+/year"
+pricing: "$0/mo (Klaviyo free, Brevo free) — $45+/mo (ActiveCampaign, Sendlane Pro)"
+bestFor: "E-commerce store owners on Shopify, WooCommerce, or BigCommerce looking for an email tool built specifically for online retail"
+affiliateUrl: "https://www.klaviyo.com/?ref=mailpilot"
 draft: false
 ---
 

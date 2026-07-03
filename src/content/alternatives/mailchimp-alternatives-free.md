@@ -14,6 +14,9 @@ alternatives:
   - "AWeber — 500 subscribers free, basic features"
   - "Mailjet — 6,000 emails/mo free, no contact limit"
   - "Moosend — 1,000 subscribers free, full features for 30 days then limited"
+pricing: "$0/mo for all 8 alternatives — each has a genuinely free tier"
+bestFor: "Small businesses and creators who need a genuinely free email marketing tool with real automation, not just a free trial"
+affiliateUrl: "https://www.mailerlite.com/?via=mailpilot"
 draft: false
 ---
 

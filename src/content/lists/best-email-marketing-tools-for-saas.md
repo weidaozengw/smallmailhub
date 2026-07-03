@@ -27,7 +27,7 @@ cons:
   - "Most tools require technical setup (API integration, webhook configuration)"
 pricing: "Brevo Free (300 emails/day) · Mailjet Free (6,000 emails/month) · SendGrid Free (100 emails/day) · Postmark ($15/mo + $1.25/1000 emails) · Customer.io ($0.01/email) · Brevo Standard ($18/mo + usage)"
 bestFor: "SaaS companies, software startups, and B2B software platforms that need both transactional emails (password resets, receipts, notifications) and marketing emails (onboarding, upgrades, retention campaigns)"
-affiliateUrl: ""
+affiliateUrl: "https://www.brevo.com/?via=mailpilot"
 ---
 
 SaaS companies have unique email marketing needs that most "best email marketing tools" lists miss. A SaaS platform needs to send:

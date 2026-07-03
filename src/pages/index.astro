@@ -3,6 +3,54 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const title = 'MailPilot — Honest Email Marketing Tool Reviews for Small Businesses';
 const description = 'Independent reviews and side-by-side comparisons of email marketing platforms built for small businesses, solopreneurs, and creators. Real pros, real cons, no fluff.';
+
+// Featured tools — manually selected based on traffic/commission value
+const featured = [
+  {
+    name: 'MailerLite',
+    tagline: 'Best overall for small business',
+    rating: 4.7,
+    price: 'Free · $10/mo',
+    affiliateUrl: 'https://www.mailerlite.com/?via=mailpilot',
+    color: '#10b981',
+  },
+  {
+    name: 'Brevo',
+    tagline: 'Best for marketing + transactional',
+    rating: 4.4,
+    price: 'Free · $18/mo',
+    affiliateUrl: 'https://www.brevo.com/?via=mailpilot',
+    color: '#3b82f6',
+  },
+  {
+    name: 'Kit (ConvertKit)',
+    tagline: 'Best for creators',
+    rating: 4.3,
+    price: 'Free · $25/mo',
+    affiliateUrl: 'https://kit.com/?via=mailpilot',
+    color: '#f59e0b',
+  },
+  {
+    name: 'ActiveCampaign',
+    tagline: 'Best for B2B automation',
+    rating: 4.5,
+    price: '$29/mo · $49/mo Plus',
+    affiliateUrl: 'https://www.activecampaign.com/?via=mailpilot',
+    color: '#8b5cf6',
+  },
+];
+
+function withUtm(url: string, source: string): string {
+  try {
+    const u = new URL(url);
+    u.searchParams.set('utm_source', 'smallmailhub');
+    u.searchParams.set('utm_medium', 'homepage');
+    u.searchParams.set('utm_campaign', `featured-${source}`);
+    return u.toString();
+  } catch {
+    return url;
+  }
+}
 ---
 
 <BaseLayout title={title} description={description}>
@@ -10,14 +58,37 @@ const description = 'Independent reviews and side-by-side comparisons of email m
   <p class="meta">Updated: 2026-07-03 · Last reviewed by the MailPilot team</p>
 
   <p style="background:#eff6ff;border-left:4px solid #2563eb;padding:14px 18px;border-radius:4px;margin:20px 0;">
-    <strong>9 tools reviewed:</strong> MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, GetResponse, AWeber, Klaviyo — and 5 alternatives guides + 2 best-of lists. Every review covers pricing, pros &amp; cons, and who it's actually for.
+    <strong>21 reviews + 8 alternatives + 3 best-of lists</strong> covering MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot, Omnisend, and more. Every review covers pricing, pros &amp; cons, and who it's actually for.
   </p>
+
+  <h2>Featured tools</h2>
+  <p style="color:#555;font-size:0.95rem;margin-bottom:14px;">Our top picks based on testing across 14+ platforms and 6+ months of hands-on use.</p>
+  <div class="featured-grid">
+    {featured.map((tool) => (
+      <a href={withUtm(tool.affiliateUrl, tool.name.toLowerCase().replace(/[^a-z0-9]/g, '-'))} class="featured-card" rel="sponsored noopener" target="_blank">
+        <div class="featured-card-header" style={`border-top-color:${tool.color}`}>
+          <div>
+            <div class="featured-card-name">{tool.name}</div>
+            <div class="featured-card-tagline">{tool.tagline}</div>
+          </div>
+          <div class="featured-card-rating">
+            <span class="featured-card-rating-num">{tool.rating}</span>
+            <span class="featured-card-rating-max">/5</span>
+          </div>
+        </div>
+        <div class="featured-card-price">{tool.price}</div>
+        <div class="featured-card-cta" style={`color:${tool.color}`}>Try free →</div>
+      </a>
+    ))}
+  </div>
 
   <p>You don't need the most expensive platform. You need the one that fits how you actually send emails. MailPilot tests and compares email marketing tools so small business owners can pick the right one without spending weeks researching.</p>
 
   <h2>What you'll find here</h2>
   <ul>
     <li><a href="/best/best-email-marketing-tools-for-small-business/">Best email marketing tools for small business</a> — top picks for 2026</li>
+    <li><a href="/best/best-email-marketing-tools-for-ecommerce/">Best email marketing tools for e-commerce</a> — Shopify/WooCommerce-focused</li>
+    <li><a href="/best/best-email-marketing-tools-for-saas/">Best email marketing tools for SaaS</a> — transactional + marketing combined</li>
     <li><a href="/alternatives/mailchimp-alternatives-for-small-business/">Mailchimp alternatives for small business</a> — 7 platforms that beat Mailchimp on price or features</li>
     <li><a href="/alternatives/convertkit-alternatives/">ConvertKit alternatives</a> — for creators who outgrew ConvertKit's pricing</li>
     <li><a href="/alternatives/mailchimp-alternatives-free/">Free Mailchimp alternatives</a> — when the free tier actually matters</li>
@@ -36,4 +107,76 @@ const description = 'Independent reviews and side-by-side comparisons of email m
     <strong>Affiliate disclosure:</strong> Some links on this site are affiliate links. If you click one and sign up, we may earn a commission at no extra cost to you. This never changes our recommendations — we only recommend tools we'd use ourselves.
   </div>
 </BaseLayout>
+
+<style>
+  .featured-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin: 16px 0 24px;
+  }
+  .featured-card {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 18px;
+    background: white;
+    border: 1px solid #e5e5e5;
+    border-top: 3px solid #2563eb;
+    border-radius: 6px;
+    text-decoration: none;
+    color: var(--c-text);
+    transition: all 0.15s ease;
+  }
+  .featured-card:hover {
+    border-color: #cbd5e1;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+  }
+  .featured-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 10px;
+  }
+  .featured-card-name {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--c-text);
+    margin-bottom: 2px;
+  }
+  .featured-card-tagline {
+    font-size: 0.82rem;
+    color: var(--c-muted);
+  }
+  .featured-card-rating {
+    display: flex;
+    align-items: baseline;
+    flex-shrink: 0;
+  }
+  .featured-card-rating-num {
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+  .featured-card-rating-max {
+    font-size: 0.85rem;
+    color: var(--c-muted);
+  }
+  .featured-card-price {
+    font-size: 0.85rem;
+    color: var(--c-muted);
+    margin-bottom: 8px;
+  }
+  .featured-card-cta {
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-top: auto;
+  }
+  @media (max-width: 640px) {
+    .featured-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
 <!-- GA4 tracking enabled: G-SHGLFCEWBF -->

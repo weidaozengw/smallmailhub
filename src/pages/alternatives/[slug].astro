@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import RelatedContent from '../../components/RelatedContent.astro';
+import ReviewCTA from '../../components/ReviewCTA.astro';
 
 export async function getStaticPaths() {
   const alts = await getCollection('alternatives');
@@ -13,20 +14,45 @@ export async function getStaticPaths() {
 
 const { alt } = Astro.props;
 const { Content } = await alt.render();
-const { title, description, pubDate, replacedProduct, alternatives } = alt.data;
+const { title, description, pubDate, replacedProduct, alternatives, affiliateUrl, pricing, bestFor } = alt.data;
 const formattedPub = pubDate.toISOString().slice(0, 10);
+
+// 主角 = 第一个 alternative（通常是 top pick）
+const topPick = alternatives?.[0];
 ---
 
 <BaseLayout title={title} description={description}>
   <h1>{title}</h1>
   <p class="meta">Published {formattedPub}</p>
 
+  {affiliateUrl && topPick && (
+    <ReviewCTA
+      productName={topPick}
+      affiliateUrl={affiliateUrl}
+      pricing={pricing}
+      bestFor={bestFor}
+      variant="top"
+      source="alternatives-top"
+    />
+  )}
+
   <Content />
 
-  <h2>Alternatives we cover</h2>
+  <h2>All alternatives we cover</h2>
   <ul>
     {alternatives.map((a) => <li>{a}</li>)}
   </ul>
+
+  {affiliateUrl && topPick && (
+    <ReviewCTA
+      productName={topPick}
+      affiliateUrl={affiliateUrl}
+      pricing={pricing}
+      bestFor={bestFor}
+      variant="footer"
+      source="alternatives-footer"
+    />
+  )}
 
   <RelatedContent
     currentSlug={alt.slug}

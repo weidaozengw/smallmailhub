@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import RelatedContent from '../../components/RelatedContent.astro';
+import ReviewCTA from '../../components/ReviewCTA.astro';
 
 export async function getStaticPaths() {
   const lists = await getCollection('lists');
@@ -13,13 +14,27 @@ export async function getStaticPaths() {
 
 const { list } = Astro.props;
 const { Content } = await list.render();
-const { title, description, pubDate, items } = list.data;
+const { title, description, pubDate, items, affiliateUrl, pricing, bestFor } = list.data;
 const formattedPub = pubDate.toISOString().slice(0, 10);
+
+// Top pick = 第一个 item（去掉 dash 前的内容）
+const topPick = items?.[0]?.split(' — ')[0]?.trim();
 ---
 
 <BaseLayout title={title} description={description}>
   <h1>{title}</h1>
   <p class="meta">Published {formattedPub}</p>
+
+  {affiliateUrl && topPick && (
+    <ReviewCTA
+      productName={topPick}
+      affiliateUrl={affiliateUrl}
+      pricing={pricing}
+      bestFor={bestFor}
+      variant="top"
+      source="bestof-top"
+    />
+  )}
 
   <Content />
 
@@ -27,6 +42,17 @@ const formattedPub = pubDate.toISOString().slice(0, 10);
   <ul>
     {items.map((i) => <li>{i}</li>)}
   </ul>
+
+  {affiliateUrl && topPick && (
+    <ReviewCTA
+      productName={topPick}
+      affiliateUrl={affiliateUrl}
+      pricing={pricing}
+      bestFor={bestFor}
+      variant="footer"
+      source="bestof-footer"
+    />
+  )}
 
   <RelatedContent
     currentSlug={list.slug}

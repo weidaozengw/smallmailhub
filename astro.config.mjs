@@ -14,4 +14,8 @@ export default defineConfig({
       theme: 'github-dark-dimmed',
     },
   },
+  // Astro v5 legacy.collections is false by default — turn it on
+  legacy: {
+    collections: true,
+  },
 });
