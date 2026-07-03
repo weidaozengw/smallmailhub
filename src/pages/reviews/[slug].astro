@@ -71,7 +71,7 @@ const ogImageSlug = productName ? productName.toLowerCase().replace(/[^a-z0-9]/g
   )}
 
   <h1>{title}</h1>
-  <p class="meta">Published {formattedPub}{formattedUpd && ` · Updated ${formattedUpd}`}</p>
+  <p class="meta">Published {formattedPub}{formattedUpd && ` · Updated ${formattedUpd}`} · Last reviewed {new Date().toISOString().slice(0, 10)}</p>
 
   {!isComparison && rating && affiliateUrl && (
     <ReviewCTA
