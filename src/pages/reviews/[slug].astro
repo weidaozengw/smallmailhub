@@ -21,9 +21,12 @@ const formattedUpd = updatedDate?.toISOString().slice(0, 10);
 
 // Skip top CTA for comparison/review vs review pages (no single product)
 const isComparison = !!review.slug.match(/vs|-vs-/);
+
+// Map productName → PNG file slug (lowercase, no spaces)
+const ogImageSlug = productName ? productName.toLowerCase().replace(/[^a-z0-9]/g, '') : 'default';
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} ogImage={ogImageSlug}>
 
   {/* Schema.org structured data for rich snippets in Google search */}
   {!isComparison && rating && productName && (
