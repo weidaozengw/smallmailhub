@@ -38,7 +38,45 @@ const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION || '';
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', ga4Id);
+          gtag('config', ga4Id, { send_page_view: true });
+
+          // CTA click tracking + outbound link auto-tracking
+          document.addEventListener('click', function(e) {
+            var el = e.target.closest && e.target.closest('a[href], button[type="submit"]');
+            if (!el) return;
+            var href = el.href || '';
+            var isOutbound = href && href.indexOf(location.host) === -1 && href.indexOf('mailto:') !== 0;
+            var isCta = el.classList && el.classList.contains('cta-btn');
+            var newsletterForm = el.classList && el.classList.contains('newsletter-button');
+
+            if (isCta) {
+              gtag('event', 'cta_click', {
+                cta_location: el.closest('.cta-top, .cta-inline, .cta-footer') ? 'review' : 'unknown',
+                cta_text: (el.textContent || '').trim().slice(0, 60),
+                cta_url: href,
+                cta_outbound: isOutbound,
+                page_path: location.pathname,
+              });
+            } else if (isOutbound) {
+              // Auto-tag any outbound link (catches UTM-bearing affiliate clicks)
+              gtag('event', 'outbound_click', {
+                outbound_url: href,
+                link_text: (el.textContent || '').trim().slice(0, 60),
+                page_path: location.pathname,
+              });
+            }
+          }, true);
+
+          // Newsletter form submit tracking
+          document.addEventListener('submit', function(e) {
+            var form = e.target;
+            if (!form || !form.classList || !form.classList.contains('newsletter-form')) return;
+            var variant = form.querySelector('[name="source"]')?.value || 'unknown';
+            gtag('event', 'newsletter_submit', {
+              newsletter_variant: variant,
+              page_path: location.pathname,
+            });
+          }, true);
         </script>
       </>
     )}

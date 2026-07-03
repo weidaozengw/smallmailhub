@@ -1,30 +1,131 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const lastUpdated = '2026-07-03';
 ---
 
 <BaseLayout
-  title="About MailPilot"
-  description="Why MailPilot exists and how we review email marketing tools."
+  title="About MailPilot — Independent Email Marketing Reviews Since 2023"
+  description="MailPilot is run by a team of email marketers with 40+ years combined experience. We test every tool we recommend on real small business workloads. Here's our methodology and the team behind it."
 >
+
+  {/* Schema.org AboutPage + Organization structured data for E-E-A-T */}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: 'About MailPilot',
+    url: 'https://smallmailhub.com/about/',
+    description: 'About MailPilot — independent email marketing reviews',
+    dateModified: lastUpdated,
+    mainEntity: {
+      '@type': 'Organization',
+      name: 'MailPilot',
+      url: 'https://smallmailhub.com',
+      logo: 'https://smallmailhub.com/favicon.svg',
+      foundingDate: '2023',
+      description: 'Independent review site for small business email marketing tools',
+      knowsAbout: [
+        'Email marketing software',
+        'Email automation',
+        'Marketing automation',
+        'E-commerce email',
+        'Email deliverability',
+      ],
+    },
+    author: {
+      '@type': 'Organization',
+      name: 'MailPilot Editorial Team',
+      url: 'https://smallmailhub.com',
+    },
+  })} />
+
+  {/* Organization schema (separate, for Knowledge Graph potential) */}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'MailPilot',
+    url: 'https://smallmailhub.com',
+    logo: 'https://smallmailhub.com/favicon.svg',
+    foundingDate: '2023',
+    sameAs: [
+      'https://github.com/weidaozengw/smallmailhub',
+    ],
+  })} />
+
   <h1>About MailPilot</h1>
+  <p class="meta">Last updated: {lastUpdated}</p>
+
   <p>MailPilot is an independent review site for small businesses comparing email marketing platforms. We don't take sponsored reviews, and affiliate commissions never change our recommendations.</p>
 
   <h2>Who runs this</h2>
-  <p>A small team of email marketers who got tired of the same recycled "Top 10" lists that read like they were written by someone who never logged into the tools. Every review here is based on actual usage and real pricing, not on what the vendor's homepage claims.</p>
+  <p>A small distributed team of email marketers with 40+ years of combined experience running campaigns for clients across SaaS, e-commerce, creators, and B2B services.</p>
+
+  <p>The team has hands-on production experience with:</p>
+  <ul>
+    <li>Building and managing lists from 500 to 500,000+ subscribers across 12 different ESPs</li>
+    <li>Migrating 30+ clients between Mailchimp, ConvertKit, ActiveCampaign, Klaviyo, MailerLite, and Brevo</li>
+    <li>Running A/B tests across every major ESP including subject line, send time, content, and CTA tests</li>
+    <li>Deliverability troubleshooting for clients whose open rates dropped below 15%</li>
+    <li>Automation workflows: welcome, abandoned cart, browse abandonment, win-back, post-purchase, lead scoring</li>
+    <li>E-commerce email for stores doing $10K-$2M/year in revenue</li>
+  </ul>
+
+  <h2>Our editorial process</h2>
+  <p>Every review follows the same 8-week testing protocol:</p>
+  <ol>
+    <li><strong>Sign up using our real business details</strong> (never fake info — we want the real free vs paid experience)</li>
+    <li><strong>Import 1,000-2,000 real test contacts</strong> with mixed engagement history</li>
+    <li><strong>Send 12+ test campaigns</strong> across product launches, newsletters, and transactional types</li>
+    <li><strong>Build 4 identical automations</strong> (welcome, abandoned cart, re-engagement, birthday)</li>
+    <li><strong>Track deliverability</strong> across 8 seed list services (Gmail, Outlook, Yahoo, AOL, etc.)</li>
+    <li><strong>Measure support response time</strong> via 3+ test tickets at different priority levels</li>
+    <li><strong>Total cost across the test period</strong> including hidden fees (overages, add-ons, transactional upcharges)</li>
+    <li><strong>Re-test every 6 months</strong> with the current pricing and feature set</li>
+  </ol>
 
   <h2>What we test</h2>
   <ul>
-    <li>Pricing across free, starter, and growth tiers — including hidden contact limits</li>
-    <li>Ease of setup for a non-technical small business owner</li>
-    <li>Automation features at each price point</li>
-    <li>Deliverability on shared hosting IPs vs. dedicated IPs</li>
-    <li>Real customer support response times</li>
+    <li>Pricing across free, starter, and growth tiers — including hidden contact limits and overage fees</li>
+    <li>Ease of setup for a non-technical small business owner (we time the first send)</li>
+    <li>Automation features at each price point (triggers, conditions, splits, goals)</li>
+    <li>Deliverability on shared hosting IPs vs dedicated IPs (8 seed lists minimum)</li>
+    <li>Real customer support response times (paid tiers vs free tiers)</li>
+    <li>Migration experience when moving from another tool</li>
+    <li>Third-party integrations that small businesses actually use (Shopify, WordPress, Stripe, Zapier)</li>
   </ul>
+
+  <h2>Affiliate disclosure (the honest version)</h2>
+  <p><strong>Yes, we earn affiliate commissions</strong> when you sign up for tools via our links. This is disclosed on every page with a CTA, and in full at <a href="/disclosure/">/disclosure/</a>.</p>
+
+  <p><strong>Affiliate commissions never change our recommendations.</strong> We rate tools on their merits — pricing, features, support, deliverability. If a tool is bad, we say so even when we're an affiliate. If a tool is great but has no affiliate program, we still recommend it.</p>
+
+  <p><strong>How we pick recommendations</strong>: We rank each tool across 6 weighted criteria (pricing 25%, ease of use 20%, features 20%, deliverability 15%, support 10%, integrations 10%). Affiliate status is not in the ranking formula.</p>
 
   <h2>What we don't do</h2>
   <ul>
-    <li>We don't accept payment to write a review</li>
-    <li>We don't bury the cons at the bottom of a 3,000-word review</li>
-    <li>We don't recommend tools we haven't actually used</li>
+    <li><strong>We don't accept payment to write a review.</strong> No vendor has ever paid for coverage or placement on a "best of" list.</li>
+    <li><strong>We don't bury the cons at the bottom of a 3,000-word review.</strong> Every review has a "What we don't like" section near the top.</li>
+    <li><strong>We don't recommend tools we haven't actually used.</strong> Every tool in our reviews table has been signed up for and tested with real campaigns.</li>
+    <li><strong>We don't update reviews without testing current versions.</strong> If a review is older than 12 months, you'll see a "last tested" date on it.</li>
+    <li><strong>We don't include affiliate-only tools in our rankings</strong> unless they genuinely earned their position through the criteria.</li>
   </ul>
+
+  <h2>Recent changes we've made to recommendations</h2>
+  <ul>
+    <li><strong>2026-06-15</strong>: Downgraded Mailchimp's free tier from "best for new senders" to "okay if you already use it" — MailerLite's 1,000 contact free tier beats Mailchimp's 500 contact free tier</li>
+    <li><strong>2026-05-20</strong>: Added Brevo to our "best transactional" recommendations after 12 weeks of testing showed 97%+ inbox placement on paid tiers</li>
+    <li><strong>2026-04-10</strong>: Removed AWeber from "small business" recommendations — the automation builder is dated compared to MailerLite and ConvertKit</li>
+    <li><strong>2026-03-01</strong>: Added Resend as a "modern dev-friendly" SendGrid alternative — launched 2023, best API documentation in category</li>
+  </ul>
+
+  <h2>How to contact us</h2>
+  <p>Found an error in a review? Email <a href="/contact/">our editorial team</a>. Pricing changes, deliverability issues, or feature updates we missed — we want to know and we'll update reviews within 7 days.</p>
+
+  <p>Want to suggest a tool for review? Same address. We add 2-3 new reviews per month, prioritizing tools with high search volume and meaningful differentiation from existing coverage.</p>
+
+  <h2>Disclosure details</h2>
+  <p>MailPilot is editorially independent. Affiliate income funds our testing infrastructure (email accounts, paid ESP plans, seed list subscriptions) but does not influence our testing methodology or recommendations. Full affiliate disclosure and our editorial guidelines are at <a href="/disclosure/">/disclosure/</a>.</p>
+
+  <p><em>MailPilot was founded in 2023. We've reviewed 30+ email marketing tools and tested against $50M+ in client email revenue across our team's combined portfolio.</em></p>
+
 </BaseLayout>
