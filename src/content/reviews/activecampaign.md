@@ -88,6 +88,14 @@ On the Professional plan ($89/mo), ActiveCampaign adds:
 
 These features make ActiveCampaign a viable alternative to dedicated sales engagement tools like Outreach or SalesLoft for small B2B teams.
 
+<div style="background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%); border: 1px solid #6ee7b7; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: #065f46; font-size: 1.05rem;">Ready to try ActiveCampaign?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">14-day free trial. No credit card required. Best for B2B and complex automations.</div>
+  </div>
+  <a href="https://www.activecampaign.com/?via=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try ActiveCampaign →</a>
+</div>
+
 ## What ActiveCampaign doesn't do well
 
 ### Pricing for simple use cases

@@ -66,6 +66,14 @@ Mailchimp's strongest hand. Heatmaps, click maps, revenue attribution, benchmark
 ### Integrations and bundled tools
 300+ native integrations — Shopify, WooCommerce, Salesforce, Zapier, Canva, Instagram, TikTok. No competitor matches this ecosystem. Beyond email, Mailchimp includes social posting, postcards, landing pages, basic CRM, brand kits, and a content studio — replacing three or four other SaaS subscriptions.
 
+<div style="background: linear-gradient(135deg, #fdf4ff 0%, #fae8ff 100%); border: 1px solid #d8b4fe; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: #6b21a8; font-size: 1.05rem;">Ready to try Mailchimp?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free plan: 500 contacts, 2,500 emails/mo. No credit card required.</div>
+  </div>
+  <a href="https://mailchimp.com/?ref=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Mailchimp free →</a>
+</div>
+
 ## What Mailchimp doesn't do well
 
 ### Free tier

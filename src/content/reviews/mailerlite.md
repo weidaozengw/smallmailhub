@@ -65,6 +65,14 @@ Every paid plan includes unlimited landing pages and embedded forms. Mailchimp c
 ### Deliverability
 Across 50+ test campaigns, MailerLite's deliverability was on par with Mailchimp — both averaging 96-99% inbox placement on shared IPs. Dedicated IP is available on the highest tier for an extra $80/mo.
 
+<div style="background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%); border: 1px solid #93c5fd; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: #1e40af; font-size: 1.05rem;">Ready to try MailerLite?</strong>
+    <div style="color: #475569; font-size: 0.92rem; margin-top: 4px;">Free plan: 1,000 subscribers, 12,000 emails/mo. No credit card required.</div>
+  </div>
+  <a href="https://www.mailerlite.com/?via=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try MailerLite free →</a>
+</div>
+
 ## What MailerLite doesn't do well
 
 ### Reporting

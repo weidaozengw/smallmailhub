@@ -81,6 +81,14 @@ Kit has one of the best deliverability reputations in the industry. Across 50+ t
 
 For creators where email is the primary channel, this matters. A 2% deliverability improvement is 2,000 more subscribers seeing your emails per 100K sent.
 
+<div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); border: 1px solid #fcd34d; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: #92400e; font-size: 1.05rem;">Ready to try Kit?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free plan: 1,000 subscribers, unlimited emails. Built for creators.</div>
+  </div>
+  <a href="https://kit.com/?via=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Kit free →</a>
+</div>
+
 ## What Kit doesn't do well
 
 ### Pricing for simple use cases
