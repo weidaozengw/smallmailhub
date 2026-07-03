@@ -1,0 +1,251 @@
+---
+interface Props {
+  productName: string;
+  affiliateUrl: string;
+  rating?: number;
+  pricing?: string;
+  bestFor?: string;
+  /** Style of CTA: 'top' (compact, in header area), 'inline' (mid-article), 'footer' (large, end of article) */
+  variant?: 'top' | 'inline' | 'footer';
+  /** Tracking source — appended as UTM */
+  source?: string;
+}
+
+const { productName, affiliateUrl, rating, pricing, bestFor, variant = 'footer', source = 'review' } = Astro.props;
+
+// Append UTM params for analytics
+function withUtm(url: string): string {
+  try {
+    const u = new URL(url);
+    u.searchParams.set('utm_source', 'smallmailhub');
+    u.searchParams.set('utm_medium', 'review');
+    u.searchParams.set('utm_campaign', source);
+    return u.toString();
+  } catch {
+    return url;
+  }
+}
+
+const trackedUrl = affiliateUrl ? withUtm(affiliateUrl) : '';
+const isPlaceholder = affiliateUrl?.includes('?via=mailpilot') || !affiliateUrl;
+---
+
+{variant === 'top' && trackedUrl && (
+  <div class="cta-top">
+    <div class="cta-top-header">
+      <div class="cta-top-info">
+        <div class="cta-top-label">Quick verdict</div>
+        {rating && <div class="cta-top-rating"><span class="rating-num">{rating}</span><span class="rating-max">/5</span></div>}
+      </div>
+      <a href={trackedUrl} class="cta-btn cta-btn-primary" rel="sponsored noopener" target="_blank">
+        Try {productName} free →
+      </a>
+    </div>
+    {bestFor && <p class="cta-top-desc"><strong>Best for:</strong> {bestFor}</p>}
+    {pricing && <p class="cta-top-desc cta-top-pricing"><strong>Pricing:</strong> {pricing}</p>}
+    {isPlaceholder && <p class="cta-disclosure">Disclosure: We may earn a commission if you sign up via this link. <a href="/disclosure/">Learn more</a>.</p>}
+  </div>
+)}
+
+{variant === 'inline' && trackedUrl && (
+  <div class="cta-inline">
+    <div class="cta-inline-text">
+      <strong>Ready to try {productName}?</strong>
+      <span>Get started with their free tier or trial.</span>
+    </div>
+    <a href={trackedUrl} class="cta-btn cta-btn-secondary" rel="sponsored noopener" target="_blank">
+      Try {productName} free →
+    </a>
+  </div>
+)}
+
+{variant === 'footer' && trackedUrl && (
+  <div class="cta-footer">
+    <h3>Get started with {productName}</h3>
+    {bestFor && <p class="cta-footer-desc">{bestFor}</p>}
+    {pricing && <p class="cta-footer-pricing"><strong>Pricing:</strong> {pricing}</p>}
+    <a href={trackedUrl} class="cta-btn cta-btn-primary cta-btn-large" rel="sponsored noopener" target="_blank">
+      Try {productName} free →
+    </a>
+    {isPlaceholder && <p class="cta-disclosure">Disclosure: We may earn a commission if you sign up via this link. <a href="/disclosure/">Learn more</a>. Affiliate links tracked via UTM for analytics.</p>}
+  </div>
+)}
+
+<style>
+  /* TOP variant — verdict card style, sits above body */
+  .cta-top {
+    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+    border: 1px solid #bae6fd;
+    border-radius: 8px;
+    padding: 18px 22px;
+    margin: 0 0 28px;
+  }
+  .cta-top-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 12px;
+  }
+  .cta-top-info {
+    display: flex;
+    flex-direction: column;
+  }
+  .cta-top-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #0369a1;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+  .cta-top-rating {
+    display: flex;
+    align-items: baseline;
+    gap: 2px;
+  }
+  .rating-num {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0c4a6e;
+    line-height: 1;
+  }
+  .rating-max {
+    font-size: 1rem;
+    color: #075985;
+    font-weight: 500;
+  }
+  .cta-top-desc {
+    margin: 6px 0 0;
+    font-size: 0.95rem;
+    color: #0c4a6e;
+    line-height: 1.5;
+  }
+  .cta-top-pricing {
+    color: #475569;
+  }
+
+  /* INLINE variant — compact, mid-article */
+  .cta-inline {
+    background: #f8fafc;
+    border-left: 4px solid var(--c-accent);
+    padding: 16px 20px;
+    margin: 28px 0;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .cta-inline-text {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .cta-inline-text strong {
+    color: var(--c-text);
+    font-size: 1.05rem;
+  }
+  .cta-inline-text span {
+    color: var(--c-muted);
+    font-size: 0.9rem;
+  }
+
+  /* FOOTER variant — large card, end of article */
+  .cta-footer {
+    background: linear-gradient(135deg, #1e40af 0%, #2563eb 100%);
+    color: white;
+    padding: 28px 32px;
+    margin: 40px 0 32px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
+  }
+  .cta-footer h3 {
+    color: white;
+    margin: 0 0 8px;
+    font-size: 1.5rem;
+  }
+  .cta-footer-desc {
+    color: rgba(255, 255, 255, 0.92);
+    font-size: 0.95rem;
+    margin: 0 0 12px;
+    max-width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+  }
+  .cta-footer-pricing {
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 0.9rem;
+    margin: 0 0 20px;
+  }
+  .cta-footer-pricing strong {
+    color: white;
+  }
+
+  /* Shared button styles */
+  .cta-btn {
+    display: inline-block;
+    padding: 12px 22px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.15s ease;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .cta-btn-primary {
+    background: white;
+    color: #1e40af;
+  }
+  .cta-btn-primary:hover {
+    background: #f1f5f9;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  }
+  .cta-btn-secondary {
+    background: var(--c-accent);
+    color: white;
+  }
+  .cta-btn-secondary:hover {
+    background: #1d4ed8;
+  }
+  .cta-btn-large {
+    padding: 14px 28px;
+    font-size: 1.05rem;
+  }
+
+  /* Disclosure */
+  .cta-disclosure {
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.75);
+    margin: 14px 0 0;
+    line-height: 1.5;
+  }
+  .cta-top .cta-disclosure {
+    color: #475569;
+    margin-top: 8px;
+  }
+  .cta-disclosure a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 640px) {
+    .cta-top-header,
+    .cta-inline {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .cta-btn {
+      text-align: center;
+    }
+    .cta-footer {
+      padding: 22px 20px;
+    }
+  }
+</style>
