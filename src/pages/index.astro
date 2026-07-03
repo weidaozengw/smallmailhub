@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
 
 const title = 'MailPilot — Honest Email Marketing Tool Reviews for Small Businesses';
 const description = 'Independent reviews and side-by-side comparisons of email marketing platforms built for small businesses, solopreneurs, and creators. Real pros, real cons, no fluff.';
@@ -60,6 +61,8 @@ function withUtm(url: string, source: string): string {
   <p style="background:#eff6ff;border-left:4px solid #2563eb;padding:14px 18px;border-radius:4px;margin:20px 0;">
     <strong>21 reviews + 8 alternatives + 3 best-of lists</strong> covering MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot, Omnisend, and more. Every review covers pricing, pros &amp; cons, and who it's actually for.
   </p>
+
+  <NewsletterSignup variant="hero" />
 
   <h2>Featured tools</h2>
   <p style="color:#555;font-size:0.95rem;margin-bottom:14px;">Our top picks based on testing across 14+ platforms and 6+ months of hands-on use.</p>

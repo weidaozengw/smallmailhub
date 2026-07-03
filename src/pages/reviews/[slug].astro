@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import RelatedContent from '../../components/RelatedContent.astro';
 import ReviewCTA from '../../components/ReviewCTA.astro';
+import NewsletterSignup from '../../components/NewsletterSignup.astro';
 
 export async function getStaticPaths() {
   const reviews = await getCollection('reviews');
@@ -60,6 +61,8 @@ const isComparison = !!review.slug.match(/vs|-vs-/);
       source="footer-card"
     />
   )}
+
+  <NewsletterSignup variant="inline" />
 
   <RelatedContent
     currentSlug={review.slug}

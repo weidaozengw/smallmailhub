@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import RelatedContent from '../../components/RelatedContent.astro';
 import ReviewCTA from '../../components/ReviewCTA.astro';
+import NewsletterSignup from '../../components/NewsletterSignup.astro';
 
 export async function getStaticPaths() {
   const lists = await getCollection('lists');
@@ -53,6 +54,8 @@ const topPick = items?.[0]?.split(' — ')[0]?.trim();
       source="bestof-footer"
     />
   )}
+
+  <NewsletterSignup variant="inline" />
 
   <RelatedContent
     currentSlug={list.slug}

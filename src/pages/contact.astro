@@ -1,26 +1,23 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'Contact MailPilot';
+const description = 'Get in touch with the MailPilot team — for review suggestions, partnerships, or corrections.';
 ---
 
-<BaseLayout
-  title="Contact MailPilot"
-  description="Get in touch with the MailPilot team."
->
+<BaseLayout title={title} description={description}>
   <h1>Contact</h1>
-  <p>Have a tool we should review? Found a mistake? Want to pitch a guest post?</p>
-  <p>Email us at <a href="mailto:hello@smallmailhub.com">hello@smallmailhub.com</a>.</p>
+  <p class="meta">Most questions answered below</p>
 
-  <h2>What we respond to</h2>
-  <ul>
-    <li>Corrections to existing reviews (we fix and credit you)</li>
-    <li>Suggestions for tools we haven't covered</li>
-    <li>Partnership inquiries from affiliate managers</li>
-  </ul>
+  <h2>For correction requests</h2>
+  <p>Spot a pricing error or outdated feature in one of our reviews? Email us at <strong>hello@smallmailhub.com</strong> with the URL and the correct information. We verify and update within 48 hours.</p>
 
-  <h2>What we don't respond to</h2>
-  <ul>
-    <li>Sponsored review pitches (we don't do them)</li>
-    <li>Link exchange requests</li>
-    <li>SEO service sales</li>
-  </ul>
+  <h2>For partnership / advertising inquiries</h2>
+  <p>We do not accept payment for reviews. If you're an email marketing vendor and would like us to test an update to your platform, email <strong>partnerships@smallmailhub.com</strong> with details.</p>
+
+  <h2>For everything else</h2>
+  <p>Reader questions, content suggestions, "which tool should I pick" — email <strong>hello@smallmailhub.com</strong>. We try to reply within a week.</p>
+
+  <h2>Press kit</h2>
+  <p>Logos, screenshots, and our editorial guidelines are available on request. Email <strong>press@smallmailhub.com</strong>.</p>
 </BaseLayout>
