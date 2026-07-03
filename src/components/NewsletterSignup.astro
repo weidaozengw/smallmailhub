@@ -44,8 +44,9 @@ const finalIncentive = incentive ?? copy.incentive;
   </div>
   <form
     class="newsletter-form"
-    action="/api/newsletter"
+    action="mailto:hello@smallmailhub.com"
     method="POST"
+    enctype="text/plain"
     data-cf-form
   >
     <label for={`newsletter-email-${variant}`} class="sr-only">Email address</label>
@@ -58,10 +59,12 @@ const finalIncentive = incentive ?? copy.incentive;
       autocomplete="email"
       class="newsletter-input"
     />
+    <input type="hidden" name="source" value={`smallmailhub-${variant}`} />
     <button type="submit" class="newsletter-button">
       {variant === 'hero' ? 'Subscribe free' : 'Subscribe'}
     </button>
   </form>
+  <p class="newsletter-help">Opens your mail client — one-click send, no signup forms.</p>
   <p class="newsletter-incentive">{finalIncentive}</p>
 </div>
 
