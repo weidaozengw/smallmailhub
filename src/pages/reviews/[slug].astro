@@ -24,6 +24,49 @@ const isComparison = !!review.slug.match(/vs|-vs-/);
 ---
 
 <BaseLayout title={title} description={description}>
+
+  {/* Schema.org structured data for rich snippets in Google search */}
+  {!isComparison && rating && productName && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Review',
+      name: title,
+      reviewBody: description,
+      datePublished: formattedPub,
+      dateModified: formattedUpd || formattedPub,
+      author: { '@type': 'Organization', name: 'MailPilot', url: 'https://smallmailhub.com' },
+      publisher: { '@type': 'Organization', name: 'MailPilot', url: 'https://smallmailhub.com' },
+      itemReviewed: {
+        '@type': 'SoftwareApplication',
+        name: productName,
+        applicationCategory: 'BusinessApplication',
+        operatingSystem: 'Web',
+        offers: pricing ? { '@type': 'Offer', description: pricing, url: affiliateUrl } : undefined,
+      },
+      reviewRating: {
+        '@type': 'Rating',
+        ratingValue: rating,
+        bestRating: 5,
+        worstRating: 1,
+      },
+      url: new URL(Astro.url.pathname, Astro.site).toString(),
+    })} />
+  )}
+
+  {isComparison && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: title,
+      description: description,
+      datePublished: formattedPub,
+      dateModified: formattedUpd || formattedPub,
+      author: { '@type': 'Organization', name: 'MailPilot', url: 'https://smallmailhub.com' },
+      publisher: { '@type': 'Organization', name: 'MailPilot', url: 'https://smallmailhub.com' },
+      url: new URL(Astro.url.pathname, Astro.site).toString(),
+    })} />
+  )}
+
   <h1>{title}</h1>
   <p class="meta">Published {formattedPub}{formattedUpd && ` · Updated ${formattedUpd}`}</p>
 

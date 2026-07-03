@@ -23,6 +23,19 @@ const topPick = alternatives?.[0];
 ---
 
 <BaseLayout title={title} description={description}>
+
+  {/* Schema.org Article structured data */}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: title,
+    description: description,
+    datePublished: formattedPub,
+    author: { '@type': 'Organization', name: 'MailPilot', url: 'https://smallmailhub.com' },
+    publisher: { '@type': 'Organization', name: 'MailPilot', url: 'https://smallmailhub.com' },
+    url: new URL(Astro.url.pathname, Astro.site).toString(),
+  })} />
+
   <h1>{title}</h1>
   <p class="meta">Published {formattedPub}</p>
 

@@ -23,6 +23,32 @@ const topPick = items?.[0]?.split(' — ')[0]?.trim();
 ---
 
 <BaseLayout title={title} description={description}>
+
+  {/* Schema.org Article structured data */}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: title,
+    description: description,
+    datePublished: formattedPub,
+    author: { '@type': 'Organization', name: 'MailPilot', url: 'https://smallmailhub.com' },
+    publisher: { '@type': 'Organization', name: 'MailPilot', url: 'https://smallmailhub.com' },
+    url: new URL(Astro.url.pathname, Astro.site).toString(),
+  })} />
+
+  {/* ItemList for the ranked tools */}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: title,
+    description: description,
+    itemListElement: items?.map((item, idx) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      name: item,
+    })),
+  })} />
+
   <h1>{title}</h1>
   <p class="meta">Published {formattedPub}</p>
 
