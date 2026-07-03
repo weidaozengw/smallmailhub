@@ -157,6 +157,15 @@ Moosend's reporting covers the basics:
 
 **For everyone else:** Moosend's reporting is enough.
 
+<div style="background: linear-gradient(135deg, #fae8ff 0%, #d8b4fe 100%); border: 1px solid #d8b4fe; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: 6b21a8; font-size: 1.05rem;">Ready to try Moosend?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free plan: 1,000 subscribers, unlimited emails. 30% recurring commission when you upgrade.</div>
+  </div>
+  <a href="https://www.moosend.com/?via=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Moosend →</a>
+</div>
+
+
 ## Deliverability
 
 We sent 60+ test campaigns from Moosend's shared IP infrastructure. Results:

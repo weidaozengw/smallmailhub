@@ -149,6 +149,15 @@ If your tech stack relies on deep integrations, Constant Contact will feel limit
 
 **vs Brevo** ([read our full Brevo review](/reviews/brevo)): Brevo is cheaper and bundles SMS + transactional email. Constant Contact has better support and nonprofit features. Brevo wins on price and feature breadth. Constant Contact wins on support and nonprofit.
 
+<div style="background: linear-gradient(135deg, #fee2e2 0%, #fca5a5 100%); border: 1px solid #fca5a5; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: 991b1b; font-size: 1.05rem;">Ready to try Constant Contact?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">14-day free trial, no credit card. Phone, chat, and email support included.</div>
+  </div>
+  <a href="https://www.constantcontact.com/affiliates&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Constant Contact →</a>
+</div>
+
+
 ## Pricing details and considerations
 
 Constant Contact offers a 14-day free trial (no credit card required). After the trial:

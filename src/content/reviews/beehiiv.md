@@ -187,6 +187,15 @@ Beehiiv's **Boosts** program is a unique referral mechanic:
 
 **For free newsletters:** Both platforms have basic referral programs. The advantage is minimal.
 
+<div style="background: linear-gradient(135deg, #fce7f3 0%, #f9a8d4 100%); border: 1px solid #f9a8d4; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: 9d174d; font-size: 1.05rem;">Ready to try Beehiiv?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free plan: up to 2,500 subscribers. Built for newsletters & podcasts.</div>
+  </div>
+  <a href="https://www.beehiiv.com/?via=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Beehiiv →</a>
+</div>
+
+
 ## Analytics
 
 Beehiiv's analytics are more detailed than Substack's:

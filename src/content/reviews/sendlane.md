@@ -167,6 +167,15 @@ We sent 60+ test campaigns from Sendlane. Results:
 
 Sendlane uses reputable sending infrastructure and authentication. For 95%+ of stores, deliverability is not a concern.
 
+<div style="background: linear-gradient(135deg, #fee2e2 0%, #fca5a5 100%); border: 1px solid #fca5a5; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: 991b1b; font-size: 1.05rem;">Ready to try Sendlane?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">14-day free trial. Built for ecommerce with behavioral automations.</div>
+  </div>
+  <a href="https://www.sendlane.com/?via=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Sendlane →</a>
+</div>
+
+
 ## Integrations
 
 Sendlane has 80+ integrations:

@@ -100,6 +100,15 @@ MAX includes:
 
 The web push notifications are unique — no other email tool in this category offers them. If your audience is browser-heavy (B2B, SaaS), this can be a meaningful additional channel.
 
+<div style="background: linear-gradient(135deg, #d1fae5 0%, #6ee7b7 100%); border: 1px solid #6ee7b7; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: 065f46; font-size: 1.05rem;">Ready to try GetResponse?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free plan: 500 contacts, unlimited newsletters. 33% affiliate commission means we earn when you sign up — at no cost to you.</div>
+  </div>
+  <a href="https://www.getresponse.com/?via=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try GetResponse →</a>
+</div>
+
+
 ## What GetResponse doesn't do well
 
 ### Interface complexity

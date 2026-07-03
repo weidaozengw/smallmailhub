@@ -76,6 +76,15 @@ Klaviyo ships with pre-built e-commerce flows you can enable in one click: aband
 
 Most email tools treat SMS as an expensive add-on. Klaviyo treats it as a first-class channel. You can build automation workflows that send an email, wait 2 hours, then send an SMS if the email wasn't opened. Cross-channel attribution is built in. For DTC brands, this is the main reason to choose Klaviyo over Mailchimp or Brevo — Brevo also bundles SMS, but Klaviyo's SMS automation is more tightly integrated with the e-commerce data layer.
 
+<div style="background: linear-gradient(135deg, #dbeafe 0%, #93c5fd 100%); border: 1px solid #93c5fd; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: 1e40af; font-size: 1.05rem;">Ready to try Klaviyo?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free for up to 250 contacts. Built for ecommerce with deep Shopify integration.</div>
+  </div>
+  <a href="https://www.klaviyo.com/?ref=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Klaviyo →</a>
+</div>
+
+
 ## What Klaviyo doesn't do well
 
 ### Cost for non-e-commerce businesses

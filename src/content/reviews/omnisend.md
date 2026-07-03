@@ -179,6 +179,15 @@ If your business model isn't pure ecommerce, Omnisend will feel limiting:
 
 Omnisend is purposefully focused. This is good if you're an ecommerce store. It's limiting if you have a mixed business model.
 
+<div style="background: linear-gradient(135deg, #d1fae5 0%, #6ee7b7 100%); border: 1px solid #6ee7b7; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: 065f46; font-size: 1.05rem;">Ready to try Omnisend?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free 500 emails/mo. Built for ecommerce — product blocks, cart recovery, SMS bundles.</div>
+  </div>
+  <a href="https://www.omnisend.com/affiliates&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Omnisend →</a>
+</div>
+
+
 ## How Omnisend compares
 
 **vs Klaviyo** ([read our full Klaviyo review](/reviews/klaviyo)): Klaviyo has deeper data segmentation and slightly better deliverability, but is significantly more expensive at higher contact counts ($75-250/mo vs Omnisend's $59-199/mo). Klaviyo wins on data depth. Omnisend wins on ease of use and price.

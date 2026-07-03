@@ -152,6 +152,15 @@ Mailjet's automation features are basic:
 
 **For most marketing automations:** Mailjet is sufficient. For sophisticated multi-branch workflows, Mailchimp or ActiveCampaign is better.
 
+<div style="background: linear-gradient(135deg, #e0e7ff 0%, #a5b4fc 100%); border: 1px solid #a5b4fc; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: 3730a3; font-size: 1.05rem;">Ready to try Mailjet?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free 6,000 emails/month OR 200 contacts — whichever you need first. No credit card.</div>
+  </div>
+  <a href="https://www.mailjet.com/?via=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Mailjet →</a>
+</div>
+
+
 ## Pricing breakdown
 
 Mailjet's pricing is volume-based (per email sent), which differs from contact-based pricing:

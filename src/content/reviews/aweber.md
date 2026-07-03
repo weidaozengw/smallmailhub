@@ -69,6 +69,15 @@ The automation builder is where AWeber shows its age. Linear — triggers, actio
 
 Paid plans include landing pages, but the template library is small and most designs feel dated. AWeber is also one of the few email tools still offering 24/7 phone support on paid plans — real human on the phone in under 5 minutes on two test calls, a meaningful advantage over MailerLite (email-only) and Mailchimp (chat-only).
 
+<div style="background: linear-gradient(135deg, #fef3c7 0%, #fcd34d 100%); border: 1px solid #fcd34d; border-radius: 8px; padding: 20px 24px; margin: 28px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <strong style="color: 92400e; font-size: 1.05rem;">Ready to try AWeber?</strong>
+    <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">30-day free trial. 500 emails/mo free.</div>
+  </div>
+  <a href="https://www.aweber.com/?id=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Aweber →</a>
+</div>
+
+
 ## What AWeber doesn't do well
 
 ### Interface and templates
