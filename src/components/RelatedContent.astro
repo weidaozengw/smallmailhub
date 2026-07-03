@@ -9,20 +9,22 @@ interface Props {
 
 const { currentSlug, currentCollection, mentionedProducts = [] } = Astro.props;
 
-// Map product mentions to review slugs
-const productToReview: Record<string, string> = {
+// Map product mentions to review slugs (filled in all 8 reviews now)
+const productToReview: Record<string, string | null> = {
   'MailerLite': 'mailerlite',
   'Brevo': 'brevo',
   'Brevo (formerly Sendinblue)': 'brevo',
+  'Sendinblue': 'brevo',
   'ActiveCampaign': 'activecampaign',
   'Kit': 'kit',
   'Kit (formerly ConvertKit)': 'kit',
   'ConvertKit (Kit)': 'kit',
-  'Mailchimp': null, // no review yet
-  'GetResponse': null,
-  'AWeber': null,
-  'Beehiiv': null,
-  'Klaviyo': null,
+  'ConvertKit': 'kit',
+  'Mailchimp': 'mailchimp',
+  'GetResponse': 'getresponse',
+  'AWeber': 'aweber',
+  'Klaviyo': 'klaviyo',
+  'Beehiiv': null, // no review yet
   'Sendlane': null,
   'Moosend': null,
   'Mailjet': null,
