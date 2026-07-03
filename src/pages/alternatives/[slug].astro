@@ -20,9 +20,18 @@ const formattedPub = pubDate.toISOString().slice(0, 10);
 
 // 主角 = 第一个 alternative（通常是 top pick）
 const topPick = alternatives?.[0];
+
+// OG image mapping for known alternatives pages
+const altOgMap: Record<string, string> = {
+  'convertkit-alternatives': 'convertkitalts',
+  'mailchimp-alternatives': 'mailchimpalts',
+  'mailchimp-alternatives-free': 'mailchimpalts',
+  'mailchimp-alternatives-for-small-business': 'mailchimpalts',
+};
+const ogImageSlug = altOgMap[alt.slug] ?? 'default';
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} ogImage={ogImageSlug}>
 
   {/* Schema.org Article structured data */}
   <script type="application/ld+json" set:html={JSON.stringify({

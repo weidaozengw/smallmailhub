@@ -20,9 +20,17 @@ const formattedPub = pubDate.toISOString().slice(0, 10);
 
 // Top pick = 第一个 item（去掉 dash 前的内容）
 const topPick = items?.[0]?.split(' — ')[0]?.trim();
+
+// OG image mapping for known best-of pages
+const bestOfOgMap: Record<string, string> = {
+  'best-email-marketing-tools-for-ecommerce': 'ecommerce',
+  'best-email-marketing-tools-for-small-business': 'smallbusiness',
+  'best-email-marketing-tools-for-saas': 'saas',
+};
+const ogImageSlug = bestOfOgMap[list.slug] ?? 'default';
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} ogImage={ogImageSlug}>
 
   {/* Schema.org Article structured data */}
   <script type="application/ld+json" set:html={JSON.stringify({

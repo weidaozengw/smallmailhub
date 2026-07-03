@@ -22,8 +22,11 @@ const formattedUpd = updatedDate?.toISOString().slice(0, 10);
 // Skip top CTA for comparison/review vs review pages (no single product)
 const isComparison = !!review.slug.match(/vs|-vs-/);
 
-// Map productName → PNG file slug (lowercase, no spaces)
-const ogImageSlug = productName ? productName.toLowerCase().replace(/[^a-z0-9]/g, '') : 'default';
+// Map productName → PNG file slug (lowercase, no spaces). Falls back to 'default' if PNG doesn't exist.
+const possibleSlug = productName ? productName.toLowerCase().replace(/[^a-z0-9]/g, '') : null;
+// List of PNGs that exist in /public/og/ — used to gracefully fall back
+const knownOgSlugs = ['mailerlite', 'convertkit', 'brevo', 'mailchimp', 'activecampaign', 'hubspot', 'klaviyo', 'sendgrid', 'aweber', 'beehiiv', 'constantcontact', 'getresponse', 'kit', 'mailjet', 'moosend', 'omnisend', 'sendlane', 'mailchimpvsmailerlite', 'convertkitvsmailerlite', 'brevsvsmailchimp', 'moosendvsmailerlite', 'klaviyovs'];
+const ogImageSlug = possibleSlug && knownOgSlugs.includes(possibleSlug) ? possibleSlug : 'default';
 ---
 
 <BaseLayout title={title} description={description} ogImage={ogImageSlug}>
