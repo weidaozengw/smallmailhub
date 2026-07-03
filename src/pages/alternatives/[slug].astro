@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import RelatedContent from '../../components/RelatedContent.astro';
+
+export async function getStaticPaths() {
+  const alts = await getCollection('alternatives');
+  return alts.map((alt) => ({
+    params: { slug: alt.slug },
+    props: { alt },
+  }));
+}
+
+const { alt } = Astro.props;
+const { Content } = await alt.render();
+const { title, description, pubDate, replacedProduct, alternatives } = alt.data;
+const formattedPub = pubDate.toISOString().slice(0, 10);
+---
+
+<BaseLayout title={title} description={description}>
+  <h1>{title}</h1>
+  <p class="meta">Published {formattedPub}</p>
+
+  <Content />
+
+  <h2>Alternatives we cover</h2>
+  <ul>
+    {alternatives.map((a) => <li>{a}</li>)}
+  </ul>
+
+  <RelatedContent
+    currentSlug={alt.slug}
+    currentCollection="alternatives"
+    mentionedProducts={alternatives}
+  />
+
+  <p><a href="/alternatives/">← Back to all alternatives</a></p>
+</BaseLayout>

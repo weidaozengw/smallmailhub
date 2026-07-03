@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const reviews = (await getCollection('reviews', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
+);
+---
+
+<BaseLayout
+  title="Email Marketing Tool Reviews — MailPilot"
+  description="In-depth reviews of email marketing platforms tested against small business needs."
+>
+  <h1>Email Marketing Tool Reviews</h1>
+  <p class="meta">{reviews.length} reviews · Sorted by most recent</p>
+
+  <ul>
+    {reviews.map((r) => (
+      <li>
+        <a href={`/reviews/${r.slug}/`}>{r.data.title}</a>
+        {r.data.rating && <> · <strong>{r.data.rating}/5</strong></>}
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

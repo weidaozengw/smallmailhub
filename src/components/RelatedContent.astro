@@ -1,0 +1,134 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentSlug: string;
+  currentCollection: 'reviews' | 'alternatives' | 'lists';
+  mentionedProducts?: string[];
+}
+
+const { currentSlug, currentCollection, mentionedProducts = [] } = Astro.props;
+
+// Map product mentions to review slugs
+const productToReview: Record<string, string> = {
+  'MailerLite': 'mailerlite',
+  'Brevo': 'brevo',
+  'Brevo (formerly Sendinblue)': 'brevo',
+  'ActiveCampaign': 'activecampaign',
+  'Kit': 'kit',
+  'Kit (formerly ConvertKit)': 'kit',
+  'ConvertKit (Kit)': 'kit',
+  'Mailchimp': null, // no review yet
+  'GetResponse': null,
+  'AWeber': null,
+  'Beehiiv': null,
+  'Klaviyo': null,
+  'Sendlane': null,
+  'Moosend': null,
+  'Mailjet': null,
+};
+
+// Get all reviews and alternatives
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+const allAlternatives = await getCollection('alternatives', ({ data }) => !data.draft);
+const allLists = await getCollection('lists', ({ data }) => !data.draft);
+
+// Find mentioned reviews
+const mentionedReviewSlugs = new Set<string>();
+mentionedProducts.forEach((product) => {
+  const slug = productToReview[product];
+  if (slug) mentionedReviewSlugs.add(slug);
+});
+
+// Related reviews: based on mentioned products, fallback to all reviews
+const relatedReviews = allReviews
+  .filter((r) => r.slug !== currentSlug)
+  .filter((r) => mentionedReviewSlugs.has(r.slug) || mentionedReviewSlugs.size === 0)
+  .slice(0, 4);
+
+// Related alternatives: exclude current
+const relatedAlternatives = allAlternatives
+  .filter((a) => a.slug !== currentSlug)
+  .slice(0, 3);
+
+// Related lists
+const relatedLists = allLists
+  .filter((l) => l.slug !== currentSlug)
+  .slice(0, 2);
+---
+
+{(relatedReviews.length > 0 || relatedAlternatives.length > 0 || relatedLists.length > 0) && (
+  <aside class="related">
+    <h2>Keep reading</h2>
+
+    {relatedReviews.length > 0 && (
+      <section>
+        <h3>Tool reviews</h3>
+        <ul>
+          {relatedReviews.map((r) => (
+            <li>
+              <a href={`/reviews/${r.slug}/`}>{r.data.title}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {relatedAlternatives.length > 0 && (
+      <section>
+        <h3>Alternatives guides</h3>
+        <ul>
+          {relatedAlternatives.map((a) => (
+            <li>
+              <a href={`/alternatives/${a.slug}/`}>{a.data.title}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {relatedLists.length > 0 && currentCollection !== 'lists' && (
+      <section>
+        <h3>Best-of lists</h3>
+        <ul>
+          {relatedLists.map((l) => (
+            <li>
+              <a href={`/best/${l.slug}/`}>{l.data.title}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <style>
+      .related {
+        background: #f9fafb;
+        border: 1px solid var(--c-border);
+        border-radius: 8px;
+        padding: 24px 28px;
+        margin: 40px 0;
+      }
+      .related h2 {
+        margin-top: 0;
+        font-size: 1.25rem;
+      }
+      .related section {
+        margin: 16px 0;
+      }
+      .related h3 {
+        font-size: 0.95rem;
+        color: var(--c-muted);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin: 8px 0;
+      }
+      .related ul {
+        margin: 0;
+        padding-left: 20px;
+      }
+      .related li {
+        margin-bottom: 4px;
+      }
+    </style>
+  </aside>
+)}

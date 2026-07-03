@@ -1,0 +1,56 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import RelatedContent from '../../components/RelatedContent.astro';
+
+export async function getStaticPaths() {
+  const reviews = await getCollection('reviews');
+  return reviews.map((review) => ({
+    params: { slug: review.slug },
+    props: { review },
+  }));
+}
+
+const { review } = Astro.props;
+const { Content } = await review.render();
+const { title, description, pubDate, updatedDate, productName, rating, pros, cons, pricing, bestFor, affiliateUrl } = review.data;
+const formattedPub = pubDate.toISOString().slice(0, 10);
+const formattedUpd = updatedDate?.toISOString().slice(0, 10);
+---
+
+<BaseLayout title={title} description={description}>
+  <h1>{title}</h1>
+  <p class="meta">Published {formattedPub}{formattedUpd && ` · Updated ${formattedUpd}`}</p>
+
+  {rating && (
+    <div class="callout">
+      <strong>MailPilot rating: {rating}/5</strong>
+      {bestFor && <p><strong>Best for:</strong> {bestFor}</p>}
+      {pricing && <p><strong>Pricing:</strong> {pricing}</p>}
+    </div>
+  )}
+
+  <Content />
+
+  <h2>Quick pros and cons</h2>
+  <h3>What we like</h3>
+  <ul>
+    {pros.map((p) => <li>{p}</li>)}
+  </ul>
+  <h3>What we don't</h3>
+  <ul>
+    {cons.map((c) => <li>{c}</li>)}
+  </ul>
+
+  {affiliateUrl && (
+    <p><a href={affiliateUrl} class="cta" rel="sponsored noopener">Try {productName} free →</a></p>
+  )}
+
+  <RelatedContent
+    currentSlug={review.slug}
+    currentCollection="reviews"
+    mentionedProducts={[productName]}
+  />
+
+  <p><a href="/reviews/">← Back to all reviews</a></p>
+</BaseLayout>

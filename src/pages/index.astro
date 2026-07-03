@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'MailPilot — Honest Email Marketing Tool Reviews for Small Businesses';
+const description = 'Independent reviews and side-by-side comparisons of email marketing platforms built for small businesses, solopreneurs, and creators. Real pros, real cons, no fluff.';
+---
+
+<BaseLayout title={title} description={description}>
+  <h1>Find the right email marketing tool for your small business</h1>
+  <p class="meta">Updated: {new Date().toISOString().slice(0, 10)} · Last reviewed by the MailPilot team</p>
+
+  <p>You don't need the most expensive platform. You need the one that fits how you actually send emails. MailPilot tests and compares email marketing tools so small business owners can pick the right one without spending weeks researching.</p>
+
+  <h2>What you'll find here</h2>
+  <ul>
+    <li><a href="/best/best-email-marketing-tools-for-small-business/">Best email marketing tools for small business</a> — top picks for 2026</li>
+    <li><a href="/alternatives/mailchimp-alternatives-for-small-business/">Mailchimp alternatives for small business</a> — 7 platforms that beat Mailchimp on price or features</li>
+    <li><a href="/alternatives/convertkit-alternatives/">ConvertKit alternatives</a> — for creators who outgrew ConvertKit's pricing</li>
+    <li><a href="/alternatives/mailchimp-alternatives-free/">Free Mailchimp alternatives</a> — when the free tier actually matters</li>
+  </ul>
+
+  <h2>How we review</h2>
+  <p>Every review follows the same checklist:</p>
+  <ul>
+    <li>Who this tool is actually for (and who it's not for)</li>
+    <li>Real pricing breakdown, including the hidden limits on free and "starter" tiers</li>
+    <li>Honest pros and cons — if a tool is missing a feature, we say so</li>
+    <li>A direct comparison against the two or three closest competitors</li>
+  </ul>
+
+  <div class="callout">
+    <strong>Affiliate disclosure:</strong> Some links on this site are affiliate links. If you click one and sign up, we may earn a commission at no extra cost to you. This never changes our recommendations — we only recommend tools we'd use ourselves.
+  </div>
+</BaseLayout>
