@@ -1,7 +1,7 @@
 ---
 interface Props {
-  /** Variant: 'hero' (large, for homepage), 'inline' (mid-article), 'footer' (compact end-of-page) */
-  variant?: 'hero' | 'inline' | 'footer';
+  /** Variant: 'hero' (large, for homepage), 'inline' (mid-article), 'footer' (compact end-of-page), 'kit' (Kit embed iframe) */
+  variant?: 'hero' | 'inline' | 'footer' | 'kit';
   /** Optional headline override */
   headline?: string;
   /** Optional subheadline override */
@@ -12,12 +12,21 @@ interface Props {
 
 const { variant = 'inline', headline, subheadline, incentive } = Astro.props;
 
+// Kit form live URL - owned by smallmailhub (weidao-zeng.kit.com)
+const KIT_FORM_URL = 'https://weidao-zeng.kit.com/facb65d190';
+const KIT_LANDING_LABEL = 'Subscribe via our newsletter page';
+
 // Default copy per variant
-const defaults = {
+const defaults: Record<string, { headline: string; subheadline: string; incentive: string }> = {
   hero: {
     headline: 'Get our weekly email marketing tool picks',
     subheadline: 'One short email every Friday. New reviews, deals we found, and what\'s actually changed in the industry. No spam, unsubscribe anytime.',
     incentive: '📩 Join 0+ email marketers who read this every week',
+  },
+  kit: {
+    headline: 'Get our weekly email marketing tool picks',
+    subheadline: 'One short email every Friday. New reviews, deals we found, and what\'s actually changed in the industry. No spam, unsubscribe anytime.',
+    incentive: '📩 Powered by Kit — 1-click unsubscribe',
   },
   inline: {
     headline: 'Want more reviews like this?',
@@ -38,34 +47,59 @@ const finalIncentive = incentive ?? copy.incentive;
 ---
 
 <div class={`newsletter newsletter-${variant}`}>
-  <div class="newsletter-text">
-    <h3 class="newsletter-headline">{finalHeadline}</h3>
-    <p class="newsletter-subheadline">{finalSubheadline}</p>
-  </div>
-  <form
-    class="newsletter-form"
-    action="mailto:hello@smallmailhub.com"
-    method="POST"
-    enctype="text/plain"
-    data-cf-form
-  >
-    <label for={`newsletter-email-${variant}`} class="sr-only">Email address</label>
-    <input
-      type="email"
-      id={`newsletter-email-${variant}`}
-      name="email"
-      placeholder="your@email.com"
-      required
-      autocomplete="email"
-      class="newsletter-input"
-    />
-    <input type="hidden" name="source" value={`smallmailhub-${variant}`} />
-    <button type="submit" class="newsletter-button">
-      {variant === 'hero' ? 'Subscribe free' : 'Subscribe'}
-    </button>
-  </form>
-  <p class="newsletter-help">Opens your mail client — one-click send, no signup forms.</p>
-  <p class="newsletter-incentive">{finalIncentive}</p>
+  {variant === 'kit' && (
+    <>
+      <div class="newsletter-text">
+        <h3 class="newsletter-headline">{finalHeadline}</h3>
+        <p class="newsletter-subheadline">{finalSubheadline}</p>
+      </div>
+      <div class="newsletter-kit-embed">
+        <iframe
+          src={KIT_FORM_URL}
+          title="Subscribe to the MailPilot weekly newsletter"
+          loading="lazy"
+          class="newsletter-kit-iframe"
+          referrerpolicy="strict-origin-when-cross-origin"
+        ></iframe>
+        <p class="newsletter-help newsletter-kit-fallback">
+          Trouble loading? <a href={KIT_FORM_URL} target="_blank" rel="noopener">{KIT_LANDING_LABEL} ↗</a>
+        </p>
+      </div>
+      <p class="newsletter-incentive">{finalIncentive}</p>
+    </>
+  )}
+  {variant !== 'kit' && (
+    <>
+      <div class="newsletter-text">
+        <h3 class="newsletter-headline">{finalHeadline}</h3>
+        <p class="newsletter-subheadline">{finalSubheadline}</p>
+      </div>
+      <form
+        class="newsletter-form"
+        action="mailto:hello@smallmailhub.com"
+        method="POST"
+        enctype="text/plain"
+        data-cf-form
+      >
+        <label for={`newsletter-email-${variant}`} class="sr-only">Email address</label>
+        <input
+          type="email"
+          id={`newsletter-email-${variant}`}
+          name="email"
+          placeholder="your@email.com"
+          required
+          autocomplete="email"
+          class="newsletter-input"
+        />
+        <input type="hidden" name="source" value={`smallmailhub-${variant}`} />
+        <button type="submit" class="newsletter-button">
+          {variant === 'hero' ? 'Subscribe free' : 'Subscribe'}
+        </button>
+      </form>
+      <p class="newsletter-help">Opens your mail client — one-click send, no signup forms.</p>
+      <p class="newsletter-incentive">{finalIncentive}</p>
+    </>
+  )}
 </div>
 
 <style>
@@ -195,5 +229,28 @@ const finalIncentive = incentive ?? copy.incentive;
     .newsletter-button {
       width: 100%;
     }
+  }
+
+  /* Kit iframe embed */
+  .newsletter-kit-embed {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .newsletter-kit-iframe {
+    width: 100%;
+    min-height: 540px;
+    border: 0;
+    border-radius: 8px;
+    background: #fff;
+    display: block;
+  }
+  .newsletter-kit-fallback {
+    margin-top: 10px;
+    font-size: 0.85rem;
+    text-align: center;
+  }
+  .newsletter-kit-fallback a {
+    color: #2563eb;
+    text-decoration: underline;
   }
 </style>
