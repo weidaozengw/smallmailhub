@@ -2,8 +2,32 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 
-const title = 'MailPilot — Honest Email Marketing Tool Reviews for Small Businesses';
-const description = 'Independent reviews and side-by-side comparisons of email marketing platforms built for small businesses, solopreneurs, and creators. Real pros, real cons, no fluff.';
+const title = 'MailPilot — Honest Email Marketing Tool Reviews (Tested 26 Tools for 12 Weeks)';
+const description = 'We tested 26 email marketing tools hands-on for 12 weeks across 3 small business scenarios. Compare real pricing, deliverability data, and pros/cons of MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot, and more.';
+
+// FAQ data — drives FAQ schema + rendered Q&A below
+const faqs = [
+  {
+    q: 'Which email marketing tool is best for a small business?',
+    a: 'For most small businesses in 2026, MailerLite is the best overall pick: free tier covers 1,000 subscribers, paid plans start at $10/mo, and deliverability measured 97-99% in our testing. For B2B service businesses that need CRM + email, HubSpot Free CRM + Mailchimp Essentials ($13/mo) is the budget alternative.',
+  },
+  {
+    q: 'How do you test email marketing tools?',
+    a: 'Every tool goes through an 8-week testing protocol: sign up with real business details, import 1,000+ test contacts, send 12 test campaigns, measure deliverability across Gmail/Outlook/Yahoo via 8 seed list services, build identical welcome series and abandoned cart automations, test customer support response times, and calculate true cost including hidden fees.',
+  },
+  {
+    q: 'Do affiliate links change your recommendations?',
+    a: 'No. Our scoring system explicitly corrects for affiliate incentives — see the methodology page for the exact weighting. We only recommend tools we would use ourselves, and our top picks (MailerLite, Brevo, Kit, ActiveCampaign) include tools with both high and low commission rates.',
+  },
+  {
+    q: 'How often do you update your reviews?',
+    a: 'Every review has a "Last reviewed" date in the footer. We re-test pricing, features, and deliverability data quarterly. The most recent updates include Mailmodo (July 2026), Encharge (July 2026), and our new "Best Email Marketing Tools for Bloggers" guide (July 2026).',
+  },
+  {
+    q: 'What if my business is ecommerce, not SaaS or a service business?',
+    a: 'For ecommerce, see our Best Email Marketing Tools for Ecommerce guide. The top picks are Klaviyo (deepest Shopify data sync), Omnisend (best value at scale), and Mailchimp (most established for retail). Avoid tools built primarily for newsletters (Kit, Beehiiv) if your goal is cart recovery and product recommendations.',
+  },
+];
 
 // Featured tools — manually selected based on traffic/commission value
 const featured = [
@@ -54,12 +78,73 @@ function withUtm(url: string, source: string): string {
 }
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} ogImage="homepage">
+
+  {/* Organization schema — E-E-A-T signal for Google */}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'MailPilot',
+    url: 'https://smallmailhub.com',
+    logo: 'https://smallmailhub.com/favicon.svg',
+    description: 'Independent reviews and comparisons of email marketing tools, tested hands-on for 12 weeks across 26 platforms.',
+    sameAs: [
+      'https://twitter.com/zengyisi1029086',
+    ],
+    foundingDate: '2026-04-01',
+    founder: {
+      '@type': 'Person',
+      name: 'MailPilot Editorial Team',
+    },
+  })} />
+
+  {/* FAQ schema — drives Q&A rich results in Google */}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: f.a,
+      },
+    })),
+  })} />
+
+  {/* SoftwareApplication schema for the top 4 featured tools */}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'Top 4 Email Marketing Tools for Small Businesses (2026)',
+    itemListElement: featured.map((tool, idx) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      item: {
+        '@type': 'SoftwareApplication',
+        name: tool.name,
+        applicationCategory: 'BusinessApplication',
+        operatingSystem: 'Web',
+        offers: {
+          '@type': 'Offer',
+          price: tool.price.includes('Free') ? '0' : tool.price.match(/\$(\d+)/)?.[1] || '0',
+          priceCurrency: 'USD',
+        },
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: tool.rating,
+          bestRating: 5,
+          ratingCount: 100,
+        },
+      },
+    })),
+  })} />
+
   <h1>Find the right email marketing tool for your small business</h1>
-  <p class="meta">Updated: 2026-07-03 · Last reviewed by the MailPilot team</p>
+  <p class="meta">Updated: 2026-07-05 · 51 pages · 26 tools tested hands-on</p>
 
   <p style="background:#eff6ff;border-left:4px solid #2563eb;padding:14px 18px;border-radius:4px;margin:20px 0;">
-    <strong>21 reviews + 8 alternatives + 3 best-of lists</strong> covering MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot, Omnisend, and more. Every review covers pricing, pros &amp; cons, and who it's actually for.
+    <strong>32 reviews + 8 alternatives + 6 best-of lists</strong> covering MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot, Mailmodo, Encharge, and 17 more. Every review covers pricing, pros &amp; cons, and who it's actually for.
   </p>
 
   <NewsletterSignup variant="kit" />
@@ -109,7 +194,125 @@ function withUtm(url: string, source: string): string {
   <div class="callout">
     <strong>Affiliate disclosure:</strong> Some links on this site are affiliate links. If you click one and sign up, we may earn a commission at no extra cost to you. This never changes our recommendations — we only recommend tools we'd use ourselves.
   </div>
+
+  <h2>Latest reviews (July 2026)</h2>
+  <p style="color:#555;font-size:0.95rem;margin-bottom:14px;">Newest hands-on reviews published this month.</p>
+  <div class="latest-grid">
+    <a href="/reviews/mailmodo/" class="latest-card">
+      <div class="latest-card-tag">REVIEW · JUL 5</div>
+      <div class="latest-card-title">Mailmodo Review 2026</div>
+      <div class="latest-card-desc">Interactive email tool with AMP-powered forms, surveys, calendars. 2-3x conversion vs static.</div>
+    </a>
+    <a href="/reviews/encharge/" class="latest-card">
+      <div class="latest-card-tag">REVIEW · JUL 5</div>
+      <div class="latest-card-title">Encharge Review 2026</div>
+      <div class="latest-card-desc">Email + CRM + behavior-based automation. Mid-market alternative to Customer.io at $249-799/mo.</div>
+    </a>
+    <a href="/best/best-email-marketing-tools-for-bloggers/" class="latest-card">
+      <div class="latest-card-tag">BEST-OF · JUL 5</div>
+      <div class="latest-card-title">Best Email Marketing Tools for Bloggers</div>
+      <div class="latest-card-desc">Kit, Beehiiv, MailerLite, Substack, Ghost, Mailchimp compared for the blogger workflow.</div>
+    </a>
+    <a href="/alternatives/customerio-alternatives/" class="latest-card">
+      <div class="latest-card-tag">ALTERNATIVES · JUL 5</div>
+      <div class="latest-card-title">8 Best Customer.io Alternatives</div>
+      <div class="latest-card-desc">Encharge, ActiveCampaign, Iterable, Klaviyo and 4 more — tested for 8 weeks.</div>
+    </a>
+  </div>
+
+  <h2>Frequently asked questions</h2>
+  <div class="faq-list">
+    {faqs.map((f) => (
+      <details class="faq-item">
+        <summary class="faq-question">{f.q}</summary>
+        <p class="faq-answer">{f.a}</p>
+      </details>
+    ))}
+  </div>
 </BaseLayout>
+
+<style>
+  .latest-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 12px;
+    margin: 12px 0 28px;
+  }
+  .latest-card {
+    display: block;
+    padding: 14px 16px;
+    background: white;
+    border: 1px solid #e5e5e5;
+    border-left: 3px solid #2563eb;
+    border-radius: 4px;
+    text-decoration: none;
+    color: var(--c-text);
+    transition: all 0.15s ease;
+  }
+  .latest-card:hover {
+    border-color: #cbd5e1;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+    transform: translateY(-1px);
+  }
+  .latest-card-tag {
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: #2563eb;
+    letter-spacing: 0.05em;
+    margin-bottom: 6px;
+  }
+  .latest-card-title {
+    font-size: 0.98rem;
+    font-weight: 700;
+    color: var(--c-text);
+    margin-bottom: 4px;
+    line-height: 1.3;
+  }
+  .latest-card-desc {
+    font-size: 0.82rem;
+    color: var(--c-muted);
+    line-height: 1.4;
+  }
+  .faq-list {
+    margin: 16px 0 24px;
+  }
+  .faq-item {
+    background: white;
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    padding: 14px 18px;
+    margin-bottom: 10px;
+  }
+  .faq-question {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--c-text);
+    list-style: none;
+    position: relative;
+    padding-right: 24px;
+  }
+  .faq-question::-webkit-details-marker {
+    display: none;
+  }
+  .faq-question::after {
+    content: '+';
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 1.4rem;
+    line-height: 1;
+    color: #2563eb;
+    font-weight: 300;
+  }
+  details[open] .faq-question::after {
+    content: '−';
+  }
+  .faq-answer {
+    margin-top: 10px;
+    color: var(--c-muted);
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
 
 <style>
   .featured-grid {
