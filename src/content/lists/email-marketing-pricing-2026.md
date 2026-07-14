@@ -60,6 +60,12 @@ Klaviyo's linear $1 per 250 contacts pricing model is the cleanest for ecommerce
 
 **[Read the full Klaviyo pricing breakdown →](/reviews/klaviyo-pricing/)**
 
+### ConvertKit (Kit) pricing 2026
+
+Kit is the creator-focused email marketing platform, now free up to 10,000 subscribers with basic automation. Creator tier at $9/mo for the first 1,000 subscribers scales linearly to $415/mo at 50K. Kit's pricing sweet spot is the 3,000-25,000 creator range where commerce features and the creator-network sponsorship marketplace pay back the premium over MailerLite. The biggest gap: Kit does not include transactional email in any tier, so creators selling courses or paid subscriptions pay $15-20/mo extra for a separate transactional service.
+
+**[Read the full Kit pricing breakdown →](/reviews/convertkit-pricing/)**
+
 ## Comparison at a glance
 
 Here's what each major tool costs at the most common contact tiers (annual billing rates):
@@ -179,6 +185,7 @@ For our [complete small business email marketing tool ranking →](/best/best-em
 - [MailerLite pricing 2026 →](/reviews/mailerlite-pricing/)
 - [Brevo pricing 2026 →](/reviews/brevo-pricing/)
 - [Klaviyo pricing 2026 →](/reviews/klaviyo-pricing/)
+- [ConvertKit (Kit) pricing 2026 →](/reviews/convertkit-pricing/)
 
 ### Compare email marketing tools head-to-head
 
