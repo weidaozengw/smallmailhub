@@ -165,7 +165,7 @@ function withUtm(url: string, source: string): string {
           </div>
         </div>
         <div class="featured-card-price">{tool.price}</div>
-        <div class="featured-card-cta" style={`color:${tool.color}`}>Try free →</div>
+        <div class="featured-card-cta" data-event="cta_click" data-cta-text="See pricing" data-cta-location="homepage_featured" data-tool={tool.name.toLowerCase()} style={`color:${tool.color}`}>See pricing →</div>
       </a>
     ))}
   </div>
