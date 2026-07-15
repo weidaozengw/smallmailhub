@@ -66,6 +66,12 @@ Kit is the creator-focused email marketing platform, now free up to 10,000 subsc
 
 **[Read the full Kit pricing breakdown →](/reviews/convertkit-pricing/)**
 
+### ActiveCampaign pricing 2026
+
+ActiveCampaign is the deepest automation platform, but also one of the most expensive entry points. Lite at $29/mo lacks the visual automation canvas that defines it; Plus at $49/mo is where ActiveCampaign becomes competitive. ActiveCampaign's pricing is the right call for B2B service businesses at $100K+/year revenue (consulting, agencies, SaaS) that need CRM + automation in one platform. For ecommerce or creators, ActiveCampaign is overpriced compared to Klaviyo or Kit.
+
+**[Read the full ActiveCampaign pricing breakdown →](/reviews/activecampaign-pricing/)**
+
 ## Comparison at a glance
 
 Here's what each major tool costs at the most common contact tiers (annual billing rates):
@@ -186,6 +192,7 @@ For our [complete small business email marketing tool ranking →](/best/best-em
 - [Brevo pricing 2026 →](/reviews/brevo-pricing/)
 - [Klaviyo pricing 2026 →](/reviews/klaviyo-pricing/)
 - [ConvertKit (Kit) pricing 2026 →](/reviews/convertkit-pricing/)
+- [ActiveCampaign pricing 2026 →](/reviews/activecampaign-pricing/)
 
 ### Compare email marketing tools head-to-head
 
