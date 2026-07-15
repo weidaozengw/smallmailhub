@@ -72,6 +72,12 @@ ActiveCampaign is the deepest automation platform, but also one of the most expe
 
 **[Read the full ActiveCampaign pricing breakdown →](/reviews/activecampaign-pricing/)**
 
+### GetResponse pricing 2026
+
+GetResponse is the all-in-one marketing platform — bundling email, landing pages, webinars, and conversion funnels in one product. The Marketing Plus tier at $119/mo is where the bundle value kicks in (webinars + funnels), but Starter at $13/mo doesn't significantly beat MailerLite's $10/mo. GetResponse's pricing is the right call for course creators and coaches doing weekly webinars who can absorb $119/mo for the bundle value. For most small businesses, the $119/mo entry to the bundle is too steep.
+
+**[Read the full GetResponse pricing breakdown →](/reviews/getresponse-pricing/)**
+
 ## Comparison at a glance
 
 Here's what each major tool costs at the most common contact tiers (annual billing rates):
@@ -193,6 +199,7 @@ For our [complete small business email marketing tool ranking →](/best/best-em
 - [Klaviyo pricing 2026 →](/reviews/klaviyo-pricing/)
 - [ConvertKit (Kit) pricing 2026 →](/reviews/convertkit-pricing/)
 - [ActiveCampaign pricing 2026 →](/reviews/activecampaign-pricing/)
+- [GetResponse pricing 2026 →](/reviews/getresponse-pricing/)
 
 ### Compare email marketing tools head-to-head
 
