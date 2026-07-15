@@ -78,6 +78,12 @@ GetResponse is the all-in-one marketing platform — bundling email, landing pag
 
 **[Read the full GetResponse pricing breakdown →](/reviews/getresponse-pricing/)**
 
+### Mailjet pricing 2026
+
+Mailjet is Europe's quiet transactional-friendly email tool, owned by Sinch. The pricing model is fundamentally different — by monthly send volume, not per subscriber. Free at 6,000 emails/month is the most generous by volume. Premium at $15.65/mo is the cheapest single-vendor transactional + marketing bundle. Mailjet's pricing pays back for high-volume senders to moderate lists, and for businesses in EU needing GDPR-compliant email. For typical small business newsletters, MailerLite or Klaviyo are cheaper.
+
+**[Read the full Mailjet pricing breakdown →](/reviews/mailjet-pricing/)**
+
 ## Comparison at a glance
 
 Here's what each major tool costs at the most common contact tiers (annual billing rates):
@@ -200,6 +206,7 @@ For our [complete small business email marketing tool ranking →](/best/best-em
 - [ConvertKit (Kit) pricing 2026 →](/reviews/convertkit-pricing/)
 - [ActiveCampaign pricing 2026 →](/reviews/activecampaign-pricing/)
 - [GetResponse pricing 2026 →](/reviews/getresponse-pricing/)
+- [Mailjet pricing 2026 →](/reviews/mailjet-pricing/)
 
 ### Compare email marketing tools head-to-head
 
