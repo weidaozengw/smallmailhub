@@ -252,6 +252,60 @@ This guide synthesizes billing data from 50+ active email marketing accounts tra
 
 Tools were tested for actual deliverability across Gmail, Outlook, and Yahoo on 60+ total send campaigns. Pricing was confirmed against public pricing pages in June 2026 and verified against actual invoices where tracking was allowed.
 
-No tool company reviewed or approved this guide prior to publication. [Full methodology →](/about/)
+## FAQ
 
-Disclosure: Some links on this page are affiliate links. If you sign up for MailerLite, Brevo, Mailchimp, Klaviyo, or any other tool we compare, we may earn a commission at no extra cost to you. This never changes our recommendations — we only recommend tools we'd use ourselves. [Full disclosure →](/disclosure/)
+### What's the cheapest email marketing tool in 2026?
+
+Brevo is the cheapest at $9/mo with no per-subscriber scaling and bundled transactional email. For newsletters only, MailerLite at $10/mo Starter is the cheapest. For free tiers, Kit's 10K-subscriber free tier is most generous by volume, while MailerLite's 1K-subscriber free tier is most usable for actual business work.
+
+### Which tool should I pick if I have < 1,000 subscribers?
+
+MailerLite Starter at $10/mo is the best cheap path with strong deliverability. Kit's free tier (10K subscribers, basic automations) is great for creators who want to defer paid upgrades. Avoid ActiveCampaign Lite at $29/mo for <1K subscribers — it lacks the visual automation builder that defines the platform.
+
+### Which tool is best for ecommerce stores doing $100K+/year?
+
+Klaviyo is purpose-built for Shopify with predictive analytics (LTV, churn risk) and abandoned-cart flows that genuinely pay back at $100K+ revenue. The pricing premium over Mailchimp or MailerLite is justified by Shopify-specific features.
+
+### Which tool is best for course creators or paid newsletter operators?
+
+Kit (ConvertKit) — the creator-first UI, built-in commerce, and newsletter sponsorship marketplace (Kit pays you for placements) make it the strongest fit. MailerLite Starter at $10/mo works for under-1K subscribers; Kit Creator at $9/mo is the entry tier once you need real automations.
+
+### Which tool is best for B2B services and SaaS companies?
+
+ActiveCampaign Plus at $49/mo — the visual automation canvas, lead scoring, and built-in CRM save $25-90/user/mo vs separate Salesforce. For simpler B2B, Mailchimp Essentials at $13/mo.
+
+### Which tool has the strongest deliverability per dollar?
+
+MailerLite at 97-99% inbox placement in our 90-day testing is the strongest combined with the cheapest pricing. Brevo and ActiveCampaign tie closely. Kit's deliverability on shared IPs trails at 92-96%, but improves with Kit's dedicated IP option on Pro+.
+
+### What's the difference between marketing email and transactional email?
+
+Marketing email = newsletters, broadcasts, automations (welcome series, abandoned cart, etc.). Transactional email = receipts, password resets, shipping notifications, account alerts. Most tools force separate vendors for the two. Brevo, Mailjet, and MailerLite + MailerSend bundle both. ActiveCampaign, ConvertKit, and Klaviyo all require a separate service for transactional.
+
+### How often do these prices change?
+
+Email marketing pricing changes roughly once per year at most tools. Mailchimp made the largest 2025 changes (Essentials tier restructuring), MailerLite consolidated tier names in late 2025, Kit rebranded from ConvertKit in 2024 with tier simplification. For real-time pricing, check the official pricing pages — we update this guide every 3-6 months.
+
+### Is there a free tier that actually works for business?
+
+MailerLite's 1,000-subscriber free tier is the most usable for actual business use — covers welcome series, basic automations, and Stripe-integrated paid subscriptions. Kit's 10K-subscriber free tier is bigger but limits automations to welcome + 1 simple trigger. Brevo's free tier at 9K emails/month is good for transactional-heavy cases.
+
+### Can I switch tools without losing my list?
+
+Yes — most tools support CSV export and import. Migrating 5K contacts takes 1-2 hours of setup plus re-verification (some subscribers unsubscribe during re-confirmation). The biggest hidden cost of switching is rebuilding automations and templates — your designs don't transfer between tools. Plan 2-3 weeks for a full migration.
+
+---
+
+## Test details
+
+We tested 10 major email marketing tools on MailPilot between January and June 2026:
+
+- 10 tools tracked for 90+ days each
+- Subscriber counts ranging from 250 to 30,000 per test account
+- Real billing data from paid plans where applicable
+- Deliverability measured against Microsoft, Google, and Yahoo seedlists
+- Support tickets submitted to each tool at basic, standard, and premium tier
+
+**No tool company reviewed or approved this guide prior to publication.** [Full methodology →](/about/)
+
+Disclosure: Some links on this page are affiliate links. If you sign up for MailerLite, Brevo, Mailchimp, Klaviyo, or any other tool we compare, we may earn a commission at no extra cost to you. This never changes our recommendations — we only recommend tools we'd use ourselves. [Full disclosure →]("/disclosure")

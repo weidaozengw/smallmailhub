@@ -210,6 +210,37 @@ The exceptions:
 - If you have an ecommerce store or SaaS app → Brevo
 - If you're building a newsletter-first media business → Beehiiv
 
+## FAQ
+
+### Which is best for solopreneurs?
+
+MailerLite Starter at $10/mo for 1K subscribers is cheapest viable. Kit's free tier at 10K subscribers is most generous. Brevo at $9/mo bundles transactional. Under 1K subscribers, pick based on feature preference.
+
+### What handles paid subscriptions best?
+
+Kit's commerce features are first-class — sell digital products, paid newsletters, courses, all native. MailerLite supports Stripe but UX is less polished. Beehiiv Boosts is newer for paid newsletters.
+
+### Which has the best creator features?
+
+Kit is purpose-built for solopreneurs selling courses or paid newsletters. Built-in commerce is first-class. MailerLite's Stripe integration is basic but works.
+
+### Should I use ConvertKit or MailerLite?
+
+Kit wins for creators selling courses/paid newsletters at 1K+ ($9/mo Creator). MailerLite wins for pure newsletters under 1K (cleaner UI, similar price). Crossover at ~2,500 subscribers.
+
+### Can I run email + blog from one tool?
+
+Ghost is unique — full CMS + newsletter + paid subscriptions in one platform. Self-hosted Ghost is free; Ghost(Pro) starts at $9/mo. For solopreneurs running a publication-style blog, Ghost's combined workflow is strongest.
+
+### Which has the simplest UI for non-technical founders?
+
+MailerLite is generally considered most intuitive. Kit has a learning curve. Brevo is comparable to MailerLite. All are simpler than ActiveCampaign or HubSpot.
+
+### What's the typical solopreneur email stack cost?
+
+Under 1K subscribers: $0-10/mo. 1K-5K: $10-30/mo. 5K-25K: $30-300/mo depending on needs. Most solopreneurs stay under $50/mo unless monetizing at $5K+/month.
+
+---
 ## Frequently asked questions
 
 ### Do solopreneurs really need email marketing?

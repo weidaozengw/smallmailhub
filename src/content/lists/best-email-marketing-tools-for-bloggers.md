@@ -247,6 +247,37 @@ The most important thing: **pick a tool and stick with it for 12+ months**. Emai
 
 ---
 
+## FAQ
+
+### Which email tool is best for bloggers?
+
+MailerLite Starter at $10/mo is the cheapest viable path with strong deliverability. Kit is purpose-built for bloggers with monetization. Beehiiv Ad Network is best for ad revenue directly from newsletters.
+
+### Which has the cheapest paid tier?
+
+MailerLite Starter at $10/mo for 1K subscribers is the cheapest. Mailchimp Essentials at $13/mo is slightly higher. Both Kit and MailerLite have free tiers for under-1K contact lists.
+
+### Which delivers the highest inbox placement?
+
+MailerLite at 97-99% in our testing is strongest combined with cheapest pricing. Brevo and ActiveCampaign tie closely. Kit's deliverability on shared IPs trails at 92-96% but improves with dedicated IP option.
+
+### Should I use Beehiiv for ad revenue?
+
+Beehiiv Ad Network pays you directly for placements — 0% platform fee (vs Kit's 12%). For newsletters with 5K+ engaged subscribers earning real ad revenue, Beehiiv wins. For under-5K lists, the CPM is too low to matter.
+
+### Which is best for SEO with my blog?
+
+None of the 4 handle content SEO well. Pair any of these with WordPress, Ghost, or a static site for SEO. SEO is the long-term traffic source for sustainable blog growth — drives 5-10x more subscribers than social alone.
+
+### How do I migrate between blog newsletter platforms?
+
+Most platforms support CSV import. Migrating 5K subscribers typically takes 1-2 hours of setup plus re-verification. The biggest hidden cost is rebuilding design templates — design doesn't transfer, only the subscriber list does.
+
+### What about Ghost vs Substack?
+
+Ghost is paid publishing with full ownership of your list. Substack is free but you don't own the subscriber relationship. For long-term blog monetization, Ghost wins on ownership. Substack is faster to start but harder to migrate off.
+
+---
 ## Methodology
 
 We tested 9 email marketing tools across the blogger workflow (write → publish → send → monetize) for 8 weeks total (May-June 2026). Test scenarios:

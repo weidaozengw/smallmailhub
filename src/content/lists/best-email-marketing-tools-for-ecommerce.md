@@ -148,6 +148,37 @@ For most e-commerce store owners reading this, **Brevo is the right answer at sm
 
 Start with Brevo if you're just getting started with email marketing for your store. Move to Klaviyo once Brevo's automation depth becomes a bottleneck. Move to Sendlane when Klaviyo's pricing becomes painful at scale.
 
+## FAQ
+
+### Which is best for ecommerce?
+
+Klaviyo is purpose-built for Shopify with predictive analytics (LTV, churn) and abandoned cart flows that pay back at $100K+/year revenue. Brevo is the cheapest all-in-one (email + SMS + transactional) for smaller stores.
+
+### Should I use Klaviyo or Mailchimp for ecommerce?
+
+Klaviyo wins at scale — purpose-built for Shopify. Mailchimp works for smaller stores but lacks ecommerce-specific automation. For >$100K/year stores, Klaviyo's premium is justified.
+
+### Which has cheapest SMS pricing?
+
+Klaviyo's Email+SMS bundle includes SMS at $0.0125/message. Mailchimp charges separately. Brevo bundles SMS at low rates. For high-SMS-volume stores, dedicated SMS platforms like Twilio are cheaper but require separate setup.
+
+### Should I use Brevo for ecommerce?
+
+Brevo is the cheapest all-in-one with bundled email + SMS + transactional. For small stores (<$50K/year), Brevo's $9-25/mo tiers cover most ecommerce workflows. For larger stores, Klaviyo's premium is justified.
+
+### Which integrates best with Shopify?
+
+Klaviyo is best-in-class — featured Shopify App. Brevo has native Shopify integration. Mailchimp integrates well. For Shopify-specific workflows, Klaviyo wins.
+
+### Which has abandoned cart automation?
+
+Klaviyo's abandoned cart is best-in-class with multi-step flows. Mailchimp's is basic. For abandoned cart to pay back at scale, you need multi-step, not single reminder.
+
+### Can I run ecommerce email from a free tool?
+
+No. Klaviyo Free covers 250 contacts with limited automation. MailerLite Free covers 1,000 contacts but lacks ecommerce-specific features. Paid tiers are required for actual stores doing >$10K/year.
+
+---
 ## Frequently asked questions
 
 ### Which email tool has the best Shopify integration?

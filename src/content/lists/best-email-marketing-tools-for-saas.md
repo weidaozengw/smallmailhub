@@ -246,6 +246,41 @@ For B2B SaaS with sophisticated automation needs, **ActiveCampaign** delivers be
 
 The choice depends on your specific needs, volume, and budget. Most SaaS companies we tested landed on Brevo or a Brevo + Postmark combo for the best balance of cost, deliverability, and features.
 
+## FAQ
+
+### Which email tool is best for SaaS?
+
+Brevo for startups (transactional + marketing + SMS bundled). ActiveCampaign for B2B SaaS needing lead scoring + CRM. Customer.io for complex user-journey automation. SendGrid for high-volume engineering teams.
+
+### Should I use Brevo or Mailchimp for SaaS?
+
+Brevo bundles transactional + marketing + SMS + chat at $9-25/mo — significantly cheaper than Mailchimp + separate stack. For SaaS needing all four channels, Brevo wins.
+
+### Which has the best API for SaaS?
+
+Customer.io is best-in-class for event-driven automation. ActiveCampaign has solid REST API. For SaaS with complex user behavior, Customer.io's event-driven API is more flexible.
+
+### Which is cheapest for low-volume SaaS?
+
+Mailjet Free offers 6,000 emails/month free — best for early-stage SaaS. Brevo Free at 9,000 emails/month is comparable. Mailgun Free at 100 emails/day is for testing only.
+
+### What about Customer.io vs ActiveCampaign?
+
+Customer.io is purpose-built for SaaS event-based automation. ActiveCampaign is for B2B sales pipelines. For SaaS with user onboarding, trial conversion, upgrade flows, Customer.io wins. For B2B SaaS needing CRM, ActiveCampaign wins.
+
+### Which has the best deliverability for SaaS transactional?
+
+Postmark at 99%+ is best-in-class for transactional. SendGrid at 96-98%. Mailjet at 95-97%. Most SaaS products pair a transactional API with a marketing tool rather than sending transactional through their email tool.
+
+### Should I use customer.io or Mixpanel for SaaS onboarding?
+
+Mixpanel is for analytics, not email automation. Customer.io is purpose-built for SaaS email onboarding. For actual email automation, you need Customer.io or ActiveCampaign — Mixpanel doesn't replace this.
+
+### What's the cheapest 5-tool SaaS email stack?
+
+For early-stage SaaS (<1,000 users): Brevo Lite at $9/mo for transactional + marketing + SMS. For mid-stage (1,000-10,000 users): Brevo Premium ~$25-50/mo + ActiveCampaign Lite $29/mo = $54-79/mo total.
+
+---
 ## Next steps
 
 If you're choosing an email tool for your SaaS, start with these steps:

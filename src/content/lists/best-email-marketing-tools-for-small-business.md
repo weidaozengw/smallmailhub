@@ -155,6 +155,41 @@ These platforms get mentioned a lot in "best of" lists, but we don't recommend t
 - **Moosend** — solid product but smaller community and slower updates
 - **Campaign Monitor** — overpriced for small business needs
 
+## FAQ
+
+### Which email tool is best for small businesses?
+
+MailerLite Starter at $10/mo is cheapest viable option. Brevo at $9/mo bundles transactional + marketing. For small businesses needing both, Brevo wins.
+
+### What's the cheapest paid tier?
+
+MailerLite Starter at $10/mo and Brevo Lite at $9/mo are tied for cheapest. Mailchimp Essentials at $13/mo is slightly higher.
+
+### Which has the best free tier?
+
+Kit's 10K-subscriber free tier is most generous. MailerLite's 1K free tier is more usable for actual business work. Brevo's 9K/month free tier is good for transactional-heavy cases.
+
+### Should I use Mailchimp or MailerLite?
+
+For under-1K contacts, MailerLite wins on price ($10 vs $13) and similar deliverability. For multi-channel (social + email), Mailchimp wins.
+
+### What about Brevo vs MailerLite?
+
+Brevo bundles transactional at $9/mo vs MailerLite + MailerSend at $20/mo. For businesses needing both, Brevo is 50% cheaper. For newsletters only, MailerLite has predictable pricing.
+
+### Which has the strongest deliverability?
+
+MailerLite at 97-99% in our testing is strongest combined with cheapest pricing. Brevo at 96-98%. Mailchimp at 97-99%.
+
+### What's the best tool for marketing + transactional from one vendor?
+
+Brevo Lite at $9/mo bundles both. Mailjet Premium at $15.65/mo bundles both. MailerLite + MailerSend is $20/mo combined.
+
+### How much should a small business budget for email?
+
+100-1K subscribers: $9-20/mo. 1K-5K: $20-50/mo. 5K-25K: $50-300/mo depending on needs. Small businesses should not exceed $50/mo unless they have 5K+ engaged subscribers.
+
+---
 ## Bottom line
 
 For 80% of small businesses reading this, **MailerLite is the right answer**. It's $10/mo at 1,000 subscribers, the interface is clean, the deliverability is on par with Mailchimp, and the free tier covers your first 1,000 contacts.

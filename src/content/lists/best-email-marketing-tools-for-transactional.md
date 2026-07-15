@@ -148,6 +148,50 @@ For related comparisons:
 - [SendGrid vs Postmark](/reviews/sendgrid-vs-postmark/) — direct comparison
 - [Amazon SES alternatives](/reviews/amazon-ses-alternatives/) — 7 platforms that beat SES on specific dimensions
 
+## FAQ
+
+### What's the cheapest transactional email API?
+
+Amazon SES at $0.10 per 1,000 outbound emails is the cheapest at scale. Below 100K emails/month, Postmark at $15/mo (10K) is competitive. Mailgun $35/mo (50K) is mid-range but includes email validation.
+
+### Which transactional API has the best deliverability?
+
+Postmark at 99%+ inbox placement in our 90-day testing. SendGrid averages 96-98%. Mailgun sits at 95-97%. All four are above industry baseline but Postmark is the consistent leader.
+
+### Do I need Postmark and SendGrid for different use cases?
+
+No — Postmark handles pure transactional, while SendGrid bundles marketing automation ($15/mo add-on) for transactional + marketing from one vendor. Pick SendGrid if you only want one vendor, Postmark for best-in-class deliverability.
+
+### Which transactional email is best for Shopify?
+
+Most Shopify stores pair Klaviyo for ecommerce-specific email (abandoned cart, browse abandonment) with a transactional API like Postmark or SendGrid for receipts and shipping notifications. Bundling both in one tool loses either transactional reliability or ecommerce features.
+
+### What about transactional email for password resets?
+
+All 4 platforms (Postmark, SendGrid, Amazon SES, Mailgun) handle password resets reliably. Postmark's Time-to-Inbox is fastest (~3 seconds avg). SES is slowest (~6 seconds) due to AWS throttling protections.
+
+### Can I run transactional email without a paid service?
+
+Yes — Postal (open source) or running your own SMTP server. The cost savings are real but reputation management is on you. For <1K emails/month, self-hosting can work; for >1K/month, paid APIs save engineering time.
+
+### What's the difference between transactional and marketing email APIs?
+
+Transactional: optimized for time-to-inbox (typically <10 seconds), pay per email sent, no list management. Marketing: optimized for campaign management, list segmentation, sign-up forms, automation workflows, pay per active subscriber.
+
+### Should I use Amazon SES as a solo developer?
+
+SES is the cheapest at scale but has setup complexity that costs 2-5 days for new AWS users. If you already use AWS, SES is the right pick. If you don't, the time investment in setup vs $0-30/mo savings isn't worth it for most solo developers.
+
+### What email validation do I need?
+
+Mailgun's $5/mo email validation API is the best-in-class option for cleaning lists before sending. Most transactional APIs reject hard bounces automatically; email validation catches disposable, role-based, and typo addresses before they cause bounces.
+
+### How much deliverability testing should I do before switching?
+
+Run your production email through Microsoft, Google, and Yahoo seedlists for 30+ days before declaring a winner. Short tests are misleading — deliverability varies based on daily volume, list hygiene, and content reputation over weeks not hours.
+
+---
+
 ## How we built this breakdown
 
 Real billing data from 5 engineering-heavy teams we tracked from March-June 2026 — including 2 fintech startups, 1 e-commerce marketplace, 1 B2B SaaS, and 1 healthtech company. Monthly send volumes ranged from 5K to 4.5M. We measured inbox placement against Microsoft, Google, and Yahoo seedlists across 90 days. No email platform employee reviewed or influenced this article.

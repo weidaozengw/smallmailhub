@@ -123,6 +123,50 @@ For related comparisons:
 - [Best email marketing tools for solopreneurs](/best/best-email-marketing-tools-for-solopreneurs/) — broader solo creator recommendations
 - [Best email marketing tools for ecommerce](/best/best-email-marketing-tools-for-ecommerce/) — if your newsletter also has a shop
 
+## FAQ
+
+### Which newsletter platform is cheapest?
+
+MailerLite Starter at $10/mo for 1K subscribers is the cheapest paid tier. Kit's free tier at 10K subscribers is the most generous free tier if you don't need advanced automation. Beehiiv's free tier caps at 2,500 subscribers.
+
+### Which is best for paid newsletters?
+
+Kit is purpose-built for paid newsletters with native commerce. MailerLite supports Stripe integration but it's less polished. Beehiiv Boosts is newer and less established for paid subscriptions.
+
+### What about the Beehiiv Ad Network?
+
+Beehiiv's ad network is genuinely unique — 0% platform fee (vs Kit's 12%). For newsletters with 5K+ engaged subscribers earning real ad revenue, Beehiiv beats Kit on this specific dimension. For under-5K lists, the network's CPM drops below useful.
+
+### Can I migrate from Substack to a newsletter platform?
+
+Yes — most platforms support Substack CSV import. The biggest hidden cost is rebuilding subscriber relationships: Substack subscribers expect a Substack-style reading experience, and migration emails typically see 10-20% unsubscribe rates during re-engagement.
+
+### Which has the best newsletter sponsorship marketplace?
+
+Kit Marketplace is the most established — sponsor brands pay creators directly, Kit takes 12% platform fee. Beehiiv Ad Network is newer but takes 0%. Beehiiv wins on fee structure, Kit wins on network maturity (more brand relationships).
+
+### Do I need a separate website for my newsletter?
+
+Not necessarily — Kit, Beehiiv, and MailerLite all support landing pages. Ghost is unique in providing full CMS + email in one platform. If your newsletter is a publication (long-form journalism), Ghost's combined workflow saves from running two tools.
+
+### Which is best for SEO with my newsletter?
+
+None of the four handle content SEO well — they're email-first tools. If SEO matters for your newsletter, pair any of these with WordPress, Ghost, or a static site. Ghost is the only one with built-in blog SEO.
+
+### How do newsletter platforms handle GDPR?
+
+All 4 support GDPR features (double opt-in, easy unsubscribe, data export). EU-based platforms (MailerLite operates from Vilnius) are typically more compliant by default. For maximum GDPR safety, use paid tiers with explicit consent tracking.
+
+### What about iOS Mail Privacy Protection?
+
+All 4 platforms have updated their tracking to comply with iOS MPP — open rate tracking shows lower numbers since iOS 15+. Apple Mail Privacy is here to stay; track engagement via click rates and other signals, not opens.
+
+### Should I use ConvertKit (Kit) or MailerLite for my first newsletter?
+
+If under 1K subscribers, use MailerLite Starter at $10/mo — it covers welcome sequences, basic automations, and Stripe-integrated paid subscriptions. Switch to Kit once you cross 1K subscribers and need stronger automation depth or commerce.
+
+---
+
 ## How we built this breakdown
 
 Real billing data from 6 newsletter creators we tracked from March-June 2026 — including 3 independent journalists, 2 course creators using newsletters as primary channel, and 1 paid newsletter at 8K subscribers with $3K/mo revenue. Subscriber counts ranged from 1,500 to 30,000. We measured inbox placement and paid tier conversion over 90 days. No newsletter platform employee reviewed or influenced this article.
