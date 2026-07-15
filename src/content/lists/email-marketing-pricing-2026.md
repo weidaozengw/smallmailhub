@@ -90,6 +90,12 @@ SendGrid is the developer-first transactional email API, owned by Twilio. The pr
 
 **[Read the full SendGrid pricing breakdown →](/reviews/sendgrid-pricing/)**
 
+### Amazon SES pricing 2026
+
+Amazon SES is the cheapest transactional email at scale — $0.10 per 1,000 outbound emails, 10-30x cheaper than managed alternatives above 1M emails/month. SES is purely a transactional API: no UI for marketing, signup forms, or list management. Setup complexity is the catch — first integration takes 2-5 days, sandbox mode requires production access request, reputation management is on the team. SES is the right call for AWS-using engineering teams sending 100,000+ transactional emails/month who can absorb the setup complexity.
+
+**[Read the full Amazon SES pricing breakdown →](/reviews/amazon-ses-pricing/)**
+
 ## Comparison at a glance
 
 Here's what each major tool costs at the most common contact tiers (annual billing rates):
@@ -214,6 +220,7 @@ For our [complete small business email marketing tool ranking →](/best/best-em
 - [GetResponse pricing 2026 →](/reviews/getresponse-pricing/)
 - [Mailjet pricing 2026 →](/reviews/mailjet-pricing/)
 - [SendGrid pricing 2026 →](/reviews/sendgrid-pricing/)
+- [Amazon SES pricing 2026 →](/reviews/amazon-ses-pricing/)
 
 ### Compare email marketing tools head-to-head
 
