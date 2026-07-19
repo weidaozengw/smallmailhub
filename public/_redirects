@@ -1,0 +1,5 @@
+# Cloudflare Pages redirects — 修复 GSC sitemap 404 (2026-07-19)
+# 根因:Cloudflare SPA fallback 让 /sitemap.xml 返回首页 HTML,GSC 拿不到 sitemap
+# 解决:把 /sitemap.xml 永久 redirect 到真实存在的 /sitemap-index.xml
+
+/sitemap.xml   /sitemap-index.xml   301
