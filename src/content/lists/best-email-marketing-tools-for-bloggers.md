@@ -10,6 +10,7 @@ items:
   - "Substack — Best if you want pure newsletter publishing"
   - "Ghost — Best for full control with built-in memberships"
   - "Mailchimp — Best for established blogs that need branding control"
+  - "Constant Contact — Best for nonprofit and event-heavy bloggers needing donation forms"
 pricing: "$0/mo (Substack free tier, Ghost free self-hosted) — $9/mo (Kit, Beehiiv, MailerLite) — $25+/mo at scale"
 bestFor: "Bloggers, content creators, and writers who want a newsletter-first tool that doesn't fight their workflow"
 affiliateUrl: "https://kit.com/?via=mailpilot"

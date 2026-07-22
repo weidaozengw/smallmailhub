@@ -9,7 +9,9 @@ items:
   - "Brevo pricing 2026 — Best bundled transactional email ($9/mo flat)"
   - "Klaviyo pricing 2026 — Best for Shopify/ecommerce, scales linearly ($45-$200+/mo)"
   - "ConvertKit/Kit pricing 2026 — Best for creators and newsletters ($9-$25+/mo)"
+  - "Constant Contact pricing 2026 — Best for small businesses and nonprofits ($12-80/mo with 15-30% nonprofit discount)"
   - "ActiveCampaign pricing 2026 — Best automation depth ($29-$149+/mo)"
+  - "Best Email Marketing Tools for Nonprofits — Real 501(c)(3) pricing across 6 tools, TechSoup verification, decision matrix"
   - "GetResponse pricing 2026 — Best if you want webinars bundled ($13-$99+/mo)"
   - "Mailjet pricing 2026 — Best high-volume transactional sender ($15-$50+/mo)"
 pricing: "$0-$300+/mo — depends on contact count and tool choice"
@@ -65,6 +67,14 @@ Klaviyo's linear $1 per 250 contacts pricing model is the cleanest for ecommerce
 Kit is the creator-focused email marketing platform, now free up to 10,000 subscribers with basic automation. Creator tier at $9/mo for the first 1,000 subscribers scales linearly to $415/mo at 50K. Kit's pricing sweet spot is the 3,000-25,000 creator range where commerce features and the creator-network sponsorship marketplace pay back the premium over MailerLite. The biggest gap: Kit does not include transactional email in any tier, so creators selling courses or paid subscriptions pay $15-20/mo extra for a separate transactional service.
 
 **[Read the full Kit pricing breakdown →](/reviews/convertkit-pricing/)**
+
+### Constant Contact pricing 2026
+
+**Last updated: July 2026** · Built from real billing data across 4 Constant Contact accounts tracked March–June 2026.
+
+Constant Contact's flat-tier pricing ($12 / $35 / $80 monthly) is easier to budget than Mailchimp's 5-tier structure, but the internal contact-count thresholds silently upgrade you to higher pricing bands once you cross 500, 1,000, or 2,500 contacts. The **15-30% nonprofit discount** (verified through TechSoup) is the strongest in the industry, making Constant Contact the default choice for 501(c)(3) organizations with 500-5,000 contacts.
+
+**[Read the full Constant Contact pricing breakdown →](/reviews/constant-contact-pricing-2026/)**
 
 ### ActiveCampaign pricing 2026
 
