@@ -1,6 +1,29 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
+
+const [reviews, alternatives, lists] = await Promise.all([
+  getCollection('reviews', ({ data }) => !data.draft),
+  getCollection('alternatives', ({ data }) => !data.draft),
+  getCollection('lists', ({ data }) => !data.draft),
+]);
+
+const publishedContent = [
+  ...reviews.map((entry) => ({ ...entry, section: 'reviews' as const, typeLabel: 'REVIEW' })),
+  ...alternatives.map((entry) => ({ ...entry, section: 'alternatives' as const, typeLabel: 'ALTERNATIVES' })),
+  ...lists.map((entry) => ({ ...entry, section: 'best' as const, typeLabel: 'BEST-OF' })),
+].sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const latestContent = publishedContent.slice(0, 4);
+const latestUpdate = publishedContent[0]?.data.pubDate ?? new Date();
+const totalPages = reviews.length + alternatives.length + lists.length + 8;
+const formatDate = (date: Date) => new Intl.DateTimeFormat('en-US', {
+  month: 'short',
+  day: 'numeric',
+  year: 'numeric',
+  timeZone: 'UTC',
+}).format(date).toUpperCase();
 
 const title = 'MailPilot — Honest Email Marketing Tool Reviews (Tested 26 Tools for 12 Weeks)';
 const description = 'We tested 26 email marketing tools hands-on for 12 weeks across 3 small business scenarios. Compare real pricing, deliverability data, and pros/cons of MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot, and more.';
@@ -141,10 +164,10 @@ function withUtm(url: string, source: string): string {
   })} />
 
   <h1>Find the right email marketing tool for your small business</h1>
-  <p class="meta">Updated: 2026-07-05 · 51 pages · 26 tools tested hands-on</p>
+  <p class="meta">Updated: {formatDate(latestUpdate)} · {totalPages} pages · 26 tools tested hands-on</p>
 
   <p style="background:#eff6ff;border-left:4px solid #2563eb;padding:14px 18px;border-radius:4px;margin:20px 0;">
-    <strong>32 reviews + 8 alternatives + 6 best-of lists</strong> covering MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot, Mailmodo, Encharge, and 17 more. Every review covers pricing, pros &amp; cons, and who it's actually for.
+    <strong>{reviews.length} reviews + {alternatives.length} alternatives + {lists.length} best-of lists</strong> covering MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot, Mailmodo, Encharge, and 17 more. Every review covers pricing, pros &amp; cons, and who it's actually for.
   </p>
 
   <NewsletterSignup variant="kit" />
@@ -195,29 +218,16 @@ function withUtm(url: string, source: string): string {
     <strong>Affiliate disclosure:</strong> Some links on this site are affiliate links. If you click one and sign up, we may earn a commission at no extra cost to you. This never changes our recommendations — we only recommend tools we'd use ourselves.
   </div>
 
-  <h2>Latest reviews (July 2026)</h2>
-  <p style="color:#555;font-size:0.95rem;margin-bottom:14px;">Newest hands-on reviews published this month.</p>
+  <h2>Latest reviews</h2>
+  <p style="color:#555;font-size:0.95rem;margin-bottom:14px;">Newest hands-on reviews and buying guides published on MailPilot.</p>
   <div class="latest-grid">
-    <a href="/reviews/mailmodo/" class="latest-card">
-      <div class="latest-card-tag">REVIEW · JUL 5</div>
-      <div class="latest-card-title">Mailmodo Review 2026</div>
-      <div class="latest-card-desc">Interactive email tool with AMP-powered forms, surveys, calendars. 2-3x conversion vs static.</div>
-    </a>
-    <a href="/reviews/encharge/" class="latest-card">
-      <div class="latest-card-tag">REVIEW · JUL 5</div>
-      <div class="latest-card-title">Encharge Review 2026</div>
-      <div class="latest-card-desc">Email + CRM + behavior-based automation. Mid-market alternative to Customer.io at $249-799/mo.</div>
-    </a>
-    <a href="/best/best-email-marketing-tools-for-bloggers/" class="latest-card">
-      <div class="latest-card-tag">BEST-OF · JUL 5</div>
-      <div class="latest-card-title">Best Email Marketing Tools for Bloggers</div>
-      <div class="latest-card-desc">Kit, Beehiiv, MailerLite, Substack, Ghost, Mailchimp compared for the blogger workflow.</div>
-    </a>
-    <a href="/alternatives/customerio-alternatives/" class="latest-card">
-      <div class="latest-card-tag">ALTERNATIVES · JUL 5</div>
-      <div class="latest-card-title">8 Best Customer.io Alternatives</div>
-      <div class="latest-card-desc">Encharge, ActiveCampaign, Iterable, Klaviyo and 4 more — tested for 8 weeks.</div>
-    </a>
+    {latestContent.map((entry) => (
+      <a href={`/${entry.section}/${entry.slug}/`} class="latest-card">
+        <div class="latest-card-tag">{entry.typeLabel} · {formatDate(entry.data.pubDate)}</div>
+        <div class="latest-card-title">{entry.data.title}</div>
+        <div class="latest-card-desc">{entry.data.description}</div>
+      </a>
+    ))}
   </div>
 
   <h2>Frequently asked questions</h2>
@@ -314,7 +324,6 @@ function withUtm(url: string, source: string): string {
     line-height: 1.6;
   }
 
-<style>
   .featured-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
