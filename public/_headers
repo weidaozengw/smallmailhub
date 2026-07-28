@@ -1,0 +1,40 @@
+# Cloudflare Pages _headers — 7/28 修复缓存率 0.39% + 4xx 错误
+# 部署位置:public/_headers → build 时自动复制到 dist/_headers
+# 上线后预期:缓存率 0.39% → 70-90%,带宽 161MB/24h → ~16MB/24h,4xx 错误率下降
+
+# ============================================
+# 1) HTML 页面 — 浏览器短缓存 + CDN 长缓存
+#    max-age=300 (浏览器 5 分钟) + s-maxage=86400 (CF 边缘 24 小时)
+#    stale-while-revalidate 让过期时仍可用,后台异步刷新
+# ============================================
+/*
+  Cache-Control: public, max-age=300, s-maxage=86400, stale-while-revalidate=604800
+  X-Content-Type-Options: nosniff
+
+# ============================================
+# 2) 静态资源 — 带 hash 文件名(Astro 自动),永久缓存
+#    /_astro/ 是 Astro 默认的 hashed asset 输出目录
+# ============================================
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# ============================================
+# 3) favicon / robots / sitemap — 24 小时缓存
+# ============================================
+/favicon.ico
+  Cache-Control: public, max-age=86400, must-revalidate
+
+/favicon.svg
+  Cache-Control: public, max-age=86400, must-revalidate
+
+/apple-touch-icon.png
+  Cache-Control: public, max-age=86400, must-revalidate
+
+/sitemap-index.xml
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/sitemap-0.xml
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/robots.txt
+  Cache-Control: public, max-age=86400, must-revalidate
