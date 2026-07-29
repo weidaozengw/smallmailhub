@@ -14,8 +14,9 @@ const year = new Date().getFullYear();
 // GA4 — set PUBLIC_GA4_ID env var in Cloudflare Pages to enable
 const ga4Id = import.meta.env.PUBLIC_GA4_ID || '';
 
-// Search Console verification meta tag — set PUBLIC_GSC_VERIFICATION env var
-const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION || '';
+// Search Console verification meta tag — set PUBLIC_GSC_VERIFICATION env var in Cloudflare
+// or hardcode below as fallback. As of 2026-07-29, hardcoded to unlock real search data.
+const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION || 'K8ZEsuNBH35Jc2ywy9j4EJPPnjGjgkzRkMzGzA2l1jI';
 
 // OG image — default to site-wide, allow per-page override
 const ogImageName = ogImage ?? 'default';
