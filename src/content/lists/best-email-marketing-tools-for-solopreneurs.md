@@ -274,3 +274,5 @@ Not yet. Most email marketing tools (MailerLite, Kit, Brevo) have basic contact 
 ### What's the cheapest way to start?
 
 MailerLite's free tier + a custom domain (~$12/year) + Mailchimp's free transactional email tier (if needed). Total first-year cost: $12. You can run a real solo business on that stack.
+
+If you're picking your first email platform and want a step-by-step beginner breakdown, see our [Best email marketing tools for beginners](/best/best-email-marketing-tools-for-beginners/) guide.

@@ -199,3 +199,5 @@ For 80% of small businesses reading this, **MailerLite is the right answer**. It
 The other six tools above are the right answer for the other 20% — the ones with specific needs (transactional email, creator commerce, advanced automation, webinars, or large lists).
 
 Start with MailerLite's free tier. Move to a paid plan when you hit 1,000 subscribers. Switch to a different tool only when MailerLite genuinely can't do what you need.
+
+If you're choosing your first email tool and want a beginner-specific walkthrough, see our [Best email marketing tools for beginners](/best/best-email-marketing-tools-for-beginners/) guide.
