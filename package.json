@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && python3 scripts/update-sitemap-lastmod.py",
+    "build": "astro build && node scripts/update-sitemap-lastmod.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
