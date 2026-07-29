@@ -24,7 +24,9 @@ bestFor: "B2B service businesses and SaaS companies that want a unified CRM + em
 affiliateUrl: "https://www.hubspot.com/affiliates?_ga=2.123456789"
 ---
 
-HubSpot is the 800-pound gorilla of marketing software. What started as a side project in 2006 has grown into a platform with 247,000+ customers and $2.17 billion in annual revenue. The pitch is simple: replace your CRM, email tool, landing page builder, form tool, live chat, and sales sequencing tool with one platform. After testing HubSpot as our primary marketing platform for six months across two B2B service businesses and one ecommerce client, we have strong opinions about whether this all-in-one approach actually delivers.
+HubSpot is the 800-pound gorilla of marketing software. The pitch is simple: replace your CRM, email tool, landing page builder, form tool, live chat, and sales sequencing tool with one platform. For current plan math, seats, onboarding fees, and marketing-contact tiers, start with our [HubSpot pricing breakdown for 2026](/reviews/hubspot-pricing/).
+
+After evaluating HubSpot across B2B and ecommerce use cases, we have strong opinions about when this all-in-one approach earns its premium and when a smaller stack is better.
 
 ## Who HubSpot is for
 

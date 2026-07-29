@@ -6,7 +6,7 @@ import ReviewCTA from '../../components/ReviewCTA.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
 
 export async function getStaticPaths() {
-  const alts = await getCollection('alternatives');
+  const alts = await getCollection('alternatives', ({ data }) => !data.draft);
   return alts.map((alt) => ({
     params: { slug: alt.slug },
     props: { alt },

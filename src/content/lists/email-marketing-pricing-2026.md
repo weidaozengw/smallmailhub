@@ -10,6 +10,7 @@ items:
   - "Klaviyo pricing 2026 — Best for Shopify/ecommerce, scales linearly ($45-$200+/mo)"
   - "ConvertKit/Kit pricing 2026 — Best for creators and newsletters ($9-$25+/mo)"
   - "Constant Contact pricing 2026 — Best for small businesses and nonprofits ($12-80/mo with 15-30% nonprofit discount)"
+  - "HubSpot pricing 2026 — Full CRM + marketing platform ($800-$890/mo Professional plus onboarding)"
   - "ActiveCampaign pricing 2026 — Best automation depth ($29-$149+/mo)"
   - "Best Email Marketing Tools for Nonprofits — Real 501(c)(3) pricing across 6 tools, TechSoup verification, decision matrix"
   - "GetResponse pricing 2026 — Best if you want webinars bundled ($13-$99+/mo)"
@@ -75,6 +76,12 @@ Kit is the creator-focused email marketing platform, now free up to 10,000 subsc
 Constant Contact's flat-tier pricing ($12 / $35 / $80 monthly) is easier to budget than Mailchimp's 5-tier structure, but the internal contact-count thresholds silently upgrade you to higher pricing bands once you cross 500, 1,000, or 2,500 contacts. The **15-30% nonprofit discount** (verified through TechSoup) is the strongest in the industry, making Constant Contact the default choice for 501(c)(3) organizations with 500-5,000 contacts.
 
 **[Read the full Constant Contact pricing breakdown →](/reviews/constant-contact-pricing-2026/)**
+
+### HubSpot Marketing Hub pricing 2026
+
+HubSpot's pricing is the most dramatic example of an edition cliff. Free tools and Starter are accessible, but the full Professional platform costs $800 per month annually or $890 monthly, plus required onboarding. The bill also depends on marketing contacts, Core Seats, credits, and add-ons.
+
+**[Read the full HubSpot pricing breakdown →](/reviews/hubspot-pricing/)**
 
 ### ActiveCampaign pricing 2026
 
@@ -226,6 +233,7 @@ For our [complete small business email marketing tool ranking →](/best/best-em
 - [Brevo pricing 2026 →](/reviews/brevo-pricing/)
 - [Klaviyo pricing 2026 →](/reviews/klaviyo-pricing/)
 - [ConvertKit (Kit) pricing 2026 →](/reviews/convertkit-pricing/)
+- [HubSpot pricing 2026 →](/reviews/hubspot-pricing/)
 - [ActiveCampaign pricing 2026 →](/reviews/activecampaign-pricing/)
 - [GetResponse pricing 2026 →](/reviews/getresponse-pricing/)
 - [Mailjet pricing 2026 →](/reviews/mailjet-pricing/)
