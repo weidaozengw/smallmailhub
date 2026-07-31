@@ -1,7 +1,7 @@
 ---
 title: "Omnisend Review 2026: The Email Marketing Tool Built for Ecommerce"
 description: "Omnisend is an email + SMS + push notifications platform built specifically for ecommerce. We tested it across two Shopify stores for 4 months — here's the honest verdict on whether Omnisend is worth it for your ecommerce store."
-pubDate: 2026-07-03
+pubDate: 2026-07-31
 targetKeyword: "omnisend review"
 productName: "Omnisend"
 rating: 4.3

@@ -1,7 +1,7 @@
 ---
 title: "Mailjet Review 2026: The Transactional Email Tool That Handles Marketing Too"
 description: "Mailjet is the email platform built for transactional email at scale. We tested it for 90 days across transactional and marketing scenarios. Here's the honest verdict on whether Mailjet is the right choice for developers and SaaS companies."
-pubDate: 2026-07-03
+pubDate: 2026-07-31
 targetKeyword: "mailjet review"
 productName: "Mailjet"
 rating: 4.1

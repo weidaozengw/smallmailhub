@@ -1,7 +1,7 @@
 ---
 title: "Klaviyo Review 2026: Best Email + SMS Platform for E-commerce Stores Doing $100K+"
 description: "Klaviyo is the dominant email and SMS platform for Shopify stores. We tested it for 5 months — here's the honest verdict on pricing, predictive analytics, and whether it's overkill for your business."
-pubDate: 2026-07-02
+pubDate: 2026-07-31
 targetKeyword: "klaviyo review"
 productName: "Klaviyo"
 rating: 4.4

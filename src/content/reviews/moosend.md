@@ -1,7 +1,7 @@
 ---
 title: "Moosend Review 2026: The Affordable Email Tool Most People Overlook"
 description: "Moosend is the email tool that quietly delivers Mailchimp-level features at half the price. We tested it for 90 days across three small business scenarios. Here's the honest verdict."
-pubDate: 2026-07-03
+pubDate: 2026-07-31
 targetKeyword: "moosend review"
 productName: "Moosend"
 rating: 4.4

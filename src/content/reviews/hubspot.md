@@ -1,7 +1,7 @@
 ---
 title: "HubSpot Email Marketing Review 2026: Is the All-in-One CRM Worth the Price?"
 description: "HubSpot bundles email marketing, CRM, landing pages, and sales tools into one platform. We tested it for 6 months across B2B and ecommerce use cases — here's the honest verdict on whether HubSpot is worth the premium pricing."
-pubDate: 2026-07-03
+pubDate: 2026-07-31
 targetKeyword: "hubspot email marketing review"
 productName: "HubSpot"
 rating: 4.2

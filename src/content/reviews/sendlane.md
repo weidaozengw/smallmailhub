@@ -1,7 +1,7 @@
 ---
 title: "Sendlane Review 2026: The Underdog Email Tool Built for E-commerce"
 description: "Sendlane is the email marketing platform built specifically for e-commerce. We tested it for 90 days across three online stores. Here's the honest verdict on whether Sendlane is worth the switch from Klaviyo."
-pubDate: 2026-07-03
+pubDate: 2026-07-31
 targetKeyword: "sendlane review"
 productName: "Sendlane"
 rating: 4.3

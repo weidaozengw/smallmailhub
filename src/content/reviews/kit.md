@@ -1,7 +1,7 @@
 ---
 title: "Kit (formerly ConvertKit) Review 2026: The Best Email Tool for Creators and Solopreneurs"
 description: "Kit (formerly ConvertKit) raised prices 40% in 2024. We tested it for 4 months — here's the honest verdict for creators, coaches, and course sellers in 2026."
-pubDate: 2026-07-02
+pubDate: 2026-07-31
 targetKeyword: "kit review"
 productName: "Kit (formerly ConvertKit)"
 rating: 4.4

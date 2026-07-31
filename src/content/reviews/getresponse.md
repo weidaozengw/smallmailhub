@@ -1,7 +1,7 @@
 ---
 title: "GetResponse Review 2026: The Best Email + Webinar Combo for Coaches and Course Creators"
 description: "GetResponse MAX plan bundles email + webinar platform + funnel builder. We tested it for 3 months — here's the honest verdict for coaches and course creators."
-pubDate: 2026-07-02
+pubDate: 2026-07-31
 targetKeyword: "getresponse review"
 productName: "GetResponse"
 rating: 4.2

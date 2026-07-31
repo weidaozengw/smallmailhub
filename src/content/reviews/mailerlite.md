@@ -1,7 +1,7 @@
 ---
 title: "MailerLite Review 2026: The Cheapest Way to Run Email Marketing Under 5,000 Subscribers"
 description: "We tested MailerLite for 6 months. Here's the honest verdict on pricing, automation, deliverability, and whether it's actually better than Mailchimp for small businesses."
-pubDate: 2026-07-02
+pubDate: 2026-07-31
 targetKeyword: "mailerlite review"
 productName: "MailerLite"
 rating: 4.6
