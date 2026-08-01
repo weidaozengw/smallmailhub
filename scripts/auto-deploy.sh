@@ -5,6 +5,11 @@
 
 set -euo pipefail
 
+# Strip opencli's 7890 proxy — its inbound Chrome proxy breaks outbound fetch.
+# Unset at script level so child processes inherit clean env.
+unset http_proxy https_proxy HTTP_PROXY HTTPS_PROXY all_proxy ALL_PROXY
+export NO_PROXY='*' no_proxy='*'
+
 REPO_DIR="/Users/xiaoli/Desktop/mailpilot-site"
 LOG="/tmp/mailpilot-deploy.log"
 FEISHU_WEBHOOK="${FEISHU_WEBHOOK_URL:-${HERMES_FEISHU_WEBHOOK:-}}"
@@ -55,7 +60,8 @@ fi
 
 # 2. Deploy via wrangler (NO_PROXY to dodge opencli 7890 proxy)
 echo "[$TIMESTAMP] deploying to Cloudflare Pages..." >> "$LOG"
-DEPLOY_OUT=$(NO_PROXY='*' HTTPS_PROXY='' HTTP_PROXY='' https_proxy='' http_proxy='' \
+DEPLOY_OUT=$(unset http_proxy https_proxy HTTP_PROXY HTTPS_PROXY all_proxy ALL_PROXY; \
+  NO_PROXY='*' no_proxy='*' \
   /Users/xiaoli/.npm/_npx/32026684e21afda6/node_modules/.bin/wrangler \
   pages deploy dist --project-name=smallmailhub --commit-dirty=true 2>&1) || DEPLOY_RC=$?
 DEPLOY_RC=${DEPLOY_RC:-0}
