@@ -1,7 +1,7 @@
 ---
 title: "7 Best Constant Contact Alternatives in 2026 (Honestly Tested)"
 description: "Constant Contact is fine but pricing has crept up to $12/mo and the editor feels dated. We tested 7 alternatives for small businesses — pricing, features, support."
-pubDate: 2026-07-03
+pubDate: 2026-08-01
 targetKeyword: "constant contact alternatives"
 productName: "Constant Contact"
 rating: 4.0

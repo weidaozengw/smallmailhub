@@ -1,7 +1,7 @@
 ---
 title: "7 Best HubSpot Alternatives in 2026 (Most Cost Half the Price)"
 description: "HubSpot's Marketing Hub starts at $20/mo and balloons past $800/mo fast. We tested the 7 best alternatives for small businesses — pricing, features, honest pros/cons."
-pubDate: 2026-07-03
+pubDate: 2026-08-01
 targetKeyword: "hubspot alternatives"
 productName: "HubSpot Marketing Hub"
 rating: 4.0

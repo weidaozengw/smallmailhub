@@ -1,7 +1,7 @@
 ---
 title: "GetResponse vs MailerLite 2026: Bundled Webinars vs Simple Newsletters"
 description: "GetResponse bundles webinars + landing pages + email. MailerLite is pure newsletter focus. After 5 GetResponse + 8 MailerLite accounts tested, here's the comparison."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "getresponse vs mailerlite"
 updatedDate: 2026-07-14
 productName: "GetResponse vs MailerLite"

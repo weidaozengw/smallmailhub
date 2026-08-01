@@ -1,7 +1,7 @@
 ---
 title: "Moosend vs MailerLite 2026: The Honest Comparison for Small Businesses"
 description: "Moosend vs MailerLite — both affordable email tools, both clean interfaces, but very different pricing structures. We compared them for 90 days. Here's the verdict for small businesses in 2026."
-pubDate: 2026-07-03
+pubDate: 2026-08-01
 targetKeyword: "moosend vs mailerlite"
 productName: "Moosend vs MailerLite"
 rating: 4.4

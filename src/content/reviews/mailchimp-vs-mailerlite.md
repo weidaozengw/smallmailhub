@@ -1,7 +1,7 @@
 ---
 title: "Mailchimp vs MailerLite 2026: An Honest Head-to-Head Comparison"
 description: "We tracked 12 Mailchimp accounts and 8 MailerLite accounts for 90 days. Here's how they actually compare on deliverability, pricing, automation, and ease of use in 2026."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "mailchimp vs mailerlite"
 updatedDate: 2026-07-14
 productName: "Mailchimp vs MailerLite"

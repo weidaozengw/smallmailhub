@@ -1,7 +1,7 @@
 ---
 title: "8 Best SendGrid Alternatives in 2026 (Honest Pricing & Feature Comparison)"
 description: "SendGrid's pricing has crept up and the SMTP reliability has dipped. We tested 8 alternatives for transactional email — pricing, deliverability, dev experience, and whether you should switch."
-pubDate: 2026-07-03
+pubDate: 2026-08-01
 targetKeyword: "sendgrid alternatives"
 productName: "SendGrid"
 rating: 4.0

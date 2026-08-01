@@ -1,7 +1,7 @@
 ---
 title: "8 Free Mailchimp Alternatives That Actually Work in 2026"
 description: "Mailchimp's free tier caps at 500 contacts and 2,500 emails/mo. These 8 platforms offer genuinely free tiers in 2026 — with what you actually get and what you're missing."
-pubDate: 2026-07-02
+pubDate: 2026-08-01
 targetKeyword: "mailchimp alternatives free"
 replacedProduct: "Mailchimp"
 alternatives:

@@ -1,7 +1,7 @@
 ---
 title: "Mailchimp Pricing in 2026: Real Costs at Every Contact Tier (What They Don't Tell You at Signup)"
 description: "The true cost of Mailchimp at every contact tier from 500 to 100,000 — based on actual billing data from 12 real accounts, with hidden fees, free-tier limits, and cheaper alternatives revealed."
-pubDate: 2026-07-13
+pubDate: 2026-08-01
 targetKeyword: "mailchimp pricing 2026"
 productName: "Mailchimp"
 rating: 4.0

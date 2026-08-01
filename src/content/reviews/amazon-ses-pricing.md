@@ -1,7 +1,7 @@
 ---
 title: "Amazon SES Pricing in 2026: The Cheapest Transactional Email (And the Catch Most Teams Miss)"
 description: "An honest 2026 Amazon SES pricing breakdown — what inbound + outbound emails actually cost, the real setup complexity trap, and when SES vs SendGrid + Postmark are right for engineering teams."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "amazon ses pricing 2026"
 productName: "Amazon SES"
 rating: 4.5

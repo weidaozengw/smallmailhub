@@ -1,7 +1,7 @@
 ---
 title: "Best Email Marketing Tools for Solopreneurs in 2026 (Tested Hands-On)"
 description: "Solopreneurs don't need enterprise features. We tested 12 email marketing tools hands-on for the solo founder workflow — newsletter, sales, course delivery. These 6 are the ones that actually fit."
-pubDate: 2026-07-04
+pubDate: 2026-08-01
 targetKeyword: "email marketing for solopreneurs"
 items:
   - "MailerLite — Best overall for solopreneurs"

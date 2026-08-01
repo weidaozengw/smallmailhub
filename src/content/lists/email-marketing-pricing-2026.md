@@ -1,7 +1,7 @@
 ---
 title: "Email Marketing Pricing in 2026: The Complete Comparison (Every Tier, Every Tool)"
 description: "An exhaustive 2026 email marketing pricing breakdown — what MailerLite, Brevo, Mailchimp, Klaviyo, ConvertKit, ActiveCampaign, and more actually cost at common contact tiers. Built from 50+ real billing accounts."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "email marketing pricing 2026"
 items:
   - "MailerLite pricing 2026 — Best for under 1,000 subscribers ($0-$20/mo)"

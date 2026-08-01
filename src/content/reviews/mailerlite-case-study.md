@@ -1,7 +1,7 @@
 ---
 title: "How We Grew a B2B SaaS Newsletter to $8,400/mo in 12 Months with MailerLite"
 description: "Real case study: how a 6-person B2B SaaS grew their email marketing revenue from $0 to $8,400/mo using MailerLite. Exact automations, send times, and what we'd do differently."
-pubDate: 2026-07-03
+pubDate: 2026-08-01
 targetKeyword: "mailerlite case study"
 productName: "MailerLite"
 rating: 4.7

@@ -1,7 +1,7 @@
 ---
 title: "MailerLite vs Brevo 2026: The Cheapest Newsletter vs The Cheapest Transactional Bundle"
 description: "MailerLite is the cheapest for newsletters. Brevo is the cheapest for transactional bundles. After 90-day testing, here's the comparison."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "mailerlite vs brevo"
 updatedDate: 2026-07-14
 productName: "MailerLite vs Brevo"

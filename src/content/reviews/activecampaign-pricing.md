@@ -1,7 +1,7 @@
 ---
 title: "ActiveCampaign Pricing in 2026: When the Automation Premium Pays Back (and When It Doesn't)"
 description: "An honest 2026 ActiveCampaign pricing breakdown — what each tier costs at common contact counts, the real CRM feature gates, and when ActiveCampaign's premium automation justifies the price for B2B services vs small ecommerce."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "activecampaign pricing 2026"
 productName: "ActiveCampaign"
 rating: 4.4

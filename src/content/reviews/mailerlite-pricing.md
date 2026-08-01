@@ -1,7 +1,7 @@
 ---
 title: "MailerLite Pricing in 2026: What Every Tier Actually Costs (and the Free Plan That Won't Bite You Back)"
 description: "An honest 2026 MailerLite pricing breakdown — what each tier costs at common contact counts, the real limits of the free plan, and whether MailerLite is still the cheapest option for a growing list."
-pubDate: 2026-07-13
+pubDate: 2026-08-01
 targetKeyword: "mailerlite pricing 2026"
 productName: "MailerLite"
 rating: 4.7

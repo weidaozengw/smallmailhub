@@ -1,7 +1,7 @@
 ---
 title: "Best Email Marketing Tools for Small Business in 2026 (Tested)"
 description: "We tested 14 email marketing platforms across 6 months. These 7 are the ones we'd actually recommend to a small business owner in 2026, ranked by use case and pricing."
-pubDate: 2026-07-02
+pubDate: 2026-08-01
 targetKeyword: "best email marketing tools for small business"
 items:
   - "MailerLite — Best overall for most small businesses"

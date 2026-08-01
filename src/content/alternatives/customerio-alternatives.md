@@ -1,7 +1,7 @@
 ---
 title: "8 Best Customer.io Alternatives in 2026 (Tested & Ranked)"
 description: "Customer.io's $100/mo minimum and Liquid templating learning curve shut out most teams. These 8 platforms offer similar behavior-triggered email power — without the steep pricing or developer-only complexity."
-pubDate: 2026-07-05
+pubDate: 2026-08-01
 targetKeyword: "customer.io alternatives"
 replacedProduct: "Customer.io"
 alternatives:

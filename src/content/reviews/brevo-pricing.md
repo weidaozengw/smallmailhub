@@ -1,7 +1,7 @@
 ---
 title: "Brevo Pricing in 2026: Real Costs at Every Tier (and the Free Plan That Actually Works)"
 description: "The complete Brevo pricing breakdown for 2026 — how the free tier compares to paid plans, what Marketing Platform vs Transactional pricing actually costs at scale, and which tier is right for your business."
-pubDate: 2026-07-13
+pubDate: 2026-08-01
 targetKeyword: "brevo pricing 2026"
 productName: "Brevo"
 rating: 4.4

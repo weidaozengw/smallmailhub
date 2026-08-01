@@ -1,7 +1,7 @@
 ---
 title: "ConvertKit (Kit) vs MailerLite 2026: The Creator-Focused vs Newsletter-Focused Showdown"
 description: "Kit (ConvertKit) is built for creators. MailerLite for general newsletters. After 90-day testing of 7 Kit accounts and 8 MailerLite accounts, here's the honest comparison."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "convertkit vs mailerlite"
 updatedDate: 2026-07-14
 productName: "Kit vs MailerLite"

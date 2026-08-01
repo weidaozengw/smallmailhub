@@ -1,7 +1,7 @@
 ---
 title: "9 Best ConvertKit Alternatives in 2026 (Tested & Ranked)"
 description: "ConvertKit (now Kit) raised prices 40% in 2024. These 9 platforms are what creators and solopreneurs are switching to in 2026 — with real pricing and honest comparisons."
-pubDate: 2026-07-02
+pubDate: 2026-08-01
 targetKeyword: "convertkit alternatives"
 replacedProduct: "ConvertKit (Kit)"
 alternatives:

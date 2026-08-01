@@ -1,7 +1,7 @@
 ---
 title: "MailerLite vs ConvertKit (Kit): Honest 12-Week Comparison for 2026"
 description: "We tested MailerLite vs ConvertKit side-by-side for 12 weeks on real campaigns. Pricing, deliverability, automation, support — who wins for which type of business."
-pubDate: 2026-07-03
+pubDate: 2026-08-01
 targetKeyword: "mailerlite vs convertkit"
 productName: "MailerLite"
 rating: 4.6

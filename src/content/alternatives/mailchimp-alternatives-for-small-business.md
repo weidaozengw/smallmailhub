@@ -1,7 +1,7 @@
 ---
 title: "7 Best Mailchimp Alternatives for Small Business (2026 Tested)"
 description: "Mailchimp's pricing jumps hit hard once you cross 500 contacts. These 7 platforms are what small businesses actually switch to in 2026 — with real pricing, real pros, and the honest downsides."
-pubDate: 2026-07-02
+pubDate: 2026-08-01
 targetKeyword: "mailchimp alternatives for small business"
 replacedProduct: "Mailchimp"
 alternatives:

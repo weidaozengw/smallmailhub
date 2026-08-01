@@ -1,7 +1,7 @@
 ---
 title: "Klaviyo Pricing in 2026: Real Costs for Shopify & Ecommerce (and When It Stops Being Worth It)"
 description: "An honest 2026 Klaviyo pricing breakdown for ecommerce — what each tier costs at common Shopify/WooCommerce contact counts, the real Shopify integration costs, and when Klaviyo's premium pricing stops paying back."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "klaviyo pricing 2026"
 productName: "Klaviyo"
 rating: 4.5

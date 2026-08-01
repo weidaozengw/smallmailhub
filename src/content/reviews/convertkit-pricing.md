@@ -1,7 +1,7 @@
 ---
 title: "ConvertKit (Kit) Pricing in 2026: Free, Creator, and What Creators Actually Pay"
 description: "An honest 2026 ConvertKit (Kit) pricing breakdown — what the Free and Creator tiers actually include, when to upgrade, and where Kit gets expensive for growing newsletters."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "convertkit pricing 2026"
 productName: "Kit"
 rating: 4.3

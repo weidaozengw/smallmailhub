@@ -1,7 +1,7 @@
 ---
 title: "Mailjet Pricing in 2026: Why Europe's Quiet Email Tool Beats the Big Names on Transactional"
 description: "An honest 2026 Mailjet pricing breakdown — what each tier costs at common monthly send volumes, the real transactional pricing model, and when Mailjet's high-volume flat rate beats Mailchimp, SendGrid, and MailerLite."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "mailjet pricing 2026"
 productName: "Mailjet"
 rating: 4.0

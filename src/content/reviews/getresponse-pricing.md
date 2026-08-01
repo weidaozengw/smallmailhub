@@ -1,7 +1,7 @@
 ---
 title: "GetResponse Pricing in 2026: When the Webinar + Landing Page Bundle Pays Off (and When It Doesn't)"
 description: "An honest 2026 GetResponse pricing breakdown — what each tier costs at common contact counts, the real webinar + landing page inclusions, and when GetResponse's all-in-one bundle justifies the price for content creators and B2B educators."
-pubDate: 2026-07-14
+pubDate: 2026-08-01
 targetKeyword: "getresponse pricing 2026"
 productName: "GetResponse"
 rating: 4.2

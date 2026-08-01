@@ -1,7 +1,7 @@
 ---
 title: "Brevo vs MailerLite: Honest 2026 Comparison (Pricing, Deliverability, Automation)"
 description: "We tested Brevo vs MailerLite for 12 weeks on real B2B campaigns. Pricing, deliverability, automation, support — which is the right choice for your business."
-pubDate: 2026-07-03
+pubDate: 2026-08-01
 targetKeyword: "brevo vs mailerlite"
 productName: "Brevo"
 rating: 4.5

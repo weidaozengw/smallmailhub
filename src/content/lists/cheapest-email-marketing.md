@@ -1,7 +1,7 @@
 ---
 title: "Cheapest Email Marketing Services in 2026 (Real Pricing, No Tricks)"
 description: "Looking for the cheapest email marketing service that doesn't actually suck? We compared 14 platforms on real subscriber-tier pricing. These 7 are the ones we'd trust with our own list."
-pubDate: 2026-07-04
+pubDate: 2026-08-01
 targetKeyword: "cheapest email marketing"
 items:
   - "MailerLite — Cheapest option for 0–1,000 subscribers (free)"
