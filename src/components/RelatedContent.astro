@@ -25,12 +25,26 @@ const productToReview: Record<string, string | null> = {
   'AWeber': 'aweber',
   'Klaviyo': 'klaviyo',
   'Moosend': 'moosend',
+  'HubSpot': 'hubspot',
+  'HubSpot Marketing Hub': 'hubspot',
+  'Customer.io': 'customerio-review',
+  'Constant Contact': 'constant-contact',
+  'Omnisend': 'omnisend',
+  'Sendgrid': 'sendgrid',
+  'SendGrid': 'sendgrid',
+  'Mailjet': 'mailjet',
+  'Encharge': 'encharge',
+  'Mailmodo': 'mailmodo',
+  'Sendlane': null,
+  'Iterable': null,
+  'Follow Up Boss': null,
+  'Beehiiv': null,
+  // comparison pairs as linkable slugs
   'Brevo vs Mailchimp': 'brevo-vs-mailchimp',
   'ConvertKit vs MailerLite': 'convertkit-vs-mailerlite',
   'Mailchimp vs MailerLite': 'mailchimp-vs-mailerlite',
-  'Beehiiv': null, // no review yet
-  'Sendlane': null,
-  'Mailjet': null,
+  'Klaviyo vs ActiveCampaign': 'klaviyo-vs-activecampaign',
+  'Mailchimp vs ConvertKit': 'mailchimp-vs-mailerlite',
 };
 
 // Get all reviews and alternatives
@@ -45,10 +59,22 @@ mentionedProducts.forEach((product) => {
   if (slug) mentionedReviewSlugs.add(slug);
 });
 
-// Related reviews: based on mentioned products, fallback to all reviews
+// Related reviews: based on mentioned products, fallback to same-collection peers (recent first)
+const extraMentionedFromLists = new Set<string>();
+if (currentCollection === 'lists' && mentionedProducts.length > 0) {
+  mentionedProducts.forEach((item) => {
+    const productName = item.split(' — ')[0]?.split(' (')[0]?.trim();
+    if (productName) {
+      const slug = productToReview[productName];
+      if (slug) extraMentionedFromLists.add(slug);
+    }
+  });
+}
+
+const allMentionedSlugs = new Set([...mentionedReviewSlugs, ...extraMentionedFromLists]);
 const relatedReviews = allReviews
   .filter((r) => r.slug !== currentSlug)
-  .filter((r) => mentionedReviewSlugs.has(r.slug) || mentionedReviewSlugs.size === 0)
+  .filter((r) => allMentionedSlugs.has(r.slug) || allMentionedSlugs.size === 0)
   .slice(0, 4);
 
 // Related alternatives: exclude current
