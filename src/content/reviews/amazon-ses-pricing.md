@@ -123,3 +123,23 @@ For our [complete Amazon SES review](/reviews/amazon-ses/), the feature breakdow
 Real billing data from 5 SES-using engineering teams we tracked from March-June 2026 — including 2 fintech startups, 1 e-commerce marketplace, 1 B2B SaaS, and 1 healthtech company. Monthly send volumes ranged from 50,000 to 4.5 million. We compared actual AWS bills against public pricing and confirmed setup behavior with AWS documentation. No AWS employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for AWS SES or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
+
+## Frequently asked questions about Amazon SES pricing
+
+### How much does Amazon SES cost per 1,000 emails in 2026?
+Amazon SES pricing in 2026 is **$0.10 per 1,000 outbound emails** when sent from EC2 (the cheapest path), **$0.12 per 1,000** from other sources, and **$0.10 per 1,000 inbound emails**. **Sending 1 million emails/month to AWS-hosted servers costs $100/mo** — the same volume on SendGrid Pro runs $249+/mo and on Postmark $300-500/mo, making SES 2.5-4x cheaper at scale.
+
+### Does Amazon SES have a free tier in 2026?
+Amazon SES doesn't have a permanent free tier, but new AWS accounts get **62,000 outbound emails/month free while in sandbox mode** (under AWS Free Tier if eligible). **Production access** — required to exit sandbox and send to unverified addresses — typically takes 24-48 hours of AWS review. Until you exit sandbox, you can only send to verified addresses at **200 emails per 24-hour rolling window** with a 1 email/second rate.
+
+### What is the Amazon SES sandbox limit and how do I exit it?
+The SES sandbox caps new accounts at **200 emails per 24-hour rolling window**, a **1 email/second send rate**, and **only verified email addresses can receive**. To exit sandbox: (1) submit a production access request via SES console, (2) document your sending use case, (3) describe bounce and complaint handling, (4) provide daily volume estimate, (5) wait **24-48 hours for AWS review**. Plan for a 2-5 day deployment delay.
+
+### How much is an Amazon SES dedicated IP in 2026?
+**$24.95/mo per dedicated IP**, with each additional IP also at **$24.95/mo**. Dedicated IPs are essential for high-volume senders (50K+/month) who want IP reputation control, but SES provides **no managed warm-up** — teams that suddenly start at 50K+ emails/day hit spam folders 20-30% of the time. You must ramp send volume gradually yourself.
+
+### What does Amazon SES charge for attachments?
+**$0.12 per GB of attachments** in addition to the per-email rate. For most transactional email (password resets, receipts, notifications under 100KB each), attachment costs are negligible — a 50KB email × 1M sends = 50GB/month = $6/mo. Attachments only matter at extreme scale or with large files (PDFs, images).
+
+### When is Amazon SES cheaper than SendGrid or Postmark in 2026?
+**At 1M emails/month to EC2, SES costs $100/mo vs SendGrid Pro at $249+/mo and Postmark at $300-500/mo** — SES is 2.5-4x cheaper. The savings compound at 5M+/month where SES's pay-as-you-go rate scales linearly while managed competitors charge tier-based premiums. **Below 10K emails/month, SES's setup complexity isn't worth the small savings** — SendGrid or Postmark's managed deliverability is the better deal.

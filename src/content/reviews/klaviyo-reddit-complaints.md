@@ -128,3 +128,26 @@ Klaviyo is **the best email tool for Shopify stores with 1,000+ contacts that ne
 Where Klaviyo falls short: pricing escalates faster than Mailchimp or MailerLite for growing lists, UI complexity overwhelms non-technical users, and the depth of features is wasted on B2B SaaS or creator businesses. If any of those matter, look at Omnisend (cheaper at scale), Mailchimp (broader use cases), or MailerLite (simpler UI).
 
 The 15+ Reddit comments confirm what our own testing showed: Klaviyo is the right default for serious Shopify stores, but the cost compounds fast. Test the Free tier for 30 days, then calculate the cost at your projected 12-month contact count before committing.
+
+## Frequently asked questions about Klaviyo Reddit complaints
+
+### Why do Reddit users say Klaviyo pricing doubles at contact thresholds in 2026?
+Klaviyo's pricing **scales linearly with contact count without per-contact cost decreasing as you grow**, meaning a 10,000-contact store pays roughly 10x more than a 1,000-contact store. **7 of 15 Reddit users** flagged this as the most-cited complaint. The auto-upgrade pattern goes 0-250 Free → 251-1,000 $45/mo → 1,001-1,500 $60/mo → 1,501-2,500 $90/mo → 2,501-5,000 $135/mo → 5,001-10,000 $200/mo → 10,001+ $300+/mo. Workarounds include aggressive list pruning, sunset flows, or migrating to Omnisend or Mailchimp at 5,000+ contacts.
+
+### Is Klaviyo too complex for non-technical Shopify store owners in 2026?
+Yes — **5 of 15 Reddit users** flagged Klaviyo's UI as overwhelming for non-technical store owners. The interface assumes you understand RFM analysis, predictive CLV, and browse abandonment segments out of the gate. A r/ShopifyAppDev user reported spending 30 minutes figuring out where to click to send a basic campaign. Workarounds include pre-built automation templates (cart abandonment, welcome, post-purchase), hiring a Klaviyo specialist on Upwork ($100-300 one-time), or migrating to Omnisend for simpler UX.
+
+### Is Klaviyo only good for Shopify stores in 2026?
+Yes — Klaviyo's deepest features (abandoned cart browse abandonment, expected purchase date, product recommendations) **all require Shopify, BigCommerce, or WooCommerce integration**. For B2B SaaS, creators, or service businesses, Klaviyo's ecommerce-specific toolset is wasted. A r/SaaS user said half the features were unusable without ecommerce data. For non-ecommerce use cases, Mailchimp, ActiveCampaign, or Customer.io are better fits; for creators, Kit or MailerLite.
+
+### Does Klaviyo have phone support on any tier?
+Phone support is **excluded until the $500+/mo tier** — most Shopify stores paying $45-200/mo rely on email + chat only. **4 of 15 Reddit users** complained about slow support during urgent issues. One r/Shopify user lost $2,000 in sales during a Black Friday campaign because chat support took 8 hours to respond to spam-folder issues. Constant Contact includes phone support on every tier ($12/mo+), which is the contrast Reddit users cite. Klaviyo partners charge $150-300/hr for urgent help.
+
+### What do Klaviyo users on Reddit actually love in 2026?
+**10 of 15 users** praised Klaviyo for: Shopify data sync that is genuinely the deepest in the industry (abandoned cart data is "magic"), predictive CLV and expected purchase date that actually work and save hours of manual RFM analysis, multi-brand/multi-account dashboard that is better than Mailchimp for agencies managing multiple clients, the 250-contact free tier for testing before committing, and deliverability on dedicated IPs that holds up at 100k+ emails/month with no Gmail spam issues.
+
+### Is Klaviyo's email editor as good as Mailchimp's in 2026?
+No — **3 of 15 Reddit users** flagged Klaviyo's email editor as functional but **less polished than Mailchimp or MailerLite**, with rendering issues on some clients. Klaviyo prioritizes data and automation depth over visual design polish. If your brand depends on pixel-perfect email templates and an extensive drag-and-drop design system, Mailchimp's editor is more capable. Klaviyo's editor is sufficient for ecommerce transactional and broadcast emails, but not for design-heavy brand campaigns.
+
+### Does Klaviyo include transactional email without extra cost in 2026?
+No — Klaviyo does **not bundle transactional email without paying for the SMS add-on** as a separate channel. For order confirmations, password resets, and shipping notifications, most Klaviyo users either use Shopify's built-in transactional emails (free for Shopify stores) or add a separate transactional service like Postmark ($10/mo for 10k sends). This is a meaningful gap if you want one platform for marketing + transactional — Brevo bundles both at $9/mo on Lite, which Klaviyo does not match.

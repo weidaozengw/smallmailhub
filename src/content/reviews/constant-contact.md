@@ -211,3 +211,23 @@ For budget-conscious small businesses, check out our [MailerLite review](/review
 For nonprofits specifically, Constant Contact's 20% nonprofit discount + donation/event features make it the best-in-class choice. Just confirm with sales that your 501(c)(3) status qualifies before signing up.
 
 **Last updated**: July 3, 2026. Constant Contact pricing verified against constantcontact.com on the same date. Free trial terms and feature availability confirmed via trial account.
+
+## Frequently asked questions about Constant Contact
+
+### Is Constant Contact good for small businesses in 2026?
+**Yes — Constant Contact is built for small businesses with non-technical owners**. In our 90-day testing, a non-technical nonprofit director sent her first campaign within 30 minutes of signing up; with Mailchimp or ActiveCampaign, the same person needed 2-3 hours. Constant Contact is **not** for ecommerce stores (lacks deep Shopify integration), B2B SaaS (lacks automation depth), or creators/bloggers (better tools exist at lower prices).
+
+### How much does Constant Contact cost per month in 2026?
+**Constant Contact pricing starts at $12/mo for Core (annual prepay)**, **$35/mo for Email Plus**, and **$80/mo for Premium**. All three tiers include unlimited email sends, phone + chat + email support, and 60+ templates. At 1,000 contacts, Constant Contact Email Plus at $35/mo is **2-3x more expensive than MailerLite at $10/mo** for similar functionality. The premium is justified by unlimited sends and support quality but a real cost burden for budget senders.
+
+### Does Constant Contact offer a free tier or only a free trial?
+**Constant Contact offers a 14-day free trial (no credit card required) but no permanent free tier**. Compare this to **MailerLite's free-forever 1,000-subscriber plan** (12,000 emails/mo) or **Brevo's free tier** (300 emails/day with unlimited contacts). For very small senders who want a permanent free option, MailerLite Free or Brevo Free beat Constant Contact's trial-only model.
+
+### Does Constant Contact include phone support in 2026?
+**Yes — phone, chat, and email support are included on every Constant Contact paid tier**, even the $12/mo Core plan. In our testing, phone support wait times averaged 4-12 minutes with 8/10 quality (knowledgeable agents, no scripted responses), and all three issues we escalated were closed on the first call. Most competitors have phased out phone support in favor of chat-only or paid support tiers — Constant Contact wins on human support.
+
+### What are Constant Contact's best features for nonprofits in 2026?
+**Constant Contact's nonprofit features are best-in-class**: **donation forms** (Stripe, PayPal, Donorbox integration), **event registration and ticketing** with attendee management, **survey tools** for donor feedback, **segmented reporting** by donor type, and a **20% discount on all tiers** for verified 501(c)(3)s. No other email tool matches this combination — Mailchimp and ActiveCampaign require third-party integrations for donation forms and event management.
+
+### Is Constant Contact better than Mailchimp or MailerLite in 2026?
+**It depends on your priority**: Constant Contact wins on **support (phone on every tier), nonprofit features, and unlimited email sends**; MailerLite wins on **price ($10/mo Starter vs $35/mo Email Plus), modern UX, and cheaper tier transitions**; Mailchimp wins on **integrations (800+ vs Constant Contact's 300+)** and multi-channel features. For **non-technical users and nonprofits who value ease of use, Constant Contact remains a strong choice** — it's the Honda Civic of email marketing: reliable, easy, well-supported, but 2-3x more expensive than MailerLite for similar features.

@@ -241,3 +241,23 @@ For mid-size to large nonprofits ready to invest in CRM-grade tools, **HubSpot's
 
 The right tool depends on your contact count, budget, need for donation forms and event tools, and how much integration complexity your team can manage. Use the decision matrix above to match your nonprofit's profile to the right tool, then apply for the nonprofit discount through the verification process — every tool on this list offers real savings that can be redirected to your mission.
 
+## Frequently asked questions about email tools for nonprofits in 2026
+
+### Constant Contact 在 2026 年的 nonprofit 折扣到底多少？
+Constant Contact 的 501(c)(3) 折扣**通过 TechSoup 验证**：**Email Plus $35/mo → $24.50/mo（30% off）**、**Premium $80/mo → $56/mo**。年节省约 **$126/年**（Email Plus）。折扣**只覆盖 Email Plus 和 Premium 两个高阶档**，Core $12/mo 不打折。2026 年额外福利：捐赠表单和活动报名工具都内置，不需要再接 Donorbox 或 Eventbrite。
+
+### 2026 年哪个免费档对 nonprofit 最慷慨？
+**HubSpot 免费给 501(c)(3) 的 Marketing Hub Starter 套餐**——**5 个用户、1,000 contacts、CRM + 邮件 + 落地页 + 基础 automation 全包**。代价：申请 + 验证要 **30 天**（TechSoup 验证只要 2–3 天）。次慷慨的是 **MailerLite 免费 1,000 subscribers 永久**（不含 CRM）和 **Brevo 免费 300 封/天、不限 contacts**（国际 nonprofit 也可申请）。
+
+### Mailchimp 在 2026 年给 nonprofit 多少折扣？
+**15% off 年度付费档**，仅 Essentials ($13→$11.05/mo) 和 Standard ($20→$17/mo)。**Essentials 没有免费层折扣**——必须升级到 Standard 才能享受 15%。优势是 **800+ integrations**（Salesforce NPSP、Donorbox、Givebutter、Classy、Funraise），是 6 款里整合最多的。如果你的 nonprofit 在用 Salesforce NPSP 或复杂捐赠平台，Mailchimp 比 Constant Contact 更合身；只要基础捐赠表单 → Constant Contact 30% 折扣更划算。
+
+### Brevo 免费档在 2026 年国际 nonprofit 能用吗？
+**能用**——Brevo 在 2026 年对认证 nonprofit 提供 **300 封/天免费、不限 contacts**（约 9,000 封/月），且 **Brevo 是 EU 总部**，支持欧盟数据驻留，对 TechSoup 不覆盖的国际 nonprofit（英国 NCVO、加拿大 TechSoup Canada、澳洲 Connecting Up）更友好。需要 transactional 邮件（捐赠回执、活动确认）也免费包在基础档里。MailerLite 免费档没有 CRM、Brevo 免费档同样没有 CRM，**需要 CRM 的中大型 nonprofit → HubSpot Free**。
+
+### 2026 年 nonprofit 邮件验证流程一般多久？
+**通过 TechSoup**（501c3）：**2–3 天**。Constant Contact、Mailchimp、MailerLite、Brevo、AWeber 都接受 TechSoup 验证邮件，每年 re-verification。**HubSpot for Nonprofits 走自己的流程**：**30 天**，每 2 年 re-verification 一次。**纯紧急 launch 的 nonprofit**（比如临时活动募捐）→ 选 2–3 天验证的工具；**中长期想用 CRM** → 提前 30 天申请 HubSpot。
+
+### MailerLite 和 Constant Contact 在 2026 年 nonprofit 折扣后哪个便宜？
+**MailerLite Advanced 折扣后 $14/mo**（$20 → 30% off），vs **Constant Contact Email Plus 折扣后 $24.50/mo**（$35 → 30% off）。MailerLite 便宜 **$10.50/mo**、年省 $126。**MailerLite 的缺点**：没有内置捐赠表单、没有内置活动报名——必须外接 Donorbox 或 Eventbrite。**Constant Contact 的优势**：捐赠表单 + 活动报名 + 电话支持内置全包。**预算极紧、可接受外接**：MailerLite；**需要一体化**：Constant Contact 多付 $10.50/mo。
+

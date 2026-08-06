@@ -152,3 +152,23 @@ For our [complete Mailjet review](/reviews/mailjet/), the feature breakdown, or 
 Real billing data from 4 Mailjet accounts we tracked from March-June 2026 — transactional-heavy e-commerce stores and European SaaS companies. Subscriber counts ranged from 1,500 to 45,000. We compared actual invoices against public pricing and confirmed tier upgrade behavior with Mailjet's support documentation. No Mailjet employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Mailjet or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
+
+## Frequently asked questions about Mailjet pricing
+
+### Mailjet 2026 年免费版每月能发多少封邮件？
+Mailjet 免费版每月最多发送 **6,000 封邮件**，并限制为每天 **200 封**。它同时包含事务邮件 API，适合中等量订单通知和密码重置测试，但不适合需要同日发送给 500 人以上的 newsletter。
+
+### Mailjet 2026 年 Starter 每月多少钱？
+Mailjet Starter 为 **$9/月**，包含每月 **15,000 封邮件**。该档位增加主题行 A/B 测试、多步骤营销自动化、高级分群以及 Salesforce 和 HubSpot 集成，适合小企业的基础营销发送。
+
+### Mailjet 2026 年 Premium 每月多少钱？
+Mailjet Premium 起价 **$15.65/月**，包含事务邮件、优先支持和高级报告。文章的单供应商比较中，Mailjet Premium 低于 Mailchimp 加 SendGrid 的最低 **$33/月**组合，也低于 MailerLite 加 MailerSend 的 $20/月组合。
+
+### Mailjet 2026 年 50,000 封邮件每月多少钱？
+每月发送约 50,000 封邮件时，Mailjet Premium 约为 **$35/月**。文章对比显示，MailerLite Advanced 约 $25/月、Mailchimp Standard 为 $50-$100/月；Mailjet 的优势主要在事务邮件和较大月发送量，而不是小列表无限群发。
+
+### Mailjet 2026 年免费版每天 200 封的限制适合 newsletter 吗？
+每天 **200 封**的上限不适合一次向 500 人以上发送 newsletter。Mailjet 免费版虽然有 6,000 封月额度，但日限制会让同日批量活动被迫拆分；需要营销自动化和更高发送弹性时，Starter $9/月更实际。
+
+### Mailjet 2026 年适合 GDPR 合规的欧洲企业吗？
+Mailjet 是欧盟背景平台，文章将其 EU 数据驻留和 GDPR 合规列为主要优势。若团队还需要事务邮件与营销邮件合并，Premium **$15.65/月**提供单供应商方案；但仍应在正式发送前验证自身的数据处理要求。

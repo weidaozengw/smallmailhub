@@ -253,3 +253,23 @@ If you're a small business with under 500 contacts and don't need automation, Co
 
 **The honest answer**: Constant Contact is worth the price for the right audience (small businesses, nonprofits, event organizers, local services) and not worth it for the wrong audience (ecommerce at scale, B2B SaaS, content creators). Use this guide to figure out which side of that line you're on before you commit to the annual prepay.
 
+## Frequently asked questions about Constant Contact pricing
+
+### How much is Constant Contact per month in 2026?
+**Constant Contact pricing in 2026 starts at $12/mo for Core (annual prepay) or $17/mo month-to-month**, scales to **$35/mo Email Plus** ($50/mo month-to-month), and tops out at **$80/mo Premium** ($105/mo month-to-month). All three tiers include unlimited email sends, phone + chat + email support, and 60+ templates. **Annual prepay saves 30-50%** vs month-to-month billing.
+
+### What is the Constant Contact 500-contact auto-upgrade trap?
+**Constant Contact's Core plan advertises "up to 1,000 contacts" at $12/mo, but actually auto-upgrades at 500 contacts**: **0-500 contacts = $12/mo**, **501-1,000 contacts = $20/mo** (silent jump), **1,001-2,500 contacts = $35/mo Email Plus**, **2,501-5,000 contacts = $55/mo Email Plus**, **5,001-10,000 contacts = $80/mo Premium**. The "100 contacts remaining" warning email often goes to an unchecked admin Gmail from 2019. Plan ahead at the 400-contact mark.
+
+### Does Constant Contact have a nonprofit discount in 2026?
+**Yes — Constant Contact's nonprofit discount is the best in the industry**: **15% off Core, 30% off Email Plus, 30% off Premium**. Verification is via TechSoup (2-3 day process) and requires 501(c)(3) status (or international equivalent). A mid-sized nonprofit with 4,000 contacts on Email Plus pays **$32.73/mo with the 30% discount + annual prepay ($392.73/year)** vs $660 standard — saving **$267/year**. The discount stacks with annual prepay savings (additional 15% off).
+
+### How much does Constant Contact Premium ($80/mo) add over Email Plus ($35/mo)?
+**Premium at $80/mo adds A/B testing, dynamic content, advanced reporting, social media posting, and expands the contact range to 10,000 (vs 5,000 on Email Plus)**. The most common reason to upgrade is A/B testing — but it pays back only if you **(1) send 2-4+ campaigns/month with 5,000+ contacts** (subject line tests improve opens 15-25%) and have meaningful sample sizes. If you send 1 campaign/month, A/B testing is overkill and Email Plus at $35/mo is enough.
+
+### Does Constant Contact include transactional email in 2026?
+**No — Constant Contact does not offer transactional email** (receipts, password resets, OTPs) on any tier. If you need transactional, you need a separate service: **MailerLite bundles transactional (MailerSend) on its $20/mo Advanced tier**, **Brevo includes transactional on Free (20,000/mo)**, or **Postmark is purpose-built for transactional at $1.50/1,000 emails**. For ecommerce stores and SaaS apps, this means a separate $20-50/mo bill from another provider on top of Constant Contact.
+
+### What are Constant Contact's hidden costs in 2026?
+The biggest hidden costs: **(1) annual prepay required for lowest rates** — month-to-month is 30-50% more (e.g., Core $12/mo annual → $17/mo month-to-month, +42%); **(2) image storage caps** — 2 GB on Core, 5 GB on Email Plus, 10 GB on Premium (content-heavy senders hit the Core cap within 6-12 months); **(3) internal contact-count thresholds auto-upgrade you** without warning emails, adding $20-50/mo once you cross a band; **(4) list-cleanup requires Email Plus or manual export/reimport** on Core — a 2-3 hour per quarter chore on a 2,000-contact list.
+

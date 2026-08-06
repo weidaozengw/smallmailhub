@@ -321,3 +321,23 @@ Tools tested: Encharge, ActiveCampaign, Iterable, Klaviyo, Mailmodo, Brevo, Send
 ---
 
 *Last updated: July 5, 2026. Tested by the MailPilot team across 8 weeks and 12 tools.*
+
+## Frequently asked questions about Customer.io alternatives in 2026
+
+### Customer.io 在 2026 年的最低月费是多少？
+Customer.io 2026 年的入门门槛是 **$100/mo minimum**——这是 8 款替代品里最贵的起跑线（对比 Encharge $249/mo Starter 但功能对位、ActiveCampaign Lite $29/mo）。$100/mo 不含 Liquid 模板教学成本，文中估算学习曲线 **5 天**才能写出 production-ready 的 workflow。中途切换工具的成本高，文中明确建议：**至少规划 6 个月再切换**。
+
+### Encharge 和 Customer.io 在 2026 年到底差在哪？
+Encharge Starter **$249/mo（2,500 contacts）**、Growth **$399/mo（10K）**、Scale **$799/mo（25K）**——比 Customer.io 的同档位贵 **$149–$549/mo**，但**视觉 workflow 编辑器**（2 小时上手 vs Customer.io 5 天）+ 内置 CRM + Slack 客服 2–4 小时响应。**Encharge 缺的 3 件事**：Liquid 等价模板语言、webhook inspector 工具、Customer.io 700+ integrations（Encharge 300+）。**已经过 Liquid 学习曲线 + 重度依赖 webhook 的团队**：留在 Customer.io；**没有工程师或刚要搭行为触发**：换 Encharge。
+
+### 2026 年 ActiveCampaign 能替代 Customer.io 的行为触发吗？
+**不能完全替代**——ActiveCampaign Lite **$29/mo**（1K 联系人）、Plus $49/mo、Professional **$149/mo（5K）**、Enterprise $299/mo（10K），价格只有 Customer.io 的 30%。**但行为触发只覆盖邮件互动事件**（打开/点击/退订），没有产品使用事件（"完成 onboarding 第 3 步"）。要打产品事件得走 **Zapier**——会有 5–10 分钟延迟 vs Customer.io 的 60 秒内触发。**只看邮件互动 + 不需要产品事件**：ActiveCampaign 替代得不错；**要 SaaS 产品事件流**：选 Encharge 或继续用 Customer.io。
+
+### 2026 年最便宜的 Customer.io 替代品是哪个？
+**Moosend Pro $9/mo（500 contacts）**——是 8 款里起价最低的，其次是 **Brevo Lite $9/mo**（20,000 封/月）和 SendGrid Essentials **$19.95/mo**（50,000 封/月）。**Moosend 不带行为触发能力**（只能做邮件互动自动化）、没有 transactional 邮件、integration 仅 100+（Customer.io 700+）。**$9/mo 适合**：上线前的 SaaS 创业团队、需要基础邮件 automation、不依赖产品事件触发。**超过 1,000 contacts 就要换工具**：Moosend Pro 1K → $18/mo、10K → $108/mo。
+
+### Klaviyo 在 2026 年适合替代 Customer.io 做 SaaS 吗？
+**不适合**——Klaviyo Email **$45/mo（1K）**、Email+SMS **$60/mo（1K）**，是给 Shopify / WooCommerce 电商设计的，自动化模板围绕购物车放弃、复购唤醒、下次购买预测。**没有产品使用事件触发**（"用户用了 feature X"、"完成 onboarding 步骤"），这套是 SaaS 的核心。**做 Shopify 的电商品牌**：Klaviyo 是 Customer.io 之外更好的选择；**做 SaaS**：Klaviyo 不是替代品。
+
+### 2026 年 Iterable 比 Customer.io 强在哪？
+Iterable **$500–$1,500/mo（10K 用户起）**——比 Customer.io $100/mo 最低门槛贵 **5–15 倍**。强在 3 件事：(1) **跨渠道编排**：邮件 + SMS + push + in-app 一个 workflow 跑完；(2) **WYSIWYG Studio 模板编辑器**（非工程师可改）；(3) **企业级 CSM**（所有档位配专属客户成功经理）。弱在：没有免费试用、不适合 100K 用户以下的中小 SaaS。**用 Zillow/Yelp/DoorDash 这种级别、10K–500K 用户、多渠道触达**：Iterable 是 Customer.io 之外唯一现实选项。

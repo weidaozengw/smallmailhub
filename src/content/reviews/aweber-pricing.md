@@ -178,3 +178,23 @@ AWeber's pricing model has real gaps for:
 ## Final verdict
 
 AWeber's 2026 pricing is **honestly the cleanest in the category for small-to-medium lists**. 4 plans, transparent pricing, no overage fees, and no surprise tier jumps until you hit 25,000 subscribers. The biggest downside is the cliff past 25K contacts — Pro at $899/mo is steep. For the 80% of email marketers with under 25K subscribers who value simplicity over feature depth, AWeber remains a strong choice.
+
+## Frequently asked questions about AWeber pricing
+
+### Is AWeber actually free in 2026?
+Yes — **AWeber Free covers up to 500 subscribers with unlimited email sends**, the full drag-and-drop email builder, automation builder, signup forms, and basic reporting. The catch: **AWeber Free does not include landing pages** — a real gap vs MailerLite, Mailchimp, and Brevo, all of which include landing pages on free tiers. Hobby projects and brand-new senders (under 500 contacts) can run on Free; anyone planning to use landing pages needs Lite ($13/mo).
+
+### How much is AWeber Lite per month in 2026?
+**AWeber Lite costs $13/mo on annual billing or $15/mo on month-to-month**, covering 500-25,000 subscribers. The price stays flat across the entire 500-25K range — no per-subscriber scaling until you cross into Pro territory. Lite is among the cheapest entry-level tiers in the category; only MailerLite Starter ($10/mo) is consistently cheaper. Lite unlocks landing pages, 24/7 email + chat support, removal of the AWeber logo, and 3 users.
+
+### What does AWeber Plus ($29/mo) add that Lite ($13/mo) does not?
+**AWeber Plus at $29/mo adds behavioral targeting, advanced automation (conditional workflows, branching logic, webhooks), A/B testing, and AMP email** — at the same 500-25,000 subscriber cap as Lite. The $16/mo premium buys feature depth, not list size. Plus is the right choice if you run behavioral campaigns or need A/B testing to optimize opens; Lite is enough for welcome series and broadcast sends.
+
+### How much does AWeber cost at 25,000 subscribers vs Mailchimp in 2026?
+At 25,000 subscribers with basic needs, **AWeber Lite stays at $13/mo vs Mailchimp Standard at $350+/mo** — a **$337/mo savings**. With behavioral targeting needs, **AWeber Plus at $29/mo vs Mailchimp Standard custom pricing around $350+/mo** still saves $320+/mo. The flip side: at 100,000 contacts, **AWeber Pro at $899/mo is $300+/mo more expensive than Mailchimp Premiere (~$600/mo)**, so AWeber loses at the high-volume end.
+
+### What happens when I cross 25,000 contacts on AWeber Lite or Plus in 2026?
+**Past 25,000 subscribers you're forced into AWeber Pro at $899/mo** (annual) or $999/mo (month-to-month) — a ~30x price jump. There is no native scaling tier between Plus ($29/mo) and Pro ($899/mo). For lists approaching 25K, the practical alternative is to migrate to ActiveCampaign (linear scaling at $169/mo for 10K contacts) or Beehiiv ($99/mo for 10-100K Scale tier).
+
+### Does AWeber charge for additional users or per-email overages?
+**No per-email overage fees on Lite or Plus** — you can send unlimited emails within your subscriber tier. **No charges for additional users within your plan's user limit** (1 user on Free, 3 on Lite, 5 on Plus). **No setup fees, no onboarding fees, no Stripe or PayPal processing fees** on paid newsletter setups. The only hidden cost: past 25K contacts, Pro pricing is essentially custom and the published $899/mo doesn't tell the full story — always ask for a custom quote in the 25K-100K range.

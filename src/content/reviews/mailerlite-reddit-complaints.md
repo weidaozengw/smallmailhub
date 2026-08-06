@@ -134,3 +134,23 @@ MailerLite is **a great tool for small senders (under 2,500 subscribers) who don
 Where MailerLite falls short: high-volume senders (50k+/month) who need dedicated IPs, complex automation workflows that match ActiveCampaign depth, or phone support for time-sensitive issues. If any of those matter, look at Constant Contact ($12/mo, phone support, donation forms) for nonprofits, ActiveCampaign ($29/mo, deep automation) for B2B SaaS, or Klaviyo ($45/mo, ecommerce integration) for Shopify stores.
 
 The 27 Reddit comments we pulled confirm what our own testing showed: MailerLite is the right default for 80% of small business email marketing, but the other 20% will feel constrained fast. Test the Free tier for 30 days with real campaigns, then decide if Starter ($10/mo) covers your needs or if you've outgrown it.
+
+## Frequently asked questions about MailerLite Reddit complaints
+
+### MailerLite 2026 年免费版每天最多发送多少封邮件？
+MailerLite 免费版每天最多发送 **1,000 封邮件**。因此 5,000 人的活动无法在一天内一次发完，Reddit 用户通常选择分段发送，或者升级到 **$10/月 Starter** 获得无限发送。
+
+### MailerLite 2026 年免费版能做几条自动化流程？
+MailerLite 免费版实际只有 **1 个简单触发流程**和 1 封欢迎邮件。它不包含多步骤 drip、行为触发、if/then 分支或目标追踪；Starter **$10/月**可获得更多单触发流程，复杂可视化流程需要 Advanced **$20/月**。
+
+### MailerLite 2026 年 Starter 有多变量测试吗？
+MailerLite Starter **$10/月**没有多变量测试，只提供基础 A/B 测试。多变量测试和高级报告被锁在 Advanced **$20/月**，如果需要点击热图等数据，应把每年额外的 **$120** 计入预算。
+
+### MailerLite 2026 年支持专用 IP 吗？
+MailerLite 的公开付费档位不提供专用 IP，专用 IP 只在 Enterprise 定制合同中提供。文章将每月 **50,000 封以上**的高量发送者列为容易受此限制影响的人群；这类团队应在试用期确认 Enterprise 报价。
+
+### MailerLite 2026 年有电话客服吗？
+MailerLite 2026 年没有电话客服，支持渠道是邮件和聊天。Reddit 用户反馈响应时间从 **2 小时到 24 小时**不等；需要紧急电话支持的团队应评估 Constant Contact 的 $12/月方案。
+
+### MailerLite 2026 年免费版最多能存多少订阅者？
+MailerLite 免费版最多存 **1,000 个订阅者**。这个上限是其被 Reddit 用户称为“最慷慨免费层”的主要原因；超过后，Starter 起价 **$10/月**，且付费层没有免费版的每日发送上限。

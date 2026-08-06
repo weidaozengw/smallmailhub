@@ -178,3 +178,26 @@ For our [complete Kit review](/reviews/kit/), the feature breakdown, or related 
 Real billing data from 7 Kit accounts we tracked from March-June 2026. Subscriber counts ranged from 800 to 22,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying tier upgrade behavior, and cross-referenced with Kit's customer-facing [pricing calculator](https://kit.com/pricing). No Kit employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Kit or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
+
+## Frequently asked questions about ConvertKit (Kit) pricing
+
+### How much does Kit cost in 2026?
+Kit's 2026 pricing is **Free ($0, up to 10,000 subscribers with limited automations) → Creator ($9/mo annual for 1,000 subscribers, scaling linearly) → Creator Pro ($25/mo annual for 1,000) → Enterprise (custom, $250+/mo)**. Monthly billing runs roughly **22% higher** than annual ($11/mo vs $9/mo at the entry tier), so creators who forget to prepay annually pay the difference for a full year. The biggest pricing gotcha is the Free tier: the 10K subscriber cap is real, but the real constraint is the 1-trigger automation floor.
+
+### Is Kit actually free to use in 2026?
+Yes — Kit's Free tier is **the most generous free tier in the creator-focused email space**, covering up to 10,000 subscribers, unlimited email broadcasts, signup forms, 1 landing page, basic automations (welcome + 1 trigger), and basic reporting. The catch is that Free strips commerce (no selling digital products), paid subscriptions, advanced tagging, A/B testing, and most integrations — so any creator doing real monetization must upgrade to Creator at $9/mo.
+
+### How much is Kit Creator per month at different subscriber counts?
+On annual billing, Kit Creator costs **$9/mo (1,000 subs) → $25/mo (1,001-3,000) → $65/mo (3,001-10,000) → $135/mo (10,001-15,000) → $215/mo (15,001-25,000) → $415/mo (25,001-50,000)**. Monthly billing is roughly 20% higher across every tier. Pricing scales linearly with no per-email overage fees, which is the most predictable pricing structure in the creator-focused email category.
+
+### How does Kit pricing compare to MailerLite at the same subscriber count in 2026?
+At 1,000 subscribers Kit Creator is **$9/mo vs MailerLite at $10/mo** (basically tied). At 3,000 it's **$25/mo vs $25/mo** (identical). At 10,000 Kit wins: **$65/mo vs $200/mo for MailerLite** (a $135/mo gap). Above 25,000 subscribers the comparison flips — MailerLite at $400+/mo is closer to Kit's $215/mo but Brevo's send-based pricing starts to dominate at 50K+. Kit's sweet spot is the 3,000-25,000 range.
+
+### Does Kit take a cut of paid newsletter or sponsorship revenue in 2026?
+Yes — **Kit's sponsorship marketplace takes a 12% cut from creator earnings** on newsletter ads in their creator network. This is industry-standard (Substack takes 10%, Beehiiv takes 0% on its Ad Network) but worth budgeting for. Kit Commerce itself does not charge an extra platform fee on paid subscriptions beyond Stripe payment processing.
+
+### What are the hidden costs in Kit's pricing?
+Three charges that surprise creators: **(1) annual prepay discount** — monthly billing is ~22% more expensive than annual at every tier; **(2) premium migration services** — moving 50,000+ subscribers costs $500+ on Creator tier (free on Creator Pro); **(3) transactional email is not included** — Kit has no built-in transactional sending, so creators selling courses must add Postmark or Mailgun ($15/mo extra), which is built into Brevo's $9/mo Lite tier.
+
+### When should a creator upgrade from Kit Creator to Creator Pro?
+Upgrade from Creator ($9/mo) to Creator Pro ($25/mo) **once the newsletter sponsorship ads (Kit's creator network) can pay back the $16/mo difference** — typically within 1-2 months for creators with 5,000+ engaged subscribers. Other unlockables are multistep automations with advanced triggers, premium support (4-hour response), and the referral program. For newsletters under 5,000 subscribers without monetization, Creator Pro rarely earns its place.

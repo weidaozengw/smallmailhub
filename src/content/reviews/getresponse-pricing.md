@@ -188,3 +188,26 @@ Real billing data from 5 GetResponse accounts we tracked from March-June 2026 �
 
 Disclosure: Some links on this page are affiliate links. If you sign up for GetResponse or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 
+## Frequently asked questions about GetResponse pricing
+
+### How much does GetResponse cost in 2026?
+GetResponse's 2026 pricing tiers are **Free ($0, up to 500 subscribers) → Starter $13/mo (1K) → Marketing Plus $119/mo (1K) → Marketing Automation $159/mo (1K) → Enterprise custom ($1,299+/mo)**. The biggest pricing gotcha is the jump from $13/mo Starter to $119/mo Marketing Plus — a **9x increase** — where the bundled webinars and conversion funnels unlock. For small businesses that don't need webinars, GetResponse's Starter is comparable to MailerLite but with a smaller feature set.
+
+### Is GetResponse actually free to use in 2026?
+Yes — GetResponse's Free tier covers **up to 500 subscribers, email broadcasts, autoresponders (basic drip), landing pages, signup forms, and email support** at $0. The catch is that Free excludes A/B testing, marketing automation, webinars, conversion funnels, and advanced segmentation — all gated to paid tiers. Compared to MailerLite (1,000 free subscribers) or Kit (10,000 free), GetResponse's Free tier is 2-20x smaller, so it's only useful for short-term testing.
+
+### How much does GetResponse Marketing Plus cost per month for webinars?
+GetResponse Marketing Plus is **$119/mo for 1,000 contacts** with webinars included (up to 1,000 attendees per session, webinar series, paid webinars, conversion funnels). For a creator doing weekly webinars with paid attendance, this bundle saves **$50+/mo vs separate Zoom Pro ($30/mo) + Leadpages ($37-74/mo) = $67-104/mo stack**. At 5,000 contacts the tier rises to $199/mo; at 10,000 contacts it's $279/mo.
+
+### How does GetResponse pricing compare to ActiveCampaign in 2026?
+GetResponse Marketing Automation at **$159/mo for 1K contacts** is roughly 3x more expensive than ActiveCampaign Plus at $49/mo. ActiveCampaign Plus has deeper conditional branching and native CRM; GetResponse bundles webinars (which ActiveCampaign doesn't have) and conversion funnels. For businesses that don't run webinars, ActiveCampaign Plus at $49/mo + separate Zoom/Demio at $30-50/mo = **$79-99/mo total** beats GetResponse Marketing Automation at $159/mo.
+
+### What are the hidden costs in GetResponse's pricing?
+Three charges that surprise businesses: **(1) annual prepay discount renews at standard pricing** — the 30% annual discount is year 1 only, so renewal hits at full price; **(2) webinar overage fees** — Marketing Plus includes 1,000 attendees per webinar, with paid add-ons at $79/mo for 5,000 attendees and $199/mo for 25,000; **(3) additional seats beyond 5** cost $15/seat/month on Pro+ tiers with team features.
+
+### Does GetResponse include transactional email on any tier?
+GetResponse includes transactional email **only on the Enterprise tier ($1,299+/mo)** — it is not available on any tier below $1,299/mo. For small businesses doing mixed marketing + transactional email, this means a separate service (Postmark, SendGrid, Mailgun) is required. Brevo Lite at $9/mo and MailerLite + MailerSend at $20/mo both include transactional at much lower price points — GetResponse loses on this dimension unless you're already in enterprise pricing.
+
+### When is GetResponse Marketing Plus worth the $119/mo price in 2026?
+GetResponse Marketing Plus at $119/mo is worth the price **for course creators or coaches running 2+ webinars per month with paid attendance**, who would otherwise pay $67-104/mo for separate Zoom + Leadpages subscriptions. The bundle also pays off for content-heavy niches (education, coaching) with pre-built conversion funnels. For solopreneurs or small businesses that don't run webinars, Marketing Plus at $119/mo is 9x more expensive than necessary — pick Starter at $13/mo or switch to MailerLite at $10/mo.
+

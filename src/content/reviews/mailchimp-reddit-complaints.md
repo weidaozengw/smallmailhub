@@ -129,3 +129,23 @@ Mailchimp in 2026 is **a mature, well-integrated tool that pays off for establis
 The 25 Reddit comments we pulled confirm what our own testing showed: Mailchimp's brand recognition is its biggest strength, but the value-for-money calculation has shifted. Unless you specifically need 800+ integrations, multivariate testing, or are locked into the Customer Journey Builder for ecommerce flows, **the smart money in 2026 is migrating to MailerLite (cheapest), Brevo (cheapest bundled transactional), or Klaviyo (best Shopify integration)**.
 
 Test alternatives for 30 days before committing to Mailchimp's annual prepay. The Reddit consensus is clear: for the price, there are better tools available in 2026.
+
+## Frequently asked questions about Mailchimp Reddit complaints
+
+### Mailchimp 2026 年为什么会被 Reddit 用户投诉价格上涨？
+Mailchimp 的价格会在联系人数量跨过阈值时从 **$13/月 Essentials** 升到 **$20/月 Standard**，再可能跳到 **$135/月**。文章整理的 25 条 Reddit 评论中，11 位用户提到联系人门槛导致账单上涨。联系人接近阈值时，先清理不活跃订阅者并核算下一档成本。
+
+### Mailchimp 2026 年免费版最多支持多少联系人？
+Mailchimp 免费版最多支持 **500 个联系人**。文章的对比数据指出，MailerLite 免费版覆盖 1,000 个联系人，因此 Mailchimp 更适合联系人规模较小、且需要其成熟集成生态的用户。
+
+### Mailchimp 2026 年 Essentials 每月最多发送多少封邮件？
+Mailchimp Essentials 每月最多发送 **5,000 封邮件**。文章中的 Reddit 用户表示，4,000 个订阅者每月发送 newsletter 和自动化邮件时很快就会超过这个上限；需要更高发送量时应把 Standard 的价格和联系人档位一起计算。
+
+### Mailchimp 2026 年电话客服需要多少钱？
+Mailchimp 要到 **$299/月 Premium** 才提供电话支持。Essentials 和 Standard 主要依赖聊天与邮件支持，文章记录的一个案例中聊天支持等待了 14 小时；如果紧急问题必须电话处理，应把 Constant Contact 的 $12/月方案一并比较。
+
+### Mailchimp 2026 年哪一档才有 Customer Journey Builder？
+Mailchimp Standard 的价格是 **$20/月**，这一档才解锁 Customer Journey Builder。Essentials **$13/月**只有 1 个触发式自动化流程；需要弃购或行为触发等复杂流程时，不能只按 Essentials 的标价预算。
+
+### Mailchimp 2026 年和 AWS SES 相比贵多少？
+文章中的 Reddit 用户反复认为 AWS SES 在规模化发送时约为 Mailchimp 成本的 **10%**。AWS SES 需要开发能力，而 Mailchimp 提供 800+ 集成和可视化工具；技术团队可先按实际发送量做两套月度成本测算。

@@ -163,3 +163,23 @@ For our [complete Brevo review](/reviews/brevo/), the feature-by-feature compari
 Real billing data from 6 Brevo accounts we tracked from October 2025 to June 2026. Email volumes ranged from 2,000 to 180,000 sends per month. We compared against public pricing and three confidential support transcripts confirming overage and tier upgrade behavior. No Brevo employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Brevo or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
+
+## Frequently asked questions about Brevo pricing
+
+### Is Brevo actually free in 2026?
+Yes — **Brevo Free covers 300 emails/day (≈9,000/month) with unlimited contacts**, email + SMS + WhatsApp campaigns, signup forms, basic segmentation, and **20,000 transactional emails/month**. The two big traps: **no marketing automation** (multi-step sequences require Lite at $9/mo) and the **300 emails/day cap** — a single blast to 3,500 subscribers takes ~12 days on Free. Hobby projects and very low-volume senders can run on Free; anyone sending weekly newsletters needs Lite.
+
+### How much is Brevo Lite per month in 2026?
+**Brevo Lite costs $9/mo on annual prepay or $11/mo on monthly billing**, covering **20,000 emails/month with no daily cap**. Lite unlocks marketing automation, A/B testing, advanced segmentation, 3 users, and removal of the Brevo logo. At 20,000 emails/month, you can send a weekly newsletter to 5,000 subscribers (4 × 5,000) without overage fees — covering most small businesses under 5,000 subscribers.
+
+### Does Brevo include transactional email in 2026?
+**Yes — transactional email is bundled on every Brevo tier, including Free (20,000/mo)**. On Lite and above, transactional sends consume from your overall send budget at overage rates around **$0.0009/email**. By comparison, **Mailchimp requires the separate Mandrill service ($20/mo base + per-email fees)** for transactional. For an ecommerce store sending 10,000 marketing + 10,000 transactional emails/month, Brevo Lite at $9/mo handles both, while Mailchimp + Mandrill starts at $33/mo.
+
+### How much does Brevo cost at 50,000 emails/month vs Mailchimp in 2026?
+At 50,000 emails/month to 10,000 contacts, **Brevo Starter at $18/mo with overage runs ~$31-39/mo** vs **Mailchimp Premiere custom at $80+/mo** — Brevo saves **$40-50/mo**. At 200,000 emails/month to 50,000 contacts, **Brevo runs ~$90+/mo** vs **Mailchimp $400+/mo** — savings of **$200+/mo**. Brevo's send-based pricing (vs Mailchimp's contact-based) is the core advantage for businesses with large lists and low send frequency.
+
+### What changed in Brevo pricing in 2026?
+The 2026 changes since Brevo's November 2024 restructure: **Free tier daily limit increased from 200 to 300 emails/day**; **marketing automation removed from Free** (now requires Lite+); **Starter tier added multi-channel campaigns** (email + SMS + WhatsApp combined); **Sales pipeline included in Starter** (was Standard-only); **annual prepay discount increased from 15% to 20%**. If you signed up before November 2024, you may have free marketing automation grandfathered on Free — confirm with support.
+
+### What is Brevo's Starter tier ($18/mo) and who needs it?
+**Brevo Starter at $18/mo is a $9/mo jump from Lite**, adding 4 users (vs 3), advanced reporting, multi-channel campaigns (email + SMS + WhatsApp combined workflows), the basic CRM/sales pipeline, and priority support. **Senders with 50K emails/month or 4+ team members need Starter** to avoid per-email overages and unlock the CRM. Most businesses never need to go above Starter — Standard ($449/mo) and Premium ($989/mo) are enterprise territory with dedicated IPs and SAML SSO.

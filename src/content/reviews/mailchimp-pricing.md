@@ -107,7 +107,7 @@ If you're locked into Mailchimp and want to optimize, four moves work:
 
 ## The verdict
 
-Mailchimp pricing in 2026 is **fair below 2,000 contacts, expensive above 2,500 contacts, and out of market above 10,000 contacts**. The free tier is now too small to be useful for any growing business (250 contacts, 500 sends/mo), so most businesses pay something within a year.
+Mailchimp pricing in 2026 is **fair below 2,000 contacts, expensive above 2,500 contacts, and out of market above 10,000 contacts** — most growing businesses hit one of those thresholds within 12-18 months and pay 2-3x the signup-page quote. The free tier is now too small to be useful for any growing business (250 contacts, 500 sends/mo), so most businesses pay something within a year.
 
 The tool itself is excellent — see our [full Mailchimp review](/reviews/mailchimp/) for that conversation. Pricing is a separate decision, and the answer is much more conditional than the marketing page suggests.
 
@@ -122,3 +122,26 @@ The tool itself is excellent — see our [full Mailchimp review](/reviews/mailch
 Real billing data from 12 Mailchimp accounts we tracked from March-June 2026. Contact counts ranged from 350 to 28,000. We compared actual invoices against public pricing, ran three confidential support transcripts to verify overage and add-on charges, and cross-referenced with Mailchimp's customer-facing [pricing calculator](https://mailchimp.com/pricing). No Mailchimp employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Mailchimp or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
+
+## Frequently asked questions about Mailchimp pricing
+
+### How much does Mailchimp cost in 2026?
+Mailchimp's 2026 pricing tiers are **Free ($0, up to 250 contacts / 500 sends/mo) → Essentials $13/mo annual (500 contacts, 10× contact sends) → Standard $20/mo annual (500 contacts, 12× sends) → Premier custom (10K contacts at $350/mo legacy)**. Monthly billing is **~15% more expensive** than annual ($15/mo vs $13/mo at Essentials). The biggest pricing gotcha is the jump at 2,500 contacts — your bill moves from $20/mo Standard to ~$76/mo Premier custom, roughly a 4x increase with no warning.
+
+### Is Mailchimp actually free to use in 2026?
+Yes — but **the free tier is now too small for any growing business**. Free covers 250 contacts and 500 sends/month (down from 2,000 contacts / 10,000 sends/mo pre-2022). For comparison, MailerLite's free tier caps at 1,000 subscribers and Kit's free tier at 10,000. Most small businesses pay something within a year because 250 contacts is below the threshold where email becomes useful. The free tier is now genuinely a 30-day trial rather than a long-term free plan.
+
+### How much does Mailchimp cost per month at 2,500 contacts in 2026?
+At 2,500 contacts, Mailchimp pushes most businesses to **Premier custom pricing at ~$76/mo** — a sharp jump from Essentials at $20/mo for 500 contacts. Compared to alternatives: Klaviyo Email at the same 2,500 contacts is **$90/mo** (slightly more but with better Shopify sync), MailerLite at 2,500 is **$20/mo** (5x cheaper), and ActiveCampaign Starter at 2,500 is **$49/mo**. Mailchimp's pricing is **out of market** for businesses that cross the 2,500 contact threshold.
+
+### Does Mailchimp include transactional email without extra cost?
+No — Mailchimp requires **Mandrill** (Mailchimp's sister service) for transactional email, which costs **$20/mo base + $20 per 25,000 transactional sends**. Most small businesses pay $30-50/mo here without realizing it. Compared to Brevo Lite at $9/mo with **20k transactional sends bundled free**, or Postmark at $10/mo for 10k transactional sends, Mailchimp's transactional pricing is expensive. For stores sending both marketing + transactional email, the Mailchimp stack adds $30-50/mo on top of the marketing bill.
+
+### What are Mailchimp's overage fees in 2026?
+Mailchimp charges **$3 per 1,000 additional emails** past your tier's send quota, charged automatically without an approval prompt. On Essentials at 500 contacts with 10× sends = 5,000 sends/mo, a weekly newsletter (4 × 800 = 3,200 sends) plus a one-time campaign blast can spike past the cap. The overage is automatic — there is no opt-in warning. To avoid surprise overage charges, calculate weekly sends × 4 + campaigns and stay under the tier limit.
+
+### How much does Mailchimp cost at 10,000 contacts in 2026?
+At 10,000 contacts Mailchimp is **Premier custom pricing at $250/mo** vs MailerLite at $264/mo (basically tied), Klaviyo Email at $200/mo (Klaviyo wins by $50/mo), Brevo at $9/mo + heavy overage, and ActiveCampaign Plus tier-jump pricing. Mailchimp is competitive at the 10K mark but loses at 25-50K contacts where Premier custom jumps to $575-$1,500/mo. Above 10,000 contacts Klaviyo, Brevo, and ActiveCampaign all scale more economically.
+
+### When is Mailchimp pricing the right call in 2026?
+Mailchimp is the right call **if you genuinely use bundled features (social posting, postcards, landing pages, brand kit), your contact list stays under 2,000 long-term where Essentials pricing is competitive, or you need the deepest third-party integrations (300+ vs MailerLite's 100, Kit's 40, Brevo's 60)**. Mailchimp is the wrong call if you cross 2,500 contacts (bill jumps to $76/mo+), you send high-frequency transactional + marketing email (Mandrill $20/mo + usage fees), or you scale past 10,000 contacts (out-of-market at 25K+).

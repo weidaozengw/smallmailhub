@@ -187,3 +187,23 @@ If Mailmodo is too expensive or too focused on interactive, consider:
 ---
 
 *Last updated: July 5, 2026. Tested by the MailPilot team across 8 weeks and 47 campaigns.*
+
+## Frequently asked questions about Mailmodo
+
+### Mailmodo 2026 年免费版每月能发多少封邮件？
+Mailmodo 免费版每月最多发送 **100 封邮件**，并支持 1,000 名订阅者。这个额度只适合测试交互组件；要进行实际团队营销，Essentials 是 **$99/月**并包含 10,000 封邮件。
+
+### Mailmodo 2026 年 Essentials 每月多少钱？
+Mailmodo Essentials 为 **$99/月**，包含每月 **10,000 封邮件**和最多 10,000 名订阅者。文章的测试显示，只有在邮件有 demo、调查或 RSVP 等转化目标时，互动组件带来的收益才更可能覆盖这项成本。
+
+### Mailmodo 2026 年互动邮件比普通邮件提高多少转化？
+测试中互动邮件的转化率约为普通静态邮件的 **2-3 倍**。例如 demo 预约从静态邮件的 4.2%升到互动日历的 11.7%，平均预约时间也从 18 小时缩短到 4 小时。
+
+### Mailmodo 2026 年 AMP 邮件有多少收件人能看到互动版本？
+测试中约 **80%** 的收件人能看到 AMP 互动版本，约 20%会看到静态 HTML 回退版本。Mailmodo 会自动回退，因此旧版 Outlook 等不支持 AMP 的客户端仍能收到普通邮件。
+
+### Mailmodo 2026 年互动邮件送达率是多少？
+Mailmodo 在 12,000 名订阅者、47 次测试活动中的收件箱到达率为 **96.4%**。文章称没有观察到垃圾邮件标记增加或 Gmail Promotion Tab 降权，结果与静态邮件行业常见的 95%-99%范围相近。
+
+### Mailmodo 2026 年 Pro 方案每月多少钱？
+Mailmodo Pro 为 **$399/月**，包含每月 **50,000 封邮件**和最多 50,000 名订阅者。相比 Essentials 多出的预算适合已有规模、需要大量互动活动的团队；每月发送少于 5,000 封时，文章建议考虑 MailerLite $10/月。

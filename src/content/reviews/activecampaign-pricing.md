@@ -202,3 +202,23 @@ Real billing data from 6 ActiveCampaign accounts we tracked from March-June 2026
 
 Disclosure: Some links on this page are affiliate links. If you sign up for ActiveCampaign or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 
+## Frequently asked questions about ActiveCampaign pricing
+
+### How much does ActiveCampaign cost per month in 2026?
+ActiveCampaign pricing in 2026 starts at **$29/mo for Lite (1,000 contacts)** and scales to **$49/mo Plus (1K)**, **$259/mo Professional (1K)**, and **$1,000+/mo Enterprise (50K+)**. The biggest jump is **Plus → Professional at $210/mo**, which unlocks predictive sending, advanced reporting, custom user roles, and a dedicated IP option.
+
+### Is ActiveCampaign actually free in 2026?
+No — **ActiveCampaign has no free tier**. The cheapest entry is **Lite at $29/mo** for 1,000 contacts, which makes it the most expensive entry point among mainstream tools (MailerLite Starter $10/mo, Mailchimp Essentials $13/mo, Brevo Lite $9/mo, Klaviyo Free $0 all undercut it). ActiveCampaign offers a 14-day free trial but no permanent free plan.
+
+### What is the price difference between ActiveCampaign Plus and MailerLite Advanced at 1,000 contacts?
+At 1,000 contacts, **ActiveCampaign Plus costs $49/mo** vs **MailerLite Advanced at $20/mo** — a $29/mo premium for ActiveCampaign's visual automation canvas, lead scoring, and built-in CRM. The premium shrinks at 5,000 contacts ($99/mo AC vs $85/mo MailerLite) and disappears around 10K, where ActiveCampaign Plus at $169/mo is cheaper than MailerLite Advanced at $200/mo.
+
+### How much does ActiveCampaign cost at 10,000 subscribers in 2026?
+At 10,000 contacts, **ActiveCampaign Plus costs $169/mo**, **MailerLite Advanced $200/mo**, **Mailchimp Standard $250+/mo**, and **Brevo Lite $9/mo + heavy overage**. ActiveCampaign is genuinely the cheapest automation-first option at the 10K mark, but only if you use the lead scoring and visual automation canvas — otherwise MailerLite's $200/mo delivers similar core features at $31/mo savings only if automation depth doesn't matter.
+
+### When does ActiveCampaign Professional at $259/mo actually pay back?
+Professional at $259/mo pays back for **B2B SaaS or agencies at $200K+/year ARR** that need predictive sending (AI-driven send time), advanced attribution reporting, custom user roles for 5+ person teams, or a dedicated IP for 50K+ monthly sends. For sub-$200K businesses, Professional is out of scope — the $210/mo jump over Plus buys features most small businesses won't use.
+
+### Does ActiveCampaign include transactional email in any tier?
+No — **ActiveCampaign does not include transactional email in any tier**. Order confirmations, shipping notifications, and password resets require a separate service: SendGrid ($15-20/mo for 50K emails), Postmark ($15/mo), Mailgun ($35/mo), or AWS SES ($0.10/1K). The cheapest ActiveCampaign + transactional bundle runs **$64/mo** ($49 Plus + $15 Postmark), while **Brevo Lite at $9/mo includes transactional bundled** — a 7x price gap.
+

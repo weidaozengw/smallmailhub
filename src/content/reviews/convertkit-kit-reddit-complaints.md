@@ -139,3 +139,23 @@ Kit (ConvertKit) is **a great tool for creators with under 10,000 subscribers wh
 Where Kit falls short: deliverability on shared IPs (trails MailerLite and Mailchimp), no multivariate testing, and limited Free tier automations. If any of those matter for your business, look at MailerLite ($10/mo Starter with better deliverability) or ActiveCampaign Plus ($49/mo with multivariate testing and deeper automation).
 
 The 22 Reddit comments we pulled confirm what our own testing showed: Kit is the right default for creator-led businesses, but the rebrand confusion and Free tier automation limits are real friction. Test the Free tier for 30 days with real campaigns before committing to the $9/mo Creator tier.
+
+## Frequently asked questions about ConvertKit (Kit) Reddit complaints
+
+### Why do Reddit users still call ConvertKit "ConvertKit" instead of "Kit" in 2026?
+The 2024 rebrand from ConvertKit to Kit caught long-time users off guard, and Reddit still calls it ConvertKit in roughly **90% of posts from 2024-2026** — making it the most-cited complaint (9 of 22 users). The signup email still comes from `@convertkit.com` even though the product is branded Kit. The practical workaround is to search "ConvertKit Kit" together when looking for help docs and treat "ConvertKit" as the legacy name.
+
+### Is Kit's Free tier really unlimited for automations in 2026?
+No — Kit advertises "automation workflows" on Free, but the actual implementation is **1 welcome email + 1 simple trigger-based flow + visual automations capped at 100 steps total**. This surprised 7 of 22 Reddit users who expected multi-step drip campaigns on Free. To get real multi-step automations, you must upgrade to Creator at $9/mo, where the step cap is removed (though premium triggers still require Creator Pro at $25/mo).
+
+### How bad is Kit's deliverability compared to MailerLite in 2026?
+Reddit users report Kit's shared IP inbox placement at **92-95%**, while MailerLite and Mailchimp consistently land at **97-99%** — a meaningful gap for creators whose revenue depends on inbox delivery. One r/Affiliatemarketing user saw Gmail open rates drop from 35% to 28% after migrating from Mailchimp to Kit. Workarounds include setting up SPF/DKIM/DMARC (Kit handles this for you), confirmed opt-in, pruning inactive subscribers quarterly, and monitoring Gmail Postmaster Tools.
+
+### Does Kit have multivariate A/B testing on any tier?
+No — Kit only offers **simple subject line A/B testing on the Creator tier** ($9/mo), with no multivariate testing, send-time optimization, or content-block A/B on any plan. This was flagged by 4 of 22 Reddit creators who want to test subject line vs preview text vs send time in one experiment. Mailchimp Premium ($299/mo) and ActiveCampaign Plus ($49/mo) both ship real multivariate testing.
+
+### What do creators on Reddit actually love about Kit in 2026?
+**14 of 22 users** praised Kit for: the creator-first UI beating Mailchimp for plain-text newsletters, the most generous free tier in the creator space (10,000 subscribers), built-in commerce for selling digital products without a separate tool, sender authentication (SPF/DKIM/DMARC) handled by Kit so non-technical creators save hours of DNS setup, and the cleanest visual automation builder for plain creator workflows.
+
+### How many subscribers do you really get on Kit Free before you must upgrade?
+The Free tier technically supports **up to 10,000 subscribers**, but the actual constraint is automation limits, not the subscriber count. The moment you want a real welcome sequence + paid drip + re-engagement + tagging system (typically a creator at 1,000-3,000 subscribers), you are forced to upgrade to Creator at $9/mo. The 10K cap is the hard ceiling, the automation restrictions are the daily-friction ceiling.

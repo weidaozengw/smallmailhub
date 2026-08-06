@@ -186,3 +186,23 @@ For our [complete MailerLite review](/reviews/mailerlite/), the feature-by-featu
 Real billing data from 8 MailerLite accounts we tracked from March-June 2026. Subscriber counts ranged from 250 to 12,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying overage and tier upgrade behavior, and cross-referenced with MailerLite's customer-facing [pricing calculator](https://www.mailerlite.com/pricing). No MailerLite employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for MailerLite or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
+
+## Frequently asked questions about MailerLite pricing
+
+### MailerLite 2026 年免费版最多支持多少订阅者？
+MailerLite 免费版最多支持 **1,000 个订阅者**，每月最多发送 **12,000 封邮件**。同时存在每天 **1,000 封**的发送上限；需要一次性向完整列表发送活动邮件时，Starter 的无限发送更合适。
+
+### MailerLite 2026 年 Starter 每月多少钱？
+MailerLite Starter 年付为 **$10/月**，月付为 **$11/月**。Starter 包含 1,000 个订阅者、无限月发送、A/B 测试和 5 个用户席位，适合刚超过免费版每日发送限制的小企业。
+
+### MailerLite 2026 年 Advanced 和 Starter 差多少钱？
+Advanced 为 **$20/月**，比 Starter 年付多 **$10/月**。这 $10 主要换来多变量测试、自动重发和高级报告；如果只需要主题行 A/B 测试，文章建议继续使用 Starter。
+
+### MailerLite 2026 年 5,000 个订阅者每月多少钱？
+5,000 个订阅者时，MailerLite Starter 价格表为 **$65/月**，Advanced 为 **$85/月**。文章的竞品表显示，同规模 Brevo 约为 $9/月加超额费用，因此低频发送的大列表应同时计算按发送量计费的方案。
+
+### MailerLite 2026 年免费版每天能发多少封邮件？
+MailerLite 免费版每天最多发送 **1,000 封邮件**。即使账户有 1,000 个订阅者，这个日上限也会限制同日批量发送；升级 Starter 后月发送无限且没有每日上限。
+
+### MailerLite 2026 年 MailerSend 事务邮件要多少钱？
+MailerLite Starter 加 MailerSend 的典型组合是 **$20/月**，其中 MailerSend $10/月包含 50,000 封邮件且无每日上限。超过该额度后，超额费为 **$0.20/1,000 封邮件**；免费 MailerSend 则是每月 3,000 封、每天 100 封。

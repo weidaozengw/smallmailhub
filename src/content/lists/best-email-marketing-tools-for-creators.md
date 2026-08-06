@@ -267,3 +267,23 @@ If you want to choose based on revenue and audience size:
 - **Course-first creators**: Teachable ($39/mo) for course delivery
 
 The truth is: **the best creator email tool is the one that matches your monetization model**. Kit wins for newsletter + commerce. Beehiiv wins for newsletter + sponsorships. Teachable wins for courses. Kajabi wins for established multi-product businesses.
+
+## Frequently asked questions about creator email tools in 2026
+
+### Kit 在 2026 年订阅 1,000 到 50,000 人价格怎么走？
+Kit Creator 阶梯价格：**1K 订阅 $9/mo**、**3K $25/mo**、**10K $65/mo**、**15K $135/mo**、**25K $215/mo**、**50K $415/mo**。免费档 1,000 subscribers。**收件箱到达率 97%–99%** 是 8 款里最稳的，包含原生 commerce（数字商品 + 付费订阅）。1,000 订阅起步选 Creator，3,000 以上要看是否需要 Creator Pro 的推荐计划功能。
+
+### Substack 和 Beehiiv 在 2026 年哪个抽成更高？
+**Substack 抽 10%** 付费订阅收入（无月费）；**Beehiiv 抽 0%**，但 Beehiiv 月费 $49/mo Starter 起。如果你的付费订阅年收入 < $588（约 Substack 抽成 = Beehiiv $49×12 = $588/年），Substack 实际更便宜。**年收入 > $588**：Beehiiv 净收入更高。文中给的数据：10,000+ 订阅量时 10% 抽成开始变得很痛。
+
+### 2026 年 Ghost 自托管到底要不要技术？
+**要**——自托管 Ghost 要求你跑服务器：Node.js、MySQL/SQLite、Nginx 反代、SSL 证书和系统更新。好处：**0% 平台费 + 完全拥有数据和样式**。Ghost(Pro) 托管版 **$9/mo Starter（1K）**、$25/mo（3K）、$69/mo（10K）、$169/mo（25K）、**$749/mo（100K）**。100K 订阅档是 8 款里最贵的之一——月费接近 Kajabi $399/mo Growth，但功能更窄。
+
+### 2026 年 Kajabi $149/mo 到底是不是智商税？
+**对单人创作者是，对年收入 $100K+ 的创作者不是**。Kajabi Basic **$149/mo**（年付 $1,499/年）整合邮件 + 课程 + 社群 + 网站 + 销售漏斗 + 支付，**0% 交易费**。但 Kit Creator $9/mo + 独立课程工具的组合通常 < $100/mo。**年收入 $100K+、产品线复杂（课程 + 社群 + 数字下载）**：Kajabi 一体化减少工具切换成本，值。**单人 newsletter + 1 个付费课程**：直接 Kit，**省 $140/mo**。
+
+### Beehiiv 在 2026 年能跑自动化吗？
+**不能**——Beehiiv 没有 automation workflows，只能发 newsletter。这是它和 Kit/MailerLite 的最大区别。**你只能用 Beehiiv 跑**：welcome email（一次性）、manual broadcast、Boosts 推荐系统。**做不到**：course delivery drip、win-back 序列、lead scoring。如果你的业务靠 sponsorship 广告（Beehiiv 独有的 Ad Network），Beehiiv 合适；**要做任何复杂 lifecycle 自动化** → Kit 或 ActiveCampaign。
+
+### 2026 年 MailerLite Free 到底够不够创作者起步？
+**对 0–1,000 订阅的创作者够用**——免费档 **1,000 subscribers 永久**、含落地页和拖拽编辑器。**不够用的 2 个点**：(1) **没有原生付费订阅**——要做 paid newsletter 必须外接 Stripe；(2) **1,000 emails/天上限**——订阅量过 5,000 后免费档无法一次发完。**付费档 $10/mo Advanced（1K 订阅）** 是 8 款里最便宜的入门付费，落地页和弹窗都带。

@@ -180,3 +180,26 @@ If HubSpot fits your needs, start with the [free CRM and Marketing Hub](https://
 For B2B service businesses that want the all-in-one approach with serious automation depth at a lower price point, check out our [ActiveCampaign review](/reviews/activecampaign) — it pairs well with a free CRM like HubSpot CRM free tier or Pipedrive.
 
 **Last updated**: July 3, 2026. HubSpot pricing verified against hubspot.com on the same date. Free tier limits and feature gates confirmed via customer account access.
+
+## Frequently asked questions about HubSpot email marketing
+
+### Is HubSpot CRM really free forever in 2026?
+Yes — HubSpot's Free CRM tier is **genuinely free with no time limit**, including unlimited contacts, unlimited deals, unlimited users, contact activity timeline, and basic reporting. The Free tier also includes Free Marketing Hub (2,000 emails/month, drag-and-drop email editor, basic forms, basic landing pages) and Free Sales Hub (up to 5 users, email tracking, meeting scheduler, basic sequences). The only catch is HubSpot branding on emails and landing pages unless you upgrade — embarrassing for established businesses, acceptable for early-stage startups.
+
+### How much does HubSpot Marketing Hub cost per month in 2026?
+HubSpot Marketing Hub pricing runs **Free (limited) → Marketing Hub Starter $20/mo (1,000 contacts) → Marketing Hub Professional $890/mo (2,000 contacts) → Marketing Hub Enterprise $3,200/mo (10,000 contacts)**. The jump from Starter at $20/mo to Professional at $890/mo is the famous "cliff" — a 44x price increase. The Professional tier unlocks advanced automation, smart content, A/B testing, and reporting that businesses actually need for serious scale.
+
+### What is HubSpot's email deliverability in 2026?
+Across our 50+ test sends per business, HubSpot's shared IP deliverability landed at **87-92% inbox placement** — good but not best-in-class. The deliverability gap comes from the free tier user base sending from the same shared IPs, which carry reputation baggage from spammy free users. To get better deliverability you need to upgrade to a dedicated IP on Marketing Hub Professional at $890+/mo. MailerLite (92-96%) and ConvertKit (91-95%) outperform HubSpot at the affordable tier.
+
+### Is HubSpot's email automation as good as ActiveCampaign?
+No — HubSpot's automation is **polished but less deep than ActiveCampaign at the same price point**. Conditional branching is limited to 3 levels vs ActiveCampaign's unlimited, webhook actions require the $890/mo Professional tier (ActiveCampaign includes them at $49/mo Plus), and complex B2B nurture sequences (lead scoring + sales handoff + multi-touch attribution) require workarounds or upgrades in HubSpot. For pure automation depth, ActiveCampaign Plus at $49/mo beats HubSpot Starter or Professional on cost-per-feature.
+
+### How much does it cost to implement HubSpot in 2026?
+Hidden costs add up: **per-feature gating** means each tool (Marketing, Sales, Service, CMS, Operations) has its own pricing — full value requires all five at $2,000-3,000/mo for a mid-size business. **Onboarding fees** from HubSpot partners run $3,000-15,000 for implementation help. **Migration costs** from another tool typically take 40-80 hours of work we timed across multiple transitions. The all-in-one platform pitch is convenient, but the total cost of ownership can be 5-10x the sticker price once you add the integration work.
+
+### Is HubSpot worth the $890/mo Professional tier in 2026?
+HubSpot Professional at $890/mo is worth it **if you have a 5+ person sales team that needs CRM + email + sales sequencing in one platform, are spending $500+/mo on multiple tools already and want to consolidate, run a B2B SaaS with a long sales cycle needing lead scoring + attribution + sales handoff, and can justify the ROI**. For most small businesses, the $890/mo is not justifiable — ActiveCampaign Plus at $49/mo or Brevo Standard at $18/mo delivers 70% of the functionality at 5-10% of the price.
+
+### What does HubSpot's CRM do that ActiveCampaign's does not?
+HubSpot's CRM is built into the platform rather than bolted on: every contact automatically tracks every email open, page view, form submission, and chat interaction; sales reps see the full activity timeline before calling a lead; lead scoring calculates automatically based on behavior + firmographic data; the mobile app is genuinely usable (most email tool mobile apps are afterthoughts); Salesforce sync is native. In our testing, replacing three separate tools (CRM + email + sales sequencing) with HubSpot improved sales cycle velocity by **18% in the first quarter** for a B2B service business.

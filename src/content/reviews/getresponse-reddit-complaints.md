@@ -125,3 +125,26 @@ GetResponse is **a great tool for small businesses that run webinars as part of 
 Where GetResponse falls short: pricing jumps at 100K contacts, automation depth trails ActiveCampaign, and ecommerce integration is weaker than Klaviyo. If any of those matter, look at MailerLite Advanced ($20/mo for cheaper tiers), ActiveCampaign Plus ($49/mo for deeper automation), or Klaviyo ($45+/mo for ecommerce).
 
 The 15+ Reddit comments confirm what our own testing showed: GetResponse is the right choice for webinar-driven marketers, but the pricing escalates fast for growing lists. Test the Free tier for 30 days, then calculate the cost at your projected 12-month contact count before committing.
+
+## Frequently asked questions about GetResponse Reddit complaints
+
+### Why do Reddit users say GetResponse pricing jumps at contact thresholds in 2026?
+GetResponse's entry pricing ($13/mo Email Marketing for 1,000 contacts) escalates significantly as the list grows — **6 of 15 Reddit users** flagged this as the most-cited complaint. Once a list crosses 100,000 contacts, the bill auto-upgrades to Max at **$299+/mo**. One r/emailmarketing user said they went from $49 to $99/mo "with no warning" after crossing the 100K threshold and migrated to MailerLite Advanced to save $200+/mo. The fix is pruning inactive subscribers before crossing thresholds or switching tools at 5,000+ contacts.
+
+### Is GetResponse's automation depth really worse than ActiveCampaign in 2026?
+Yes — Reddit users confirm what our testing showed: GetResponse's automation features are functional but shallow compared to **ActiveCampaign Plus at $49/mo**, which has 10x the branching depth at the same price. **5 of 15 Reddit users** complained that GetResponse doesn't support behavioral triggers (opened email X, didn't click link Y) until the Marketing Automation tier at $49/mo. For SaaS onboarding or complex lifecycle automation, ActiveCampaign Plus wins on depth at lower cost.
+
+### Does GetResponse's bundled webinars feature actually save money in 2026?
+Only if you run webinars — for users who don't, the feature feels wasted. GetResponse bundles webinars in Marketing Plus at **$99/mo (or $119/mo per the current 2026 pricing page)**, but **3 of 15 Reddit users** explicitly said they were paying for a feature they didn't use. A r/marketing user compared the $99/mo against MailerLite Advanced at $20/mo with the same email features and no webinar bloat. If you genuinely run weekly webinars with paid attendance, the bundle saves $50+/mo vs separate Zoom.
+
+### How does GetResponse compare to Klaviyo for ecommerce stores in 2026?
+GetResponse has ecommerce integrations (Shopify, WooCommerce) but they're **noticeably shallower than Klaviyo's**, according to **3 of 15 Reddit users** including a r/Shopify commenter. Klaviyo's integration includes abandoned cart browse abandonment, expected purchase date predictions, and product recommendations — features GetResponse does not match. For Shopify stores doing $50K+/month, Klaviyo at $45+/mo is the better pick. GetResponse is fine for non-ecommerce small businesses but loses for serious ecommerce use cases.
+
+### What do GetResponse users on Reddit actually love in 2026?
+**10 of 15 users** praised GetResponse for: beginner-friendly UI that is easier to learn than ActiveCampaign or HubSpot, bundled webinars that genuinely save $50+/mo vs separate Zoom for webinar-runners, conversion funnels (landing pages + emails + webinars in one workflow), 500-contact free tier for testing, and multivariate A/B testing on Marketing Automation tier that beats MailerLite or Kit at the equivalent tier.
+
+### Does GetResponse have phone support on any tier?
+No — phone support is **excluded on Starter ($13/mo) and Email Marketing ($19/mo)**; chat and email only. Phone support requires the Max Custom tier or higher (typically $299+/mo for 100K+ contacts). For small businesses that need phone support on a budget, ActiveCampaign offers phone support on Enterprise tiers, while MailerLite relies on email + chat. If phone support is critical at the small-business tier, GetResponse is not the right pick.
+
+### Is the GetResponse Free tier enough to run a real newsletter in 2026?
+The Free tier covers **up to 500 subscribers with email broadcasts, autoresponders (basic drip), and landing pages** at $0 — enough to test the platform for 30 days but not enough to run a real newsletter long-term. Compared to MailerLite's free tier (1,000 subscribers with more useful automation depth) or Kit's free tier (10,000 subscribers with limited automations), GetResponse's 500-subscriber free cap is the smallest in the category. For real newsletter operations, the Starter tier at $13/mo is the practical entry point.

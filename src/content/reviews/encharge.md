@@ -209,3 +209,26 @@ If Encharge doesn't fit, consider:
 ---
 
 *Last updated: July 5, 2026. Tested by the MailPilot team across 6 weeks and 18 automation workflows.*
+
+## Frequently asked questions about Encharge
+
+### How much does Encharge cost in 2026?
+Encharge's 2026 pricing runs **$249/mo Starter (2,500 contacts, 3 seats) → $399/mo Growth (10,000 contacts, 10 seats) → $799/mo Scale (25,000 contacts, 25 seats) → custom Enterprise**. There is no free tier, only a 14-day trial. Hidden costs include SMS at $0.01/message + $50/mo platform fee, landing pages at $49/mo (advanced only — basic pages are free), and webinar integrations charging $0.50/registrant after the first 100.
+
+### Is Encharge cheaper than HubSpot Marketing Hub in 2026?
+Yes — Encharge Growth is **$399/mo for 10,000 contacts** with behavior triggers and CRM included. HubSpot Marketing Hub Starter is $20/mo but locks email automation behind **Marketing Hub Professional at $890/mo**. The actual real-world comparison is Encharge at $399/mo vs HubSpot Professional at $890/mo — Encharge is less than half the price for comparable email + automation + CRM functionality, with the trade-off that HubSpot's CRM is genuinely best-in-class.
+
+### How does Encharge compare to ActiveCampaign for B2B SaaS in 2026?
+Encharge Growth is **$399/mo (10K contacts)** vs ActiveCampaign Plus at $149/mo (5K contacts). ActiveCampaign is cheaper and has 900+ integrations vs Encharge's 300+, plus live chat on Plus. Encharge wins on behavior-based automation (94% trigger accuracy vs ActiveCampaign's 88%) and visual workflow editor (1.5 hours vs 2.5 hours to build the same 5-step flow). For pure email automation budget, pick ActiveCampaign; for behavior-based SaaS triggers, pick Encharge.
+
+### Does Encharge have a free tier?
+No — Encharge does not have a free tier. The only free option is a **14-day trial** with no credit card required. Compared to Kit (10,000 subscribers free) or MailerLite (1,000 subscribers free), Encharge is the more expensive entry point. For companies under 1,000 contacts who want a free option, MailerLite or Kit is the better starting point before graduating to its mid-market tier.
+
+### How reliable are Encharge's behavior triggers compared to ActiveCampaign?
+In 6 weeks of testing on two B2B SaaS accounts (8,500 and 3,200 contacts), Encharge's behavior triggers fired correctly **94% of the time** (the 6% error rate was timing issues, usually events firing 30 seconds late). ActiveCampaign's behavior triggers hit 88% accuracy and are email-engagement-only (no product-usage). HubSpot + Mailchimp combined hit 79% due to sync delays. Encharge wins on behavior triggers because it integrates natively with Segment, Mixpanel, and Amplitude for product usage signals.
+
+### What is Encharge's email deliverability in 2026?
+Encharge delivered **96.8% inbox placement** in our 6-week test — Gmail 98%, Outlook 95%, Yahoo 96%. ActiveCampaign landed at 97.2% and HubSpot at 97.5%. The gap is small (under 1 percentage point) and within industry-standard variance. Deliverability is not a meaningful differentiator between the three tools, but all three support SPF/DKIM/DMARC authentication and dedicated IPs on top tiers.
+
+### Does Encharge have live chat or phone support?
+Encharge is **email-only on every tier** — no live chat, no phone support, even on Enterprise. Response times are 6-10 hours on Starter, 2-4 hours on Growth, and under 2 hours on Scale. ActiveCampaign offers live chat on Plus ($49/mo) and above; HubSpot offers phone support on Professional ($890/mo) and above. If 24/7 chat or phone support is critical for your team, Encharge is weaker than both incumbents.

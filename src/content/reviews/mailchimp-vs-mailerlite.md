@@ -86,3 +86,23 @@ For most small businesses in 2026, **MailerLite is the better pick** based on pr
 Real billing + deliverability data tracked from March to June 2026 across 20 Mailchimp and MailerLite accounts of various sizes. Subscriber counts ranged from 500 to 18,000. We measured inbox placement against Microsoft, Google, and Yahoo seedlists across 90 days.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for MailerLite or Mailchimp via our links, we may earn a commission. This never changes our recommendations.
+
+## Frequently asked questions about Mailchimp vs MailerLite
+
+### Mailchimp vs MailerLite 2026 年 1,000 个联系人每月多少钱？
+1,000 个联系人时，Mailchimp Standard 是 **$20/月**，MailerLite Advanced 也是 **$20/月**。但 MailerLite Starter 只需 **$10/月**，因此需要基础 newsletter 功能的小团队可先看 Starter，而不是直接按 Advanced 对比。
+
+### Mailchimp 和 MailerLite 2026 年 5,000 个联系人谁更便宜？
+5,000 个联系人时，MailerLite Advanced 为 **$85/月**，Mailchimp Standard 为 **$135/月以上**。文章的 90 天账单比较显示，MailerLite 在 25,000 以下的多数档位便宜约 30%-50%，newsletter 为主的团队通常能直接省下月费差额。
+
+### Mailchimp vs MailerLite 2026 年谁的邮件送达率更高？
+测试中 Mailchimp 平均收件箱到达率为 **97.6%**，MailerLite 为 **97.4%**。两者只有 0.2 个百分点差异，在测试误差范围内；因此不应仅凭送达率宣传选择 Mailchimp。
+
+### MailerLite 2026 年免费版比 Mailchimp 多支持多少联系人？
+MailerLite 免费版支持 **1,000 个联系人**，Mailchimp 免费版支持 **250 个联系人**。这意味着 MailerLite 的免费联系人上限是 Mailchimp 的 4 倍，适合先用 newsletter 验证需求的用户。
+
+### Mailchimp 和 MailerLite 2026 年谁更适合多渠道营销？
+Mailchimp 支持邮件、SMS、落地页和明信片等多渠道营销，MailerLite 的定位更偏 newsletter。文章测试认为 Mailchimp 的 Customer Journey 和更广集成生态更适合多渠道团队，而 MailerLite 的界面更容易上手。
+
+### Mailchimp vs MailerLite 2026 年谁支持发送时间优化？
+Mailchimp 的发送时间优化仅在 **Premium** 级别提供，而 MailerLite 在 **Advanced** 方案提供。MailerLite Advanced 的价格是 **$20/月**；如果发送时间优化是刚需，这一功能门槛会显著改变两者的实际成本比较。

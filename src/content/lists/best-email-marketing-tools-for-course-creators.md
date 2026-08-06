@@ -144,3 +144,23 @@ For high-volume creators (5,000+ subscribers): **ActiveCampaign Plus $49/mo**. T
 We tested these tools with real course businesses, not just signups. Every rating reflects 6+ months of use across multiple campaigns, launches, and student cohorts. We didn't include platforms we haven't personally used (ConvertKit Commerce, Kajabi email, Thinkific email) — those would need their own dedicated reviews.
 
 Last updated: July 2026. We'll re-test pricing and features in October 2026.
+
+## Frequently asked questions about email tools for course creators in 2026
+
+### Kit (ConvertKit) 在 2026 年做课程发售到底多少钱？
+Kit 课程发售主链路在 2026 年的成本：**免费 1,000 subscribers**；过 1,000 → **$25/mo Creator 档**；过 5,000 → **$75/mo Creator Pro**。文中实测：$497 编程训练营 17 封发售邮件序列 + 4,000+ 收件人，**收件箱到达率 98%**。自带 commerce（数字商品 + 订阅销售）免去再接 Stripe + 课程平台的麻烦，是 6 款里做"邮件 + 收款"一体化最省事的方案。
+
+### MailerLite 在 2026 年做课程比 Kit 便宜多少？
+**便宜一半多**：MailerLite Advanced **$10/mo** vs Kit Creator **$25/mo**——同样 1,000 订阅起步，月省 $15、年省 $180。免费档覆盖 1,000 subscribers 永久。代价是 MailerLite **没有原生 commerce**（数字商品销售），需要外接 Teachable 或 Gumroad。预算紧 + 不介意多接一个工具 → MailerLite $10；想要一体化 → Kit。
+
+### ActiveCampaign 在 2026 年做 cohort-based 课程值不值 $49/mo？
+值——但**仅限 cohort-based（同期开班）课程**，且订阅量过 1,000。ActiveCampaign Plus **$49/mo** 自带条件分支、lead scoring 和多步工作流，能区分早鸟价/标准价/分期付款不同路径。文中实测同期 12 人 × 4 期/年的设计课：lead scoring 直接筛出 hot leads 给销售，省掉手工筛选。**单人讲师跑线性课程** → $29/mo Lite 已够；**同期班多/价格档复杂** → 必上 $49/mo Plus。
+
+### 2026 年 Teachable 自带邮件到底够不够用？
+**不够独立做严肃发售**——Teachable 自带邮件**没有可视化 automation、没有高级 segmentation**，文中对 200+ 学员的编程训练营实测只能发基本通知。**正确组合**：Teachable 做课程托管 + MailerLite $10/mo 或 Kit $25/mo 做发售邮件。如果你只想发课程通知 + 不跑 drip 序列，Teachable Basic $39/mo 单买就够。
+
+### 2026 年用 Brevo 跑课程能省多少？
+**每月省约 $30–$50**：Brevo Starter **$9/mo**（含 20,000 封/月营销邮件 + 5,000 封 transactional）vs Mailchimp $13/mo + SendGrid $19.95/mo 分开买（$32.95/mo）。Brevo Standard **$18/mo** 同时给营销邮件 + 课程回执/入学确认 transactional 邮件。**只跑营销邮件** → Kit/MailerLite 更划算；**同时需要 transactional（入学确认、付款回执）** → Brevo 是 6 款里性价比最高的组合。
+
+### 2026 年课程发售自动化一般要多少封邮件？
+文中 6 款工具横测同一套 **12 封发售序列**（waitlist → early-bird → cart open → cart close → post-purchase），完整映射出来要 **30 分钟左右**用 Kit 的可视化编辑器。漏掉 post-purchase onboarding 是最常见的坑——**30% 的课程学员从没完成课程**，就是因为没人告诉他们从哪里开始。再补 5 封 onboarding 邮件，总序列约 17 封。

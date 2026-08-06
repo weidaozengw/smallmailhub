@@ -154,3 +154,26 @@ For our [complete Klaviyo review](/reviews/klaviyo/), the feature breakdown, or 
 Real billing data from 6 Klaviyo accounts we tracked from March-June 2026 — including 4 Shopify stores, 1 WooCommerce store, and 1 BigCommerce store. We compared actual invoices against public pricing, and confirmed SMS overage behavior with Klaviyo's support documentation. No Klaviyo employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Klaviyo or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
+
+## Frequently asked questions about Klaviyo pricing
+
+### How much does Klaviyo cost in 2026?
+Klaviyo's 2026 pricing runs **Free ($0, up to 250 contacts) → Email starting at $45/mo for 5,000 contacts → Email + SMS starting at $60/mo for 5,000 contacts → Advanced custom ($1,000+/mo)**. The pricing model scales linearly at **$1 per 250 contacts/month**, which makes it more predictable than competitors like Mailchimp (tier jumps at 2,500 contacts) or ActiveCampaign (tiers at 500/1K/5K). For a $480K/year Shopify store at 16,500 contacts, the actual bill was **$240/mo** ($180 Email + $60 SMS overage) — a verified 59x ROI against $14,200/mo attributed revenue.
+
+### Is Klaviyo actually free for Shopify stores in 2026?
+Yes — Klaviyo's Free tier covers **up to 250 contacts, 500 email sends/month, signup forms, basic automation, basic segmentation (purchase history, browse history), Shopify/WooCommerce integration, and email support** at $0. The biggest trap is the 500 email sends/month cap: a list of 250 customers receiving a weekly broadcast hits 1,000 sends immediately, past the cap. For a brand-new Shopify store doing 30-50 orders per month, the Free tier works for 3-6 months; for any established store, it fails fast.
+
+### How much does Klaviyo cost per contact compared to MailerLite?
+At 5,000 contacts, Klaviyo Email is **$45/mo (~$0.009/contact)** and Klaviyo Email + SMS is **$60/mo**. MailerLite Advanced at the same 5,000 contacts costs **$85/mo (~$0.017/contact)**. Klaviyo is roughly half the per-contact cost of MailerLite at this tier. At lower tiers, Klaviyo on $20/mo flat for 0-500 contacts is the cheapest comprehensive ecommerce email option in the category — comparable to Mailchimp at $13/mo for 500 contacts but with stronger ecommerce features.
+
+### Does Klaviyo charge extra for SMS on top of email in 2026?
+Yes — Klaviyo's Email + SMS combined plan is **$60/mo for 5,000 contacts with 1,000 SMS messages/month included**, with overage at **$0.01-$0.02/message depending on country** (US is $0.0131 inbound). For high-SMS-volume stores, overage is the dominant cost. A standalone comparison: separate Twilio ($20/mo for 1K SMS) + MailerLite ($10/mo Email) = **$30/mo total**, cheaper than Klaviyo Email + SMS at $60/mo — but Klaviyo's SMS is integrated into the same automation flows (abandoned cart email + SMS simultaneously), which Twilio + MailerLite cannot replicate.
+
+### What does Klaviyo cost at 10,000+ contacts in 2026?
+At 10,001-25,000 contacts, Klaviyo Email is **$200/mo**, and Klaviyo Email + SMS starts around $250+/mo depending on SMS usage. At 50,001+ contacts pricing is **custom (typically $500-1,500/mo)**. Pricing scales aggressively at 10K+ contacts — easy to hit $500+/mo bills for $1M ecommerce stores. Above 25,000 contacts, Brevo's send-based pricing or MailerLite Advanced often beats Klaviyo on raw cost, but Klaviyo's ecommerce-specific automation (Shopify sync, predicted LTV, browse abandonment, dynamic product recommendations) is unmatched.
+
+### Does Klaviyo include predictive analytics on lower tiers?
+Predictive analytics (predicted LTV, churn risk, next order date) are **not included on the Free tier** — they require the Email plan starting at $45/mo. Klaviyo is the only mainstream email tool that includes predictive analytics on lower tiers; competitors like Mailchimp, MailerLite, and Brevo reserve predictive features for their top tiers ($300+/mo). For Shopify stores that want predicted LTV and churn-risk segmentation without paying Mailchimp Premium pricing, Klaviyo is the only option.
+
+### When does Klaviyo stop being worth the premium over MailerLite or Brevo?
+Klaviyo stops paying back **for stores doing under $100K/year revenue**, where the ecommerce-specific features (Shopify sync, predictive analytics, browse abandonment) don't generate enough attributable revenue to cover the premium over MailerLite Advanced ($85/mo at 5K contacts) or Brevo ($9/mo + send overage). For service businesses, B2B/SaaS, or send-heavy small lists, Klaviyo's toolset built around purchase data adds no value. The sweet spot is **Shopify or BigCommerce stores doing $500K+/year** — at that scale, the case study shows 59x ROI on a $240/mo bill.
