@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import RelatedContent from '../../components/RelatedContent.astro';
 import ReviewCTA from '../../components/ReviewCTA.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
+import FaqSchema from '../../components/FaqSchema.astro';
 
 export async function getStaticPaths() {
   const reviews = await getCollection('reviews', ({ data }) => !data.draft);
@@ -72,6 +73,9 @@ const ogImageSlug = possibleSlug && knownOgSlugs.includes(possibleSlug) ? possib
       url: new URL(Astro.url.pathname, Astro.site).toString(),
     })} />
   )}
+
+  {/* FAQPage schema - auto-generated if content has FAQ section */}
+  <FaqSchema body={review.body} />
 
   <h1>{title}</h1>
   <p class="meta">Published {formattedPub}{formattedUpd && ` · Updated ${formattedUpd}`} · Last reviewed {new Date().toISOString().slice(0, 10)}</p>

@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import RelatedContent from '../../components/RelatedContent.astro';
 import ReviewCTA from '../../components/ReviewCTA.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
+import FaqSchema from '../../components/FaqSchema.astro';
 
 export async function getStaticPaths() {
   const alts = await getCollection('alternatives', ({ data }) => !data.draft);
@@ -44,6 +45,9 @@ const ogImageSlug = altOgMap[alt.slug] ?? 'default';
     publisher: { '@type': 'Organization', name: 'MailPilot', url: 'https://smallmailhub.com' },
     url: new URL(Astro.url.pathname, Astro.site).toString(),
   })} />
+
+  {/* FAQPage schema - auto-generated if content has FAQ section */}
+  <FaqSchema body={alt.body} />
 
   <h1>{title}</h1>
   <p class="meta">Published {formattedPub}</p>

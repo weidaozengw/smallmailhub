@@ -1,0 +1,42 @@
+---
+// Emits FAQPage structured data when the entry body contains an FAQ section.
+// Content uses two headings interchangeably: "## FAQ" and "## Frequently asked questions".
+interface Props {
+  body?: string;
+}
+
+const { body = '' } = Astro.props;
+
+// Note: no /m flag anywhere below — it would turn `$` into "end of line" and
+// truncate every section/answer at its first newline.
+const sectionMatch = body.match(
+  /(?:^|\n)##[ \t]+(?:FAQ|Frequently[ \t]+asked[ \t]+questions)[^\n]*\n+([\s\S]*?)(?=\n##[ \t]|(?![\s\S]))/i
+);
+
+const qaPairs: { question: string; answer: string }[] = [];
+
+if (sectionMatch) {
+  const qaRegex = /(?:^|\n)###[ \t]+(.+?)[ \t]*\n+([\s\S]*?)(?=\n###[ \t]|(?![\s\S]))/g;
+  let match;
+  while ((match = qaRegex.exec(sectionMatch[1])) !== null) {
+    const question = match[1].trim();
+    const answer = match[2].trim();
+    if (question && answer) qaPairs.push({ question, answer });
+  }
+}
+---
+
+{qaPairs.length > 0 && (
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: qaPairs.map((qa) => ({
+        '@type': 'Question',
+        name: qa.question,
+        acceptedAnswer: { '@type': 'Answer', text: qa.answer },
+      })),
+    })}
+  />
+)}
