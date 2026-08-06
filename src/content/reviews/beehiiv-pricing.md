@@ -183,6 +183,29 @@ Beehiiv's pricing model has real gaps for:
 - **Creators who want Substack's social network and discovery features** — Beehiiv is more transactional
 - **Anyone approaching 100,000 subscribers** — Enterprise pricing is custom and can be expensive
 
+## Frequently asked questions about Beehiiv pricing
+
+### How much does Beehiiv cost in 2026?
+Beehiiv's pricing in 2026 ranges from **$0 (Free, up to 2,500 subscribers) → $49/mo annual for Starter (up to 10,000) → $99/mo annual for Scale (10,000–100,000) → custom Enterprise pricing ($200+/mo) for 100,000+ subscribers**. Monthly billing is ~17–20% more expensive across every paid tier. The biggest pricing gotcha is the forced upgrade from Free to Starter at 2,500 subscribers — it is a hard cap, not a soft one.
+
+### Is Beehiiv actually free to use?
+Yes — Beehiiv's Free tier includes newsletter publishing, custom domain support, the Boosts referral program, basic analytics, AI-assisted writing (limited), polls, and a public newsletter archive, all for $0. The catch is the **2,500 subscriber cap**: once a newsletter crosses 2,500 subscribers, you are forced into Starter at $49/mo whether you wanted to upgrade or not. Free also strips custom branding — the Beehiiv badge and logo stay in your emails until you pay.
+
+### How much is Beehiiv Starter per month?
+Beehiiv Starter costs **$49/mo on annual billing or $59/mo on monthly billing**, covering up to 10,000 subscribers. The annual plan saves $120/year versus monthly billing. Starter is the first paid tier and unlocks custom branding (removing the Beehiiv badge), Ad Network access for monetizing newsletters via sponsorships, email support (24-hour response SLA), advanced polls, 3-step subscription forms, subscriber tagging, and 3 users.
+
+### How much does Beehiiv cost at 10,000 subscribers vs Kit or Mailchimp?
+At 10,000 subscribers in 2026, Beehiiv Starter is **$49/mo**, Kit Creator is **$65/mo**, and Mailchimp Essentials is **$150+/mo** — so Beehiiv is cheaper than both at this exact subscriber count. The comparison flips below 5,000 subscribers: Kit Creator is $9/mo at 1,000 subscribers and $25/mo at 3,000, while Beehiiv still forces the $49/mo Starter tier once you cross 2,500. Beehiiv's pricing advantage is strongest in the 10,000–100,000 subscriber range, where Scale ($99/mo) beats Kit Creator ($135/mo at 25K) and Kit Creator Pro ($415+/mo at 100K).
+
+### Does Beehiiv take a cut of paid newsletter revenue?
+No — **Beehiiv takes 0% of paid subscription revenue at every tier**, including Free, Starter, Scale, and Enterprise. Stripe payment processing is the only fee, and that goes to Stripe, not Beehiiv. This is the single biggest pricing difference from Substack, which charges a 10% platform fee on all paid subscriptions. For creators monetizing via paid newsletters, Beehiiv can save hundreds to thousands of dollars per month compared to Substack at the same subscriber count.
+
+### What are the hidden costs or overage fees on Beehiiv?
+Beehiiv's pricing is mostly clean — **no per-email overage fees, no extra charges for users within your plan's limit, no setup or onboarding fees, and Stripe processing is included for paid newsletters**. The Ad Network revenue split keeps Beehiiv at 0% on the standard 50/50 brand–publisher sponsorship split. The only real hidden cost is the forced upgrade from Free to Starter at the 2,500 subscriber mark, which many new creators do not realize is a hard cap rather than a soft one.
+
+### Should I choose Beehiiv Starter or Scale for my newsletter?
+Choose **Starter ($49/mo) if your newsletter has 2,500–10,000 subscribers and you do not need A/B testing, advanced segmentation, or premium support** — Starter covers custom branding, Ad Network access, email support, and subscriber tagging, which is enough for most newsletters at this stage. Upgrade to **Scale ($99/mo) only when you are actively running A/B tests to optimize open rates, building behavioral segments, or hitting response-time limits with Starter's 24-hour email support**. The $50/mo jump from Starter to Scale buys feature depth, not list size — both tiers cover the same 10,000–100,000 subscriber range, so do not pay for Scale before you actually need those features.
+
 ## Final verdict
 
 Beehiiv's 2026 pricing is **honestly fair for the 2,500-100,000 subscriber range**, but **the forced upgrade from Free to Starter at 2,500 subscribers is the biggest gotcha**. New newsletter creators should plan for the Starter jump at 2,500 subscribers as a real milestone.
