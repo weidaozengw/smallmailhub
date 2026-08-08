@@ -4,7 +4,11 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://smallmailhub.com',
-  trailingSlash: 'never',
+  // 2026-08-08 修正:原为 'never',与 build.format:'directory' 自相矛盾。
+  // directory 格式实际服务 /about/,而 'never' 让 canonical 和 sitemap 都输出 /about,
+  // 结果 sitemap 里 97/98 条 URL 命中 308 跳转、canonical 指向一个会跳转的地址。
+  // 站内链接本来就是带斜杠的(/about/),改成 'always' 是向现状对齐,不改变已收录 URL。
+  trailingSlash: 'always',
   integrations: [sitemap({
     // 小破站 SEO 修复 2026-07-13: 给所有 URL 加 <lastmod>
     // 优先级:1)frontmatter.updatedDate  2)frontmatter.pubDate  3)文件 mtime  4)build time

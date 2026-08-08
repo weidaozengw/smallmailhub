@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// 2026-08-08 新增。此前站点没有 404 页面,Cloudflare Pages 的 fallback 让任何
+// 不存在的路径都返回 HTTP 200 + 首页 HTML(soft 404)。后果:爬虫可以无限制造
+// "有效"URL 并全部拿到 200,Google 侧则是大批重复内容。
+// Cloudflare Pages 会自动把构建产物里的 404.html 用作真正的 404 响应。
+const title = 'Page Not Found (404) — MailPilot';
+const description = 'This page does not exist. Browse our email marketing tool reviews, alternatives, and best-of guides instead.';
+---
+
+<BaseLayout title={title} description={description}>
+  <h1>Page not found</h1>
+  <p class="meta">Error 404</p>
+
+  <p>
+    The page you are looking for does not exist, or it may have been moved.
+    Nothing here is broken on your end.
+  </p>
+
+  <h2>Try one of these instead</h2>
+  <ul>
+    <li><a href="/reviews/">All tool reviews</a> — hands-on reviews of email marketing tools</li>
+    <li><a href="/alternatives/">Alternatives</a> — side-by-side comparisons when you are switching tools</li>
+    <li><a href="/best/">Best-of guides</a> — picks by use case, budget, and business type</li>
+    <li><a href="/">Home</a></li>
+  </ul>
+
+  <p>
+    If you followed a link from somewhere on this site and landed here,
+    <a href="/contact/">let us know</a> and we will fix it.
+  </p>
+</BaseLayout>

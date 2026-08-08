@@ -12,8 +12,10 @@ let xml = readFileSync(SITEMAP, 'utf8');
 let changed = 0;
 
 for (const [loc, lastmod] of Object.entries(dates)) {
-  const escaped = loc.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const pattern = new RegExp(`(<loc>${escaped}<\\/loc><lastmod>)[^<]+(<\\/lastmod>)`);
+  // manifest 里的 URL 不带尾斜杠,但 sitemap 的形式跟 astro.config 的 trailingSlash 走
+  // (2026-08-08 改为 'always' 后带斜杠)。这里容忍两种形式,避免配置一变构建就炸。
+  const escaped = loc.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\/$/, '');
+  const pattern = new RegExp(`(<loc>${escaped}\\/?<\\/loc><lastmod>)[^<]+(<\\/lastmod>)`);
   if (!pattern.test(xml)) throw new Error(`Published URL missing from sitemap: ${loc}`);
   xml = xml.replace(pattern, `$1${lastmod}$2`);
   changed += 1;
