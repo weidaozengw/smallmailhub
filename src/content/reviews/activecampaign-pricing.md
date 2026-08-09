@@ -10,7 +10,7 @@ pros:
   - "Native CRM included on every paid tier — no separate CRM cost for B2B services with deal pipeline needs"
   - "Sales CRM (separate from marketing CRM) included on Plus+ tier — useful for service businesses tracking deal stages"
   - "Predictable per-feature scaling — Lite → Plus → Professional → Enterprise, you know which tier unlocks what"
-  - "Excellent deliverability across all tiers — 96-99% inbox placement in our 12-week testing"
+  - "Excellent deliverability across all tiers — best-in-class inbox placement in our 12-week testing"
   - "Phone support included on Plus+ tier — faster than MailerLite's email-only on basic tiers"
   - "Strong B2B service business workflow patterns built in — lead scoring, deal pipelines, win-loss reporting"
 cons:
@@ -198,7 +198,7 @@ For our [complete ActiveCampaign review](/reviews/activecampaign/), the feature 
 
 ## How we built this breakdown
 
-Real billing data from 6 ActiveCampaign accounts we reviewed from March-June 2026. Subscriber counts ranged from 800 to 18,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying tier upgrade behavior, and cross-referenced with ActiveCampaign's customer-facing [pricing calculator](https://www.activecampaign.com/pricing/). No ActiveCampaign employee reviewed or influenced this article.
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for ActiveCampaign or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

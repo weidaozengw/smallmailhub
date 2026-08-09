@@ -15,7 +15,7 @@ pros:
 cons:
   - "Free tier capped at 1,000 subscribers if you want to keep automations beyond welcome + 1-2 basic flows"
   - "Visual automations limited to 100 steps on Free — Creator removes the limit but doesn't unlock premium triggers"
-  - "Deliverability on shared IPs has historically trailed MailerLite and Mailchimp — measured 92-95% inbox placement vs 97-99% for top performers"
+  - "Deliverability on shared IPs has historically trailed MailerLite and Mailchimp — measured strong inbox placement vs best-in-class for top performers"
   - "No multivariate A/B testing on any tier — only simple subject line A/B on Creator"
   - "Predictive segmentation and advanced reporting locked to Creator tier — Free tier reporting is basic"
   - "Premium migrations and dedicated IPs not available — must move to a separate transactional service for high-volume sending"
@@ -175,7 +175,7 @@ For our [complete Kit review](/reviews/kit/), the feature breakdown, or related 
 
 ## How we built this breakdown
 
-Real billing data from 7 Kit accounts we reviewed from March-June 2026. Subscriber counts ranged from 800 to 22,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying tier upgrade behavior, and cross-referenced with Kit's customer-facing [pricing calculator](https://kit.com/pricing). No Kit employee reviewed or influenced this article.
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Kit or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

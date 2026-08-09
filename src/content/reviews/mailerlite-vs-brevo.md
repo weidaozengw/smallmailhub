@@ -52,9 +52,9 @@ For general newsletters, **MailerLite is the better pick** — predictable prici
 
 For our [complete MailerLite review](/reviews/mailerlite-pricing/) and [complete Brevo review](/reviews/brevo-pricing/).
 
-## Our testing methodology
+## How we compared
 
-Real billing data tracked from March to June 2026 across 14 accounts. Subscriber counts ranged from 500 to 15,000. Both tools tested across newsletter, marketing, and mixed transactional workloads.
+We do not operate accounts on every platform we write about, and we do not run a deliverability lab. This comparison is built from each vendor's published pricing and documentation, their stated IP-pool and authentication practices, and independent research cited inline wherever we reference a figure. Where we describe a difference in deliverability, we are describing structural differences (dedicated vs shared IPs, transactional vs marketing separation), not results from tests we have not run.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for MailerLite or Brevo via our links, we may earn a commission. This never changes our recommendations.
 
@@ -76,4 +76,4 @@ MailerLite 免费版覆盖 **1,000 个订阅者**，Brevo 免费版按每天 **2
 Brevo 在 **10,000 个联系人**的重度发送场景约为 **$9-$100/月**，MailerLite Advanced 为 **$200/月**。当发送量高而联系人多时，Brevo 的按发送收费模式通常更省；代价是每日发送限制和较少的自动化模板。
 
 ### MailerLite 和 Brevo 2026 年谁的送达率更好？
-两者在测试中表现相近，MailerLite 被记录为 **97.4% inbox placement**，文章没有给出 Brevo 的独立百分比。现有数据更支持按价格模型、事务邮件是否内置和自动化需求比较，而不是宣称 Brevo 的送达率高于 MailerLite。
+两者在测试中表现相近，MailerLite 被记录为 **97.average inbox placement**，文章没有给出 Brevo 的独立百分比。现有数据更支持按价格模型、事务邮件是否内置和自动化需求比较，而不是宣称 Brevo 的送达率高于 MailerLite。

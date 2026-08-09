@@ -40,9 +40,9 @@ For ecommerce stores, **Klaviyo is the better pick**. For B2B services, **Active
 
 For our [complete Klaviyo review](/reviews/klaviyo-pricing/) and [complete ActiveCampaign review](/reviews/activecampaign-pricing/).
 
-## Our testing methodology
+## How we compared
 
-Real billing + deliverability data tracked from March to June 2026 across 10 accounts. Klaviyo accounts were all Shopify stores ($100K-$2M/year). ActiveCampaign accounts were B2B services (consulting, SaaS, agencies).
+We do not operate accounts on every platform we write about, and we do not run a deliverability lab. This comparison is built from each vendor's published pricing and documentation, their stated IP-pool and authentication practices, and independent research cited inline wherever we reference a figure. Where we describe a difference in deliverability, we are describing structural differences (dedicated vs shared IPs, transactional vs marketing separation), not results from tests we have not run.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Klaviyo or ActiveCampaign via our links, we may earn a commission. This never changes our recommendations.
 

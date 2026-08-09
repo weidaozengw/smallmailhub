@@ -47,7 +47,7 @@ Mailjet is the underdog in the email marketing space — solid transactional sen
 
 **Frequency: mentioned by 6 of 15 users (most-cited)**
 
-Mailjet's deliverability on shared IPs is reported at 92-96% inbox placement in some user accounts, while Mailchimp and MailerLite consistently hit 97-99%. This gap matters for marketers whose campaigns need to reach inboxes to drive revenue.
+Mailjet's deliverability on shared IPs is reported at strong inbox placement in some user accounts, while Mailchimp and MailerLite consistently hit best-in-class. This gap matters for marketers whose campaigns need to reach inboxes to drive revenue.
 
 A r/SaaS user said: "I switched from Mailchimp to Mailjet for the bundled transactional + marketing pitch. My Gmail open rates dropped from 38% to 28%. After 2 months of testing, I confirmed Mailjet's shared IP pool has worse sender reputation than Mailchimp or MailerLite."
 
@@ -115,7 +115,7 @@ A r/SaaS user said: "I had emails going to spam during a product launch. Chat su
 
 Mailjet is **a solid tool for combined transactional + marketing sending with EU data residency**. The bundled approach saves money vs separate services, and the SMTP relay is reliable.
 
-Where Mailjet falls short: deliverability (92-96% trails MailerLite's 97-99%), limited automation depth, and the lack of phone support. If any of those matter, look at MailerLite ($10/mo Starter with better deliverability), Brevo ($9/mo with similar bundled approach), or ActiveCampaign Plus ($49/mo with deep automation).
+Where Mailjet falls short: deliverability (strong trails MailerLite's best-in-class), limited automation depth, and the lack of phone support. If any of those matter, look at MailerLite ($10/mo Starter with better deliverability), Brevo ($9/mo with similar bundled approach), or ActiveCampaign Plus ($49/mo with deep automation).
 
 The 15+ Reddit comments confirm what our own testing showed: Mailjet is the right choice for EU apps and bundled sending needs, but the deliverability gap is real for marketers. Test the Free tier for 30 days with real campaigns, then calculate the cost at your projected 12-month contact count before committing.
 

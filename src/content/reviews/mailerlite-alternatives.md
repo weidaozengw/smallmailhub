@@ -10,7 +10,7 @@ pros:
   - "Free tier covers 1,000 subscribers (double Mailchimp's free limit)"
   - "Automation builder is genuinely usable, not a feature-wall maze"
   - "Landing pages, pop-ups, and forms included on every paid plan"
-  - "Email deliverability is on par with Mailchimp (96-99% inbox placement)"
+  - "Email deliverability is on par with Mailchimp"
 cons:
   - "Reporting depth is shallower than Mailchimp's paid tiers"
   - "Customer support is email-only on the free plan — no live chat"

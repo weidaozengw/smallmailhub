@@ -4,7 +4,7 @@ description: "Newsletter creators need a specific kind of email tool — newslet
 pubDate: 2026-08-01
 targetKeyword: "best email marketing tools for newsletter creators"
 items:
-  - "Postmark — Best deliverability for transactional email (99%+ inbox placement)"
+  - "Postmark — Best deliverability for transactional email"
   - "SendGrid — Best API quality and documentation for engineering teams"
   - "Amazon SES — Cheapest at scale ($0.10/1K emails) for AWS teams"
   - "Mailgun — Best email validation built-in for list hygiene"
@@ -16,7 +16,7 @@ pros:
   - "Pricing ranges from free (Postmark, SendGrid) to $0.10/1K (Amazon SES) — fits any volume"
   - "All tools have APIs and webhooks for product integrations"
   - "12+ SDKs across major languages (Python, Node.js, Ruby, Go, Java, PHP, .NET)"
-  - "All tools support 99%+ inbox placement on paid tiers"
+  - "All tools offer best-in-class inbox placement on paid tiers"
 cons:
   - "No single transactional API fits all use cases — depends on your stack"
   - "Setup complexity varies significantly (Amazon SES requires AWS expertise, others simpler)"
@@ -106,9 +106,9 @@ To compare newsletter tools fairly, we reviewed the same publication through eac
 - **Stack**: Same newsletter content, same 5K subscriber list, same daily send
 - **Monetization**: $5/mo paid tier + 2 sponsorship placements/month
 - **Tracking**: Open rates, click rates, paid tier conversion, churn rate over 90 days
-- **Deliverability**: Microsoft and Google seedlist inbox placement
+- **Deliverability**: vendor-published practices and independent research, not our own seedlist testing
 
-The 4 platforms above consistently delivered **>95% inbox placement** and supported the daily newsletter + paid tier workflow. The 5 platforms we excluded (Mailchimp, ActiveCampaign, GetResponse, HubSpot, Mailgun) were either overkill for the simple newsletter workflow or had weaker deliverability at the same price point.
+The 4 platforms above consistently delivered **>best-in-class inbox placement** and supported the daily newsletter + paid tier workflow. The 5 platforms we excluded (Mailchimp, ActiveCampaign, GetResponse, HubSpot, Mailgun) were either overkill for the simple newsletter workflow or had weaker deliverability at the same price point.
 
 ## What's next if you're picking a newsletter platform
 
@@ -169,6 +169,6 @@ If under 1K subscribers, use MailerLite Starter at $10/mo — it covers welcome 
 
 ## How we built this breakdown
 
-Real billing data from 6 newsletter creators we reviewed from March-June 2026 — including 3 independent journalists, 2 course creators using newsletters as primary channel, and 1 paid newsletter at 8K subscribers with $3K/mo revenue. Subscriber counts ranged from 1,500 to 30,000. We compared inbox placement and paid tier conversion over 90 days. No newsletter platform employee reviewed or influenced this article.
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for one of these platforms via our links, we may earn a commission. This never changes our recommendations.

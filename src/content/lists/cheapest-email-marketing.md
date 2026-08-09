@@ -38,7 +38,7 @@ We started with every email marketing tool that markets itself as "cheap" or "fr
 1. **Free tier must include sending**, not just a 14-day trial
 2. **No subscriber-tier jumps above 5,000 contacts** that more than double the price
 3. **Hidden costs called out**: SMS charges, transactional email metered separately, image hosting fees
-4. **Deliverability above 95%** on inbox placement tests
+4. **Deliverability above best-in-class** on inbox placement tests
 5. **Active development**: company is shipping features in the last 6 months
 6. **English-language support**: ticket response or chat, not just docs
 
@@ -90,7 +90,7 @@ Brevo used to be Sendinblue. The pricing model is fundamentally different from e
 Mailchimp's free tier is the most generous in terms of **brand recognition** — every freelancer and small business owner knows the name. It's also the least generous in terms of **subscriber count**: 250 free contacts vs MailerLite's 1,000.
 
 **Why people still pick it:**
-- Best-in-class deliverability for a "free" tool (consistently above 96%)
+- Best-in-class deliverability for a "free" tool (consistently above best-in-class)
 - Deep integrations: Shopify, Salesforce, HubSpot, Slack, Canva
 - Brand templates and creative assets included
 - Mobile app actually works (most competitors' don't)

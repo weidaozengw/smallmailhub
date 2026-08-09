@@ -16,7 +16,7 @@ pros:
 cons:
   - "Setup complexity: requires AWS account, IAM roles, SNS topics, sandbox testing — first SES integration takes 2-5 days for non-AWS engineers"
   - "Sandbox mode limits — must request production access, often takes 24-48 hours"
-  - "Deliverability depends entirely on your reputation — no managed IP warm-up; teams that don't warm IPs correctly hit spam folders 20-30% of the time"
+  - "Deliverability depends entirely on your reputation — no managed IP warm-up; teams that don't warm IPs correctly hit spam folders average of the time"
   - "No built-in list management, signup forms, segmentation, or marketing automation — pure API, no UI"
   - "Sender authentication (SPF/DKIM/DMARC) is on the team to configure — many smaller teams miss this and see unexpected spam folder placement"
   - "AWS support response slow on SES-specific issues — typically 24+ hour response even with paid support plans"
@@ -120,7 +120,7 @@ For our [complete Amazon SES review](/reviews/amazon-ses/), the feature breakdow
 
 ## How we built this breakdown
 
-Real billing data from 5 SES-using engineering teams we reviewed from March-June 2026 — including 2 fintech startups, 1 e-commerce marketplace, 1 B2B SaaS, and 1 healthtech company. Monthly send volumes ranged from 50,000 to 4.5 million. We compared actual AWS bills against public pricing and confirmed setup behavior with AWS documentation. No AWS employee reviewed or influenced this article.
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for AWS SES or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

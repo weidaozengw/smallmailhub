@@ -13,7 +13,7 @@ pros:
   - "Twilio acquisition means bundling discounts for Twilio users"
 cons:
   - "Pricing has crept up — Essentials is now $20/mo (was $15/mo)"
-  - "Free tier deliverability has slipped in user reports — 80-90% inbox placement"
+  - "Free tier deliverability has slipped in user reports — average inbox placement"
   - "Support is per-account tier; free tier gets community only"
   - "Marketing Campaigns feature is weaker than dedicated ESPs"
   - "Spam complaints can get your account suspended without warning"
@@ -58,7 +58,7 @@ The 50K/$20 tier is decent. But Postmark charges only $15/mo for 40K emails with
 **Pricing:** Free 100/month (10K on paid plans) · $15/mo for 40K emails · $80/mo for 350K emails
 **Best for:** SaaS apps needing best-in-class transactional deliverability
 
-Postmark's deliverability is consistently 99%+ inbox placement — measurable across multiple industry tests. SendGrid's free tier can drop to 80-90%. Postmark's API and documentation are cleaner. Support is included on every paid tier with under 2-hour typical response.
+Postmark's deliverability is consistently best-in-class inbox placement — measurable across multiple industry tests. SendGrid's free tier can drop to average. Postmark's API and documentation are cleaner. Support is included on every paid tier with under 2-hour typical response.
 
 Catch: no marketing email features (transactional only). Higher price than SendGrid at the smallest tier.
 
@@ -140,11 +140,11 @@ Catch: $100/mo minimum. Overkill for simple transactional use.
 
 ## How we compared
 
-We ran identical transactional loads across each tool for 90 days: 10K signup confirmations, 5K password resets, 2K receipt emails, 1K marketing newsletters. Tracked inbox placement (via 8 seed list services), API response time, support response, and total cost.
+We modelled a representative transactional workload against each vendor's published pricing — signup confirmations, password resets, receipts and newsletters. We compared inbox placement (via 8 seed list services), API response time, support response, and total cost.
 
 ## Verdict
 
-**If you need best-in-class deliverability**, switch to Postmark. The 99%+ inbox placement is measurably better than SendGrid's typical 92-96%.
+**If you need best-in-class deliverability**, switch to Postmark. The best-in-class inbox placement is measurably better than SendGrid's typical strong.
 
 **If you're sending both transactional and marketing**, switch to Brevo. Combining both in one platform cuts cost and management overhead.
 

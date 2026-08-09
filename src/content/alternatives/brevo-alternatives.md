@@ -55,7 +55,7 @@ MailerLite is what Brevo would be if it stripped out the SMS, WhatsApp, and CRM 
 - Free tier includes 1,000 subscribers (Brevo free caps at 300 emails/day regardless of list size)
 - Cleaner email editor with better template library
 - Better landing page and form builder included
-- 99% inbox placement on shared IPs (Brevo averages 92-95%)
+- best-in-class inbox placement on shared IPs (Brevo is strong)
 
 **The honest downside:** No built-in transactional email. If you need order confirmations alongside newsletters, you'd need a separate transactional tool (Mailgun, Postmark, or SendGrid) or pick Brevo instead.
 
@@ -183,7 +183,7 @@ Kit (the rebranded ConvertKit) is built for creators, not for general business e
 - Cleaner newsletter editor (plain text + simple formatting, not drag-and-drop bloat)
 - Built-in commerce (paid newsletters, digital products, tip jars)
 - Visual automations focused on creator funnels (welcome sequence, launch sequence)
-- 97-99% inbox placement on dedicated creator IPs
+- best-in-class inbox placement on dedicated creator IPs
 
 **The honest downside:** No transactional email. No built-in SMS. Free tier caps at 1,000 subscribers (vs Brevo's 300/day email cap).
 
@@ -224,7 +224,7 @@ Yes, but it's restrictive — 300 emails/day regardless of how many contacts you
 
 ### Which Brevo alternative has the best deliverability?
 
-Based on our 12-week deliverability tests: MailerLite (99%), ActiveCampaign (98%), Kit (97-99%), and SendGrid (99% on dedicated IP). Brevo averages 92-95% on shared IP, which is the main reason people switch for transactional use cases.
+Based on our 12-week deliverability tests: MailerLite (best-in-class), ActiveCampaign (best-in-class), Kit (best-in-class), and SendGrid (best-in-class on a dedicated IP). Brevo is strong on shared IP, which is the main reason people switch for transactional use cases.
 
 ### Should I switch from Brevo if I'm not having problems?
 

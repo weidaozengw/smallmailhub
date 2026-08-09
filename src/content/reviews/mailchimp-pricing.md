@@ -23,7 +23,7 @@ bestFor: "Established businesses with 500-2,500 contacts that use Mailchimp's so
 affiliateUrl: "https://mailchimp.com/?ref=mailpilot"
 ---
 
-Mailchimp changed its pricing structure in 2022 — moving from a "forever free for under 2,000 contacts" model to a tiered approach with a hard 250-contact cap on the free plan and aggressive tier jumps. Four years later, **the actual bill most small businesses pay is 2-3× what the signup page quotes**. This breakdown is based on real billing data from 12 Mailchimp accounts we reviewed from March to June 2026, plus the public pricing calculator and three support transcripts confirming how the "overage" charges work.
+Mailchimp changed its pricing structure in 2022 — moving from a "forever free for under 2,000 contacts" model to a tiered approach with a hard 250-contact cap on the free plan and aggressive tier jumps. Four years later, **the actual bill most small businesses pay is 2-3× what the signup page quotes**. This breakdown is based on Mailchimp's public pricing calculator and its published contact-counting rules, which explain how the "overage" charges work.
 
 ## At-a-glance: 2026 Mailchimp pricing tiers
 
@@ -119,7 +119,7 @@ The tool itself is excellent — see our [full Mailchimp review](/reviews/mailch
 
 ## How we built this pricing breakdown
 
-Real billing data from 12 Mailchimp accounts we reviewed from March-June 2026. Contact counts ranged from 350 to 28,000. We compared actual invoices against public pricing, ran three confidential support transcripts to verify overage and add-on charges, and cross-referenced with Mailchimp's customer-facing [pricing calculator](https://mailchimp.com/pricing). No Mailchimp employee reviewed or influenced this article.
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Mailchimp or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

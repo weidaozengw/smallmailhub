@@ -64,9 +64,9 @@ For ecommerce stores doing $100K+/year, **Klaviyo is the better pick** — the p
 
 For our [complete Klaviyo review](/reviews/klaviyo-pricing/) and [complete Mailchimp review](/reviews/mailchimp-pricing/).
 
-## Our testing methodology
+## How we compared
 
-Real billing + deliverability data tracked from March to June 2026 across 4 Klaviyo accounts (all Shopify stores) and 12 Mailchimp accounts (mixed industries). Revenue range for Klaviyo accounts: $100K-$2M/year.
+We do not operate accounts on every platform we write about, and we do not run a deliverability lab. This comparison is built from each vendor's published pricing and documentation, their stated IP-pool and authentication practices, and independent research cited inline wherever we reference a figure. Where we describe a difference in deliverability, we are describing structural differences (dedicated vs shared IPs, transactional vs marketing separation), not results from tests we have not run.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Klaviyo or Mailchimp via our links, we may earn a commission. This never changes our recommendations.
 

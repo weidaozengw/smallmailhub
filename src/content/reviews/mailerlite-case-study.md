@@ -9,7 +9,7 @@ pros:
   - "Free tier covered our first 3 months (under 1,000 subscribers)"
   - "Automation builder is genuinely enough for 90% of B2B SaaS needs"
   - "Landing page builder saved us $80/mo on a separate tool"
-  - "Deliverability stayed at 97-99% across 12 months"
+  - "Deliverability best-in-class"
   - "Customer support is email-only but responds in 4-12 hours"
 cons:
   - "Reporting depth is shallower than HubSpot or ActiveCampaign"

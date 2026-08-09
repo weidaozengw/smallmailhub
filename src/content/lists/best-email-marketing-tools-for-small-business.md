@@ -1,6 +1,6 @@
 ---
 title: "Best Email Marketing Tools for Small Business in 2026 (Tested)"
-description: "We compared 14 email marketing platforms across 6 months. These 7 are the ones we'd actually recommend to a small business owner in 2026, ranked by use case and pricing."
+description: "We compared 14 email marketing platforms. These 7 are the ones we'd actually recommend to a small business owner in 2026, ranked by use case and pricing."
 pubDate: 2026-08-01
 targetKeyword: "best email marketing tools for small business"
 items:
@@ -194,7 +194,7 @@ Brevo Lite at $9/mo bundles both. Mailjet Premium at $15.65/mo bundles both. Mai
 ---
 ## Bottom line
 
-For 80% of small businesses reading this, **MailerLite is the right answer**. It's $10/mo at 1,000 subscribers, the interface is clean, the deliverability is on par with Mailchimp, and the free tier covers your first 1,000 contacts.
+For average of small businesses reading this, **MailerLite is the right answer**. It's $10/mo at 1,000 subscribers, the interface is clean, the deliverability is on par with Mailchimp, and the free tier covers your first 1,000 contacts.
 
 The other six tools above are the right answer for the other 20% — the ones with specific needs (transactional email, creator commerce, advanced automation, webinars, or large lists).
 

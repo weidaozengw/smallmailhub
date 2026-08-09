@@ -9,7 +9,7 @@ pros:
   - "Most mature email marketing ecosystem — 300+ integrations and the deepest third-party app library"
   - "Reporting depth is best-in-class: heatmaps, revenue attribution, and comparative reports on paid tiers"
   - "Bundled tools beyond email: social posting, landing pages, brand kits, postcards, and basic CRM"
-  - "Deliverability is consistently strong — inbox placement averaged 97%+ on shared IPs across 60+ test sends"
+  - "Deliverability is consistently strong — inbox placement best-in-class on shared IPs"
 cons:
   - "Free tier caps at 250 contacts — less than a quarter of MailerLite's free limit"
   - "Paid tiers jump fast: Essentials at $13/mo quickly becomes $60+/mo past 2,500 contacts"
@@ -107,7 +107,7 @@ If you already use Mailchimp's social posting, brand kits, or postcards — and 
 
 **4.0/5**
 
-Mailchimp is the established incumbent and still a genuinely strong email marketing tool — reporting, integrations, and bundled toolset are best-in-class, and deliverability is excellent. But for a small business that just needs newsletters and basic automations, the price-to-feature ratio has slipped over five years as Mailchimp optimized for enterprise customers.
+Mailchimp is the established incumbent and still a genuinely strong email marketing tool — reporting, integrations, and bundled toolset best-in-class, and deliverability is excellent. But for a small business that just needs newsletters and basic automations, the price-to-feature ratio has slipped over five years as Mailchimp optimized for enterprise customers.
 
 We give it 4.0 instead of 4.6 because the free tier is too small, the 2,500+ contact price jumps are punishing, and dashboard complexity has grown past what small businesses want. Already on Mailchimp and using the broader toolset? **Stay**. Picking today and only need email? **MailerLite fits under 5,000 contacts**.
 

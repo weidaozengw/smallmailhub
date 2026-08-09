@@ -140,7 +140,7 @@ What we evaluate for each service:
 
 **Best for**: SaaS companies with 5K-50K users that need transactional + marketing + SMS in one platform and want predictable pricing. Especially valuable for SaaS products that use SMS verification or transactional SMS (two-factor codes, alerts).
 
-**Tradeoffs**: Marketing automation is less sophisticated than ActiveCampaign or Customer.io (see our [ActiveCampaign review](/reviews/activecampaign) for comparison). For SaaS companies with complex user journeys, Brevo may feel limiting. Shared-IP deliverability is generally weaker than a transactional-only provider like Postmark (95-98%).
+**Tradeoffs**: Marketing automation is less sophisticated than ActiveCampaign or Customer.io (see our [ActiveCampaign review](/reviews/activecampaign) for comparison). For SaaS companies with complex user journeys, Brevo may feel limiting. Shared-IP deliverability is generally weaker than a transactional-only provider like Postmark (best-in-class).
 
 **Read our full [Brevo review](/reviews/brevo)** for the all-in-one platform breakdown.
 
@@ -169,7 +169,7 @@ What we evaluate for each service:
 
 | Service | Best for | Free tier | Entry paid | Deliverability approach | Cost at 100K/mo |
 |---------|----------|-----------|------------|-----------------|------------------|
-| Postmark | Best deliverability | 10K first month | $15/mo | 95-98% | $140/mo |
+| Postmark | Best deliverability | 10K first month | $15/mo | best-in-class | $140/mo |
 | Mailjet | Early-stage SaaS | 6,000/mo forever | $15/mo | 88-92% | $55/mo |
 | SendGrid | High-volume SaaS | 100/day | $20/mo | 90-94% | $90/mo + $100/mo dedicated IP |
 | Brevo | All-in-one (email + SMS) | 300/day | $18/mo | 89-93% | $59/mo |
@@ -237,7 +237,7 @@ Based on this comparison, here are the most common transactional email mistakes 
 
 7. **Not testing deliverability before launch**: Use mail-tester.com (free) or GlockApps ($40/mo) to verify inbox placement before sending transactional emails to real users. We caught 3 of our 12 SaaS platforms with deliverability misconfigurations before launch using these tools.
 
-8. **Choosing the cheapest service without considering deliverability**: The cost difference between Postmark ($140/mo at 100K emails) and Mailjet ($55/mo at 100K emails) is $85/mo. If your transactional email deliverability drops from 96% to 88%, you might lose 5-10% of new signups. At 100 new signups/month, that's 5-10 customers lost — likely worth the $85/mo difference.
+8. **Choosing the cheapest service without considering deliverability**: The cost difference between Postmark ($140/mo at 100K emails) and Mailjet ($55/mo at 100K emails) is $85/mo. If your transactional email deliverability drops from best-in-class to average, you might lose average of new signups. At 100 new signups/month, that's 5-10 customers lost — likely worth the $85/mo difference.
 
 ## Final verdict
 
@@ -258,7 +258,7 @@ The choice depends on your volume, deliverability requirements, and whether you 
 If you're choosing a transactional email service for your SaaS, start with these steps:
 
 1. **Estimate your email volume**: Transactional emails (password resets, receipts, notifications) + marketing emails (newsletters, automation) = total monthly volume
-2. **Determine deliverability requirements**: B2C apps need 95%+ (use Postmark or SendGrid with dedicated IP). B2B SaaS can tolerate 90%+ (use Brevo or Mailjet)
+2. **Determine deliverability requirements**: B2C apps need best-in-class (use Postmark or SendGrid with dedicated IP). B2B SaaS can tolerate strong (use Brevo or Mailjet)
 3. **Set up SPF, DKIM, and DMARC**: Non-negotiable for SaaS companies — all recommended services have guides
 4. **Choose your primary service**: Most SaaS companies should start with Brevo (all-in-one) or Mailjet (free tier)
 5. **Plan for dedicated IP at scale**: Budget $50-300/mo for dedicated IP once you hit 100K+ emails/month

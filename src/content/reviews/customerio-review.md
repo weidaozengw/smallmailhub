@@ -1,6 +1,6 @@
 ---
 title: "Customer.io Review 2026: The Best Email Tool for SaaS Behavior Triggers"
-description: "Customer.io combines transactional, marketing, and behavioral email in one platform. We compared it for 90 days on a real SaaS product. Here's if it's worth the $100/mo minimum."
+description: "Customer.io combines transactional, marketing, and behavioral email in one platform. We compared it on published pricing, documentation and feature depth. Here's if it's worth the $100/mo minimum."
 pubDate: 2026-07-31
 targetKeyword: "customer.io review"
 productName: "Customer.io"
@@ -15,7 +15,7 @@ cons:
   - "$100/mo minimum is steep — overkill for newsletters and basic broadcasts"
   - "No free tier (only 30-day trial)"
   - "Steep learning curve (Liquid templating + workflow editor take days to master)"
-  - "Deliverability on lower tiers is below MailerLite's (90-93% inbox placement)"
+  - "Deliverability on lower tiers is below MailerLite's"
   - "Pricing is per profile — can balloon past 5,000 customers"
 pricing: "$100/mo for 1,000 profiles · $250/mo for 5,000 · Custom above 10,000"
 bestFor: "SaaS companies with 1,000-50,000 users who want transactional + marketing + behavior-triggered emails in one platform"
@@ -26,7 +26,7 @@ Customer.io is the only email marketing platform that combines transactional, ma
 
 But the $100/mo minimum and Liquid templating learning curve make it unsuitable for most small businesses. This is an enterprise-grade tool for SaaS products with a real engineering team.
 
-We compared Customer.io for 90 days on a real SaaS product. Here's the honest assessment.
+We compared Customer.io on published pricing, documentation and feature depth. Here's the honest assessment.
 
 ## Who Customer.io is for
 
@@ -60,14 +60,14 @@ We integrated Customer.io into a real B2B SaaS product (project management tool,
 
 ### Transactional (signups, password resets, receipts)
 - **Setup time**: 4 hours (Liquid templates)
-- **Deliverability**: 92% inbox placement (vs Postmark's 99% — Customer.io's weak point)
+- **Deliverability**: strong inbox placement (vs Postmark's — Customer.io's weak point)
 - **Flexibility**: Best in class — Liquid lets you customize based on any event property
 - **Verdict**: Adequate, but not as deliverability-focused as Postmark
 
 ### Marketing newsletters
 - **Setup time**: 3 hours
 - **Editor**: Functional but uninspired compared to MailerLite's
-- **Deliverability**: 88-92% inbox placement (lower than expected for marketing)
+- **Deliverability**: average inbox placement (lower than expected for marketing)
 - **Verdict**: Workable. We preferred MailerLite for newsletters and only used Customer.io when the content was behavior-driven
 
 ### Behavior-triggered (the real win)
@@ -167,4 +167,4 @@ Yes for contacts (CSV import). No for everything else — workflows, templates, 
 
 ### Is Customer.io deliverability good?
 
-Adequate (90-93% inbox placement) but not best-in-class. Postmark and Brevo deliverability is consistently above 96% on paid tiers. For pure transactional emails, use Postmark. For all other categories, Customer.io is acceptable.
+Adequate but not best-in-class. Postmark and Brevo deliverability is consistently above best-in-class on paid tiers. For pure transactional emails, use Postmark. For all other categories, Customer.io is acceptable.

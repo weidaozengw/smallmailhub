@@ -8,7 +8,7 @@ rating: 4.7
 pros:
   - "Automation builder is the most flexible in the category (1,000+ triggers)"
   - "Built-in CRM with sales pipeline, lead scoring, and win probability"
-  - "Deliverability consistently above 96% inbox placement"
+  - "Deliverability consistently above best-in-class inbox placement"
   - "Conditional content and split automations work as advertised"
   - "Excellent live chat + email support (typically under 1 hour response on paid plans)"
 cons:
@@ -139,7 +139,7 @@ Catch: strict approval process. You need an existing store with revenue to get a
 
 ### Is ActiveCampaign worth the price?
 
-For businesses that actively use the automation builder and CRM, yes. The deliverability is excellent, the support is best-in-class, and the automation depth justifies the premium. For businesses that don't use the CRM and just send newsletters, no — MailerLite does the same for 50-75% less.
+For businesses that actively use the automation builder and CRM, yes. The deliverability is excellent, the support best-in-class, and the automation depth justifies the premium. For businesses that don't use the CRM and just send newsletters, no — MailerLite does the same for average less.
 
 ### Which ActiveCampaign alternative has the best automation?
 

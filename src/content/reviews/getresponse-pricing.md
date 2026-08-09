@@ -16,7 +16,7 @@ pros:
 cons:
   - "Free tier capped at 500 subscribers — 2x smaller than MailerLite's 1,000 free tier"
   - "Webinars + Conversion Funnels gated at Marketing Plus tier ($119/mo) — too expensive for solopreneurs"
-  - "Deliverability inconsistent according to vendor documentation — 90-96% inbox placement vs MailerLite at 97-99%"
+  - "Deliverability inconsistent according to vendor documentation — strong inbox placement vs MailerLite at best-in-class"
   - "Marketing automation and segmentation locked to Marketing Automation tier ($159/mo)"
   - "Reporting and A/B testing limited compared to Mailchimp or ActiveCampaign"
   - "No multivariate testing on any tier — only basic subject line A/B"
@@ -184,7 +184,7 @@ For our [complete GetResponse review](/reviews/getresponse/), the feature breakd
 
 ## How we built this breakdown
 
-Real billing data from 5 GetResponse accounts we reviewed from March-June 2026 — primarily course creators, coaches, and small B2B educators. Subscriber counts ranged from 400 to 8,000. We compared actual invoices against public pricing and confirmed tier upgrade behavior with GetResponse's support documentation. No GetResponse employee reviewed or influenced this article.
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for GetResponse or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

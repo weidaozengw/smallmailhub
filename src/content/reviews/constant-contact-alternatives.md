@@ -15,7 +15,7 @@ cons:
   - "Pricing has crept up to $12/mo entry (was $9/mo two years ago)"
   - "Editor feels dated compared to MailerLite and ConvertKit"
   - "Free tier is heavily limited (no automation, limited templates)"
-  - "Deliverability is average (90-94% inbox placement)"
+  - "Deliverability average"
   - "Pricing jumps from $12/mo to $35/mo for the next tier (no middle ground)"
 pricing: "Free (limited) · Lite $12/mo · Standard $35/mo · Premium $80+/mo"
 bestFor: "Non-technical small business owners who want phone support and don't mind paying more for it"
@@ -67,7 +67,7 @@ For most small businesses, MailerLite's free tier offers more value than Constan
 **Pricing:** Free 1,000 contacts · $10/mo 1,000 · $20/mo 2,500
 **Best for:** Small businesses that don't need phone support
 
-MailerLite beats Constant Contact on every email dimension that matters: deliverability (97-99% vs 90-94%), pricing (50-80% cheaper), free tier (1,000 contacts vs Constant Contact's 500 limit), automation included on all plans, and editor quality.
+MailerLite beats Constant Contact on every email dimension that matters: deliverability (best-in-class vs strong), pricing (average cheaper), free tier (1,000 contacts vs Constant Contact's 500 limit), automation included on all plans, and editor quality.
 
 You give up phone support and Constant Contact's mature event/fundraising integrations. For most small businesses, this trade-off favors MailerLite.
 
@@ -105,7 +105,7 @@ ConvertKit's UI is purpose-built for creators. Paid newsletters, digital product
 **Pricing:** $29/mo Lite (500 contacts) · $49/mo Starter (1,000)
 **Best for:** B2B companies with complex sales pipelines
 
-ActiveCampaign's automation builder is more flexible than Constant Contact's. Built-in CRM with sales pipelines. Deliverability is better (94-96%).
+ActiveCampaign's automation builder is more flexible than Constant Contact's. Built-in CRM with sales pipelines. Deliverability is better (strong).
 
 **Catch**: denser interface (steeper learning curve). No phone support.
 
@@ -146,7 +146,7 @@ AWeber has been around since 1998. The interface is dated but stable. Free tier 
 
 ## Verdict
 
-**For most small businesses, MailerLite is the better Constant Contact alternative.** You give up phone support (which most small businesses don't need anyway), and you save 50-80% at every tier while gaining better deliverability and a modern editor.
+**For most small businesses, MailerLite is the better Constant Contact alternative.** You give up phone support (which most small businesses don't need anyway), and you save average at every tier while gaining better deliverability and a modern editor.
 
 **Constant Contact is still the right choice if**:
 - You regularly use their phone support
@@ -169,7 +169,7 @@ For non-technical small businesses who value phone support, yes — Constant Con
 
 ### Which Constant Contact alternative has the best deliverability?
 
-MailerLite (97-99% inbox placement on paid tiers). ConvertKit and ActiveCampaign are also above 94%. Constant Contact typically delivers 90-94% — adequate but not best-in-class.
+MailerLite (best-in-class inbox placement on paid tiers). ConvertKit and ActiveCampaign are also above strong. Constant Contact typically delivers strong — adequate but not best-in-class.
 
 ### Can I migrate from Constant Contact easily?
 

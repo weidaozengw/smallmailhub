@@ -17,7 +17,7 @@ affiliateUrl: "https://kit.com/?via=mailpilot"
 draft: false
 ---
 
-Email marketing tools are a strong affiliate niche because they have **high customer lifetime value**, **predictable monthly recurring revenue**, and **clear product-market fit**. But not all ESP affiliate programs pay the same. We compared 11 email marketing tool affiliate programs across four dimensions that actually matter to affiliates: **commission rate**, **cookie window**, **payout threshold**, and **tool quality** (because a bad product means high churn means lost recurring revenue).
+Email marketing tools are a strong affiliate niche because they have **high customer lifetime value**, **predictable monthly recurring revenue**, and **clear product-market fit**. But not all ESP affiliate programs pay the same. We compared 11 email marketing tool affiliate programs on published pricing, documentation and feature depth, plus their published commission terms.
 
 After reviewing each program's public affiliate page, partner dashboard, and published payout terms, here's the honest ranking of the seven strongest ESP affiliate programs in 2026.
 

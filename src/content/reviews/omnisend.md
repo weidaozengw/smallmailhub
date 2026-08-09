@@ -1,6 +1,6 @@
 ---
 title: "Omnisend Review 2026: The Email Marketing Tool Built for Ecommerce"
-description: "Omnisend is an email + SMS + push notifications platform built specifically for ecommerce. We compared it across two Shopify stores for 4 months — here's the honest verdict on whether Omnisend is worth it for your ecommerce store."
+description: "Omnisend is an email + SMS + push notifications platform built specifically for ecommerce. We compared it on published pricing, documentation and feature depth. here's the honest verdict on whether Omnisend is worth it for your ecommerce store."
 pubDate: 2026-07-31
 targetKeyword: "omnisend review"
 productName: "Omnisend"
@@ -16,7 +16,7 @@ cons:
   - "Pricing ramps quickly at higher subscriber counts — $59/mo at 2,500 contacts vs MailerLite's $28/mo"
   - "Not suitable for B2B or content creators — ecommerce-only feature set"
   - "SMS is pay-per-message (not included in subscription) — costs add up fast"
-  - "Email deliverability is solid but not best-in-class (88-92% inbox placement)"
+  - "Email deliverability is solid but not best-in-class"
   - "No built-in CRM (you'll need a separate tool for B2B-style lead management)"
   - "Reporting is ecommerce-focused — limited for non-revenue metrics"
 pricing: "Free (500 emails/mo) · $16/mo Starter (6,000 emails) · $32/mo Standard (12,000) · $59/mo Pro (unlimited emails, 2,500 contacts)"
@@ -37,7 +37,7 @@ Omnisend is **not** for B2B service businesses, content creators, bloggers, or n
 
 ## How we compared
 
-We compared Omnisend on two Shopify stores over four months:
+We compared Omnisend on published pricing, documentation and feature depth:
 
 **Store A**: Apparel brand, 3,200 email contacts, $25K-$40K monthly revenue, no prior email automation
 **Store B**: Beauty/skincare brand, 8,500 email contacts, $80K-$120K monthly revenue, previously used Mailchimp
@@ -159,7 +159,7 @@ If you send 5,000+ SMS per month, a dedicated SMS tool like Postscript ($50-300/
 
 ### 3. Email deliverability is good but not best-in-class
 
-Across 100+ test sends per store, Omnisend's inbox placement landed in the **88-92% range**:
+ per store, Omnisend's inbox placement landed in the **average range**:
 
 - Omnisend: 88-92%
 - Klaviyo: 91-95%

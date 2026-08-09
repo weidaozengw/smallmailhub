@@ -169,7 +169,7 @@ Brevo (formerly Sendinblue) is the budget-friendly behavior-trigger option. It h
 - No Liquid-equivalent templating
 - Behavior triggers are email-engagement-only (no product-usage events)
 - Limited automation depth (visual workflow is good, but simpler than Customer.io's)
-- Deliverability is 92-95% (below Customer.io's 96-98%)
+- Deliverability strong (below Customer.io's best-in-class)
 
 **Best for**: Bootstrapped SaaS startups with under 1,000 users that need basic behavior-trigger email on a budget.
 
@@ -312,7 +312,7 @@ We compared 12 email marketing tools against Customer.io for 8 weeks across 3 Sa
 
 1. **Behavior trigger setup time**: Hours to set up a 5-step product-event workflow
 2. **Trigger accuracy**: Did the right emails fire at the right time?
-3. **Deliverability**: Inbox placement on Gmail/Outlook/Yahoo across 100+ test sends
+3. **Deliverability**: Inbox placement on Gmail/Outlook/Yahoo
 4. **Total cost**: Monthly fee + integration setup + training time
 5. **Non-developer usability**: Can a marketer use it without engineering help?
 

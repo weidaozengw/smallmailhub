@@ -11,7 +11,7 @@ pros:
   - "Customer Journey Builder on Standard tier is genuinely powerful for ecommerce retargeting flows"
   - "Phone support excluded until Premium ($299/mo) — Standard/Essentials users rely on chat + email only"
   - "Multivariate A/B testing available on Premium — most competitors only do subject line A/B"
-  - "Strong deliverability (97-99%) on shared IPs — comparable to MailerLite, better than Constant Contact"
+  - "Strong deliverability on shared IPs — comparable to MailerLite, better than Constant Contact"
 cons:
   - "Pricing tiers double on contact count thresholds — $13 Essentials to $20 Standard to $135 Premium is a steep ramp"
   - "No phone support until Premium $299/mo tier — frustrating for small businesses stuck mid-campaign"

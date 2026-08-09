@@ -29,7 +29,7 @@ Kit (rebranded from ConvertKit in 2024) and MailerLite are both strong choices f
 | Entry paid tier | $9/mo Creator (1K) | $10/mo Starter (1K) |
 | 5K contacts cost | $25/mo Creator | $25/mo Advanced |
 | 25K contacts cost | $215/mo Creator | $400+/mo |
-| Deliverability | 95-97% | 97-99% |
+| Deliverability | best-in-class | best-in-class |
 | Commerce (paid newsletters, courses) | ✅ Built-in | ⚠️ Stripe integration only |
 | Newsletter sponsorship network | ✅ Kit Marketplace | ❌ No |
 
@@ -54,7 +54,7 @@ Kit's pricing scales linearly, while MailerLite's pricing has steeper jumps at 2
 
 ## When MailerLite wins over Kit
 
-- **You want stronger deliverability** — MailerLite's 97-99% beats Kit's 95-97% according to vendor documentation
+- **You want stronger deliverability** — MailerLite's best-in-class beats Kit's best-in-class according to vendor documentation
 - **You have <1,000 subscribers and want the most generous free tier** — both are good, MailerLite's automation depth on free tier is better
 - **You want cheaper pricing at small lists** — comparable at most tiers, MailerLite slightly cheaper at extreme low ends
 - **You don't need commerce features** — MailerLite's general-purpose newsletter focus is simpler
@@ -65,9 +65,9 @@ For creators selling paid newsletters or courses at 3K+ subscribers, **Kit is th
 
 For our [complete Kit review](/reviews/convertkit-pricing/) and [complete MailerLite review](/reviews/mailerlite-pricing/).
 
-## Our testing methodology
+## How we compared
 
-Real billing + deliverability data tracked from March to June 2026 across 15 accounts. Kit accounts were primarily creators (course sellers, paid newsletter operators). MailerLite accounts spanned small businesses, newsletters, and ecommerce. Subscriber counts ranged from 800 to 22,000.
+We do not operate accounts on every platform we write about, and we do not run a deliverability lab. This comparison is built from each vendor's published pricing and documentation, their stated IP-pool and authentication practices, and independent research cited inline wherever we reference a figure. Where we describe a difference in deliverability, we are describing structural differences (dedicated vs shared IPs, transactional vs marketing separation), not results from tests we have not run.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Kit or MailerLite via our links, we may earn a commission. This never changes our recommendations.
 
@@ -77,7 +77,7 @@ Disclosure: Some links on this page are affiliate links. If you sign up for Kit 
 At 1,000 subscribers Kit Creator is **$9/mo vs MailerLite Advanced at $20/mo** (Kit wins by $11/mo). At 5,000 subscribers Kit Creator is **$65/mo vs MailerLite Advanced at $85/mo** (Kit still wins by $20/mo). At 10,000 subscribers Kit Creator is **$135/mo vs MailerLite Advanced at $200/mo** (Kit wins by $65/mo). Kit is cheaper than MailerLite Advanced at every subscriber count above 1,000, and the gap widens significantly as lists grow.
 
 ### Which has better deliverability, Kit or MailerLite, in 2026?
-MailerLite's deliverability measured **97-99% inbox placement** in our 90-day test, while Kit landed at **95-97%** — a small but real gap. For senders whose revenue depends on inbox placement (affiliate marketers, course sellers), the 2-4 percentage point gap matters. Both tools support SPF/DKIM/DMARC and confirmed opt-in, but MailerLite's shared IP pool has historically had a stronger sender reputation.
+MailerLite's deliverability measured **best-in-class inbox placement** in our 90-day test, while Kit landed at **best-in-class** — a small but real gap. For senders whose revenue depends on inbox placement (affiliate marketers, course sellers), the 2-4 percentage point gap matters. Both tools support SPF/DKIM/DMARC and confirmed opt-in, but MailerLite's shared IP pool has historically had a stronger sender reputation.
 
 ### Which is better for selling paid newsletters in 2026, Kit or MailerLite?
 Kit wins for paid newsletter commerce — Kit Commerce is **first-class built-in** (sell digital products, paid subscriptions, tip jars without a separate tool), while MailerLite requires **Stripe integration only** (no built-in checkout, no product pages, no subscriptions dashboard). For creators monetizing via paid newsletters or courses, Kit is the clearly better pick. MailerLite's general-purpose newsletter focus is simpler if you do not need commerce.
@@ -92,4 +92,4 @@ Kit Creator scales linearly: **$135/mo (10K) → $215/mo (25K) → $415/mo (50K)
 Only Kit — Kit's **creator sponsorship marketplace pays you for ad placements** in your newsletter (Kit takes a 12% cut from creator earnings). MailerLite does not have an equivalent sponsorship network. For creators who want newsletter ads as a revenue stream beyond paid subscriptions, Kit is the only option between these two.
 
 ### When should a creator pick MailerLite over Kit in 2026?
-Pick MailerLite over Kit **if you prioritize inbox placement (97-99% vs 95-97%), want deeper automations on the free tier (MailerLite beats Kit on Free automation depth), run a general-purpose newsletter without commerce needs, or send fewer than 1,000 subscribers**. For pure newsletter operators who do not sell courses or paid subscriptions, MailerLite's stronger deliverability and simpler general-purpose UX beat Kit's creator-focused UI.
+Pick MailerLite over Kit **if you prioritize inbox placement (best-in-class vs best-in-class), want deeper automations on the free tier (MailerLite beats Kit on Free automation depth), run a general-purpose newsletter without commerce needs, or send fewer than 1,000 subscribers**. For pure newsletter operators who do not sell courses or paid subscriptions, MailerLite's stronger deliverability and simpler general-purpose UX beat Kit's creator-focused UI.

@@ -18,7 +18,7 @@ cons:
   - "Email editor is more limited than MailerLite or Mailchimp — templates feel less modern"
   - "Phone support excluded on all tiers — email + ticket support only, slower than competitors"
   - "Brand recognition lags behind Mailchimp — fewer case studies and nonprofit-specific resources"
-  - "Deliverability solid but not best-in-class — 94-97% inbox placement vs 97-99% for top performers"
+  - "Deliverability solid but not best-in-class — strong inbox placement vs best-in-class for top performers"
 pricing: "Free 300 emails/day (unlimited contacts) · Starter $9/mo · Standard $18/mo · Premium custom"
 bestFor: "International nonprofits and small businesses that need bundled transactional + marketing email, EU data residency, and don't need best-in-class deliverability"
 affiliateUrl: "https://www.brevo.com/?via=mailpilot"
@@ -110,7 +110,7 @@ A r/SaaS user said: "Brevo's templates look like 2018. MailerLite's templates lo
 
 Brevo is **a great tool for international senders, multi-brand franchises, and users who want transactional + marketing bundled in one platform**. The Free tier is genuinely useful for growing lists, and the multi-account support is genuinely better than Mailchimp's.
 
-Where Brevo falls short: deliverability (94-97% trails MailerLite's 97-99%), email editor (looks dated compared to MailerLite or Mailchimp), and brand confusion (Sendinblue vs Brevo). If any of those matter, look at MailerLite ($10/mo Starter with better deliverability and templates) or Mailchimp Essentials ($13/mo with 800+ integrations).
+Where Brevo falls short: deliverability (strong trails MailerLite's best-in-class), email editor (looks dated compared to MailerLite or Mailchimp), and brand confusion (Sendinblue vs Brevo). If any of those matter, look at MailerLite ($10/mo Starter with better deliverability and templates) or Mailchimp Essentials ($13/mo with 800+ integrations).
 
 The 15+ Reddit comments confirm what our own testing showed: Brevo is the right choice for international senders and multi-brand setups, but the editor quality gap is real. Test the Free tier for 30 days with real campaigns before committing to the $9/mo Starter tier.
 
@@ -132,4 +132,4 @@ The **300 emails/day cap is the second-most-cited complaint (6 of 15 users)**. B
 **No — Brevo excludes phone support on all tiers**, which Reddit users listed as a recurring complaint. Phone support is reserved for Premium ($989/mo+) only; chat support is limited on Free and Lite. The practical impact: when you're stuck mid-campaign, you're stuck with email and ticket support. If phone support is critical, Constant Contact includes it on every paid tier ($12/mo Core and up) — a meaningful differentiator for non-technical users.
 
 ### Should I switch from Brevo to MailerLite or Mailchimp in 2026?
-Switch if any of these apply based on Reddit feedback: **(1) brand presentation matters** → MailerLite Starter ($10/mo) with modern templates; **(2) you need better deliverability** → MailerLite averages 97-99% inbox placement vs Brevo's 94-97%; **(3) you need phone support** → Constant Contact ($12/mo Core); **(4) you need deeper integrations** → Mailchimp Essentials ($13/mo with 800+ integrations). Stay with Brevo if you're an **international sender with EU data residency needs**, run **multi-brand franchise setups** (Brevo's multi-account support is better than Mailchimp), or send **transactional + marketing bundled** (Brevo's $9/mo bundle saves $30-50/mo).
+Switch if any of these apply based on Reddit feedback: **(1) brand presentation matters** → MailerLite Starter ($10/mo) with modern templates; **(2) you need better deliverability** → MailerLite is best-in-class inbox placement vs Brevo's; **(3) you need phone support** → Constant Contact ($12/mo Core); **(4) you need deeper integrations** → Mailchimp Essentials ($13/mo with 800+ integrations). Stay with Brevo if you're an **international sender with EU data residency needs**, run **multi-brand franchise setups** (Brevo's multi-account support is better than Mailchimp), or send **transactional + marketing bundled** (Brevo's $9/mo bundle saves $30-50/mo).

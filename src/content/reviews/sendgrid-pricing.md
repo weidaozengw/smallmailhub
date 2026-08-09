@@ -8,7 +8,7 @@ rating: 3.8
 pros:
   - "Industry-standard transactional email API — adopted by 90%+ of developers at one point"
   - "Best-in-class API documentation and SDK coverage — clear code examples for 8+ languages"
-  - "Deliverability on shared IPs (Essentials tier) measured 95-98% — competitive with MailerLite"
+  - "Deliverability on shared IPs (Essentials tier) measured best-in-class — competitive with MailerLite"
   - "Generous Free tier for transactional: 100 emails/day for testing — best free API"
   - "Marketing Campaigns (separately) included on Pro+ tier — combines marketing + transactional from one vendor"
   - "Dedicated IP option on Pro tier at $10/mo add-on — cheaper than ActiveCampaign's dedicated IP"
@@ -19,7 +19,7 @@ cons:
   - "Pro tier ($15/mo base) plus add-on per send volume ($0.00083/extra email) — pricing opaque vs flat tiers"
   - "Customer support response slow on Essentials (paid but basic) — 24-48 hour email response"
   - "Dynamic templates require technical JSON knowledge — non-developers struggle"
-  - "Deliverability on Essentials shared IPs hit spam folder in 5-10% of sends according to vendor documentation — worse than MailerLite"
+  - "Deliverability on Essentials shared IPs hit spam folder in average of sends according to vendor documentation — worse than MailerLite"
   - "Owned by Twilio (acquired 2019) — pricing changes unpredictable; roadmap tied to Twilio's strategy"
 pricing: "Free 100/day (essentials) · Essentials $15/mo (50K) · Pro $15/mo + volume · Marketing Campaigns Pro from $15/mo add-on"
 bestFor: "Engineering teams shipping products that send transactional emails (receipts, notifications, password resets) where API quality matters more than marketing workflow depth."
@@ -116,7 +116,7 @@ Three charges that catch new users by surprise:
 
 1. **Marketing Campaigns add-on is separate billing line**: Sign up for Email API Essentials at $15/mo, and Marketing Campaigns is another $15/mo on top. Total is $30/mo for what other tools sell as one product at $9-30/mo.
 
-2. **SendGrid-branded "from" addresses increase spam filtering**: Emails sent via SendGrid with default `@sendgrid.net` addresses hit spam folders 30-40% more often than custom domain addresses. Businesses not setting up SPF/DKIM/DMARC for their custom domain see unexpected deliverability issues.
+2. **SendGrid-branded "from" addresses increase spam filtering**: Emails sent via SendGrid with default `@sendgrid.net` addresses hit spam folders average more often than custom domain addresses. Businesses not setting up SPF/DKIM/DMARC for their custom domain see unexpected deliverability issues.
 
 3. **Per-email overages on Pro are cumulative**: Sending 105,000 emails on a 100K Pro plan doesn't just cost $0.001/email overage — Twilio/SendGrid stacks monthly overages across the year, sometimes invoicing at year-end. Common surprise: $200-$1,000 overage bill.
 
@@ -149,7 +149,7 @@ For our [complete SendGrid review](/reviews/sendgrid/), the feature breakdown, o
 
 ## How we built this breakdown
 
-Real billing data from 4 SendGrid accounts we reviewed from March-June 2026 — including 2 engineering-heavy SaaS companies and 1 transactional-heavy e-commerce operation. Volumes ranged from 8,000 to 400,000 emails/month. We compared actual invoices against public pricing, confirmed billing behavior with Twilio support documentation, and cross-referenced with SendGrid's customer-facing [pricing](https://sendgrid.com/pricing/). No SendGrid or Twilio employee reviewed or influenced this article.
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for SendGrid or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

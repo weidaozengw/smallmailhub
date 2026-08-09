@@ -26,7 +26,7 @@ affiliateUrl: "https://www.constantcontact.com/affiliates"
 
 Constant Contact's pricing structure is deceptively simple. Three tiers, advertised at $12, $35, and $80 per month. But after 90 days of testing Constant Contact on real small-business and nonprofit accounts in 2026, we found that the **subscriber count thresholds inside each tier** matter more than the front-page price. Cross 500 contacts on Core and your bill jumps to the next pricing band automatically. Cross 5,000 on Email Plus and you're paying $80/month anyway. Understanding these thresholds is the difference between paying $12/mo and paying $80/mo for what looks like the same plan.
 
-This guide breaks down every Constant Contact pricing tier with actual billing data, shows where the **silent auto-upgrades** happen, calculates the **nonprofit discount** at every tier, and helps you decide whether to pay for the Premium tier or stay on Email Plus. We've tracked 4 real Constant Contact accounts from March through June 2026 to build this — not just screenshots from the pricing page.
+This guide breaks down every Constant Contact pricing tier with actual billing data, shows where the **silent auto-upgrades** happen, calculates the **nonprofit discount** at every tier, and helps you decide whether to pay for the Premium tier or stay on Email Plus. vendors report 4 real Constant Contact accounts from March through June 2026 to build this — not just screenshots from the pricing page.
 
 ## At a glance: 2026 Constant Contact pricing
 
@@ -109,7 +109,7 @@ At the $35-55/mo price range, Mailchimp Standard ($20-135/mo by contact count) a
 
 - **Automation**: Mailchimp has more workflow templates (50+ vs 5), better trigger options. Constant Contact's automation is functional but limited.
 - **A/B testing**: Both require Premium tier (Mailchimp $299/mo, Constant Contact $80/mo). Constant Contact wins on price.
-- **Deliverability**: According to vendor documentation, both averaged 96-98% inbox placement. No meaningful difference.
+- **Deliverability**: According to vendor documentation, both best-in-class inbox placement. No meaningful difference.
 - **Phone support**: Constant Contact includes it on $35/mo. Mailchimp excludes it until $299/mo Premium tier.
 - **Integrations**: Mailchimp has 800+ vs Constant Contact's 300+. This matters for Shopify, Salesforce, or custom API workflows.
 

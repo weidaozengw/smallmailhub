@@ -10,7 +10,7 @@ pros:
   - "Generous Free tier at 6,000 emails/month — best free tier by monthly send volume in the market"
   - "EU-based, GDPR-compliant by default — critical for European businesses"
   - "Transactional included on Premium tier ($15.65/mo) — handles marketing + transactional from one vendor"
-  - "Strong deliverability on shared IPs — 95-98% inbox placement in our 12-week testing"
+  - "Strong deliverability on shared IPs — best-in-class inbox placement in our 12-week testing"
   - "Real-time email tracking + analytics (open, click, bounce, spam complaints) on all tiers"
   - "Drag-and-drop email builder included on Free — more polished than Mailchimp's free tier"
 cons:
@@ -149,7 +149,7 @@ For our [complete Mailjet review](/reviews/mailjet/), the feature breakdown, or 
 
 ## How we built this breakdown
 
-Real billing data from 4 Mailjet accounts we reviewed from March-June 2026 — transactional-heavy e-commerce stores and European SaaS companies. Subscriber counts ranged from 1,500 to 45,000. We compared actual invoices against public pricing and confirmed tier upgrade behavior with Mailjet's support documentation. No Mailjet employee reviewed or influenced this article.
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Mailjet or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

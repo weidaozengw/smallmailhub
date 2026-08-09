@@ -63,9 +63,9 @@ For B2B services at $100K+/year revenue, **ActiveCampaign is the better pick** â
 
 For our [complete ActiveCampaign review](/reviews/activecampaign-pricing/) and [complete Mailchimp review](/reviews/mailchimp-pricing/).
 
-## Our testing methodology
+## How we compared
 
-Real billing + deliverability data tracked from March to June 2026 across 18 accounts. ActiveCampaign accounts were primarily B2B services (consulting, SaaS, agencies). Mailchimp accounts spanned retail, restaurants, ecommerce, services. Subscriber counts ranged from 800 to 18,000.
+We do not operate accounts on every platform we write about, and we do not run a deliverability lab. This comparison is built from each vendor's published pricing and documentation, their stated IP-pool and authentication practices, and independent research cited inline wherever we reference a figure. Where we describe a difference in deliverability, we are describing structural differences (dedicated vs shared IPs, transactional vs marketing separation), not results from tests we have not run.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for ActiveCampaign or Mailchimp via our links, we may earn a commission. This never changes our recommendations.
 

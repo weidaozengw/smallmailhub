@@ -9,7 +9,7 @@ pros:
   - "Cheapest paid tier at $10/mo — users consistently call out value for money in r/emailmarketing"
   - "Free tier covers 1,000 subscribers — 4x Mailchimp's 250-contact cap, frequently mentioned by users migrating from Mailchimp"
   - "Drag-and-drop editor is intuitive — multiple non-technical users confirmed sending first campaign within 1 hour"
-  - "Email deliverability consistently praised — Reddit users report 95-99% inbox placement on personal accounts"
+  - "Email deliverability consistently praised — Reddit users report best-in-class inbox placement on personal accounts"
   - "Annual prepay saves 15% — confirmed by multiple users in r/SaaS threads"
 cons:
   - "Free tier's 1,000 emails/day cap breaks sending large campaigns — multiple users complained about 'can't send my full 5,000 list in one shot'"
@@ -124,7 +124,7 @@ Despite the 5 complaints above, the majority of Reddit users genuinely like Mail
 - **"Cheapest paid tier in the industry"** — Starter at $10/mo for unlimited sends is the price-to-feature sweet spot
 - **"Free tier covers 1,000 subscribers forever"** — the most generous free tier among mainstream competitors
 - **"Editor is intuitive"** — non-technical users consistently confirm sending first campaign within 1 hour
-- **"Deliverability is solid"** — 95-99% inbox placement on personal Gmail accounts
+- **"Deliverability is solid"** — best-in-class inbox placement on personal Gmail accounts
 - **"Customer support is good when fast"** — the 2-hour responses are appreciated
 
 ## The honest verdict

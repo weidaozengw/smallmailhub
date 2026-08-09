@@ -6,7 +6,7 @@ targetKeyword: "klaviyo pricing 2026"
 productName: "Klaviyo"
 rating: 4.5
 pros:
-  - "Strong deliverability on shared IPs (97-99% inbox placement according to vendor documentation), on par with MailerLite and Mailchimp at the same volume"
+  - "Strong deliverability on shared IPs (best-in-class inbox placement according to vendor documentation), on par with MailerLite and Mailchimp at the same volume"
   - "Predictable, linear pricing — $1 per 250 contacts/month, scales smoothly as lists grow from 250 to 100,000+"
   - "Best-in-class Shopify integration — automatic sync of products, customers, orders, abandoned carts, browse history"
   - "SMS and email combined pricing — pay one platform for both channels (SMS often as cheap as $0.01/message)"
@@ -96,7 +96,7 @@ But Klaviyo's SMS is **integrated into the same flows** — an abandoned cart ca
 
 ## The $480K/year Shopify store case study
 
-Real account tracked from March-June 2026:
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 - **List size**: 4,500 customers + 12,000 engaged subscribers = 16,500 contacts
 - **Monthly plan**: Email + SMS (full-featured)
@@ -151,7 +151,7 @@ For our [complete Klaviyo review](/reviews/klaviyo/), the feature breakdown, or 
 
 ## How we built this breakdown
 
-Real billing data from 6 Klaviyo accounts we reviewed from March-June 2026 — including 4 Shopify stores, 1 WooCommerce store, and 1 BigCommerce store. We compared actual invoices against public pricing, and confirmed SMS overage behavior with Klaviyo's support documentation. No Klaviyo employee reviewed or influenced this article.
+Pricing below is taken from each vendor's public pricing page and modelled at common subscriber and volume tiers. We do not have access to invoices from accounts we do not operate, so these are list-price calculations — always confirm current pricing with the vendor.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Klaviyo or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

@@ -28,7 +28,7 @@ Mailchimp and MailerLite are the two most popular email marketing tools for smal
 | Free tier | 250 contacts | 1,000 contacts |
 | Entry paid tier | $13/mo Essentials (500 contacts) | $10/mo Starter (1,000 contacts) |
 | 5K contacts cost | $135/mo Standard | $85/mo Advanced |
-| Deliverability (avg) | 97-99% inbox | 97-99% inbox |
+| Deliverability (avg) | best-in-class inbox | best-in-class inbox |
 | Automation depth | Moderate | Moderate-to-deep |
 | Ecommerce features | Strong | Basic (paid plugins) |
 | Send-time optimization | Premium only ($250+/mo) | Available on Advanced |
@@ -50,10 +50,10 @@ At every tier below 25K, **MailerLite is significantly cheaper than Mailchimp** 
 ## Deliverability — they're tied
 
 In our 90-day testing across 12 Mailchimp accounts and 8 MailerLite accounts:
-- Mailchimp averaged **97.6% inbox placement**
-- MailerLite averaged **97.4% inbox placement**
+- Mailchimp averaged **97.average inbox placement**
+- MailerLite averaged **97.average inbox placement**
 
-The 0.2% difference is within measurement noise. **Both tools have similar deliverability**. The marketing claim that "Mailchimp delivers better" is no longer accurate in 2026 — MailerLite catches up, partly because of MailerLite's recent Gmail Postmaster integration.
+The 0.average difference is within measurement noise. **Both tools have similar deliverability**. The marketing claim that "Mailchimp delivers better" is no longer accurate in 2026 — MailerLite catches up, partly because of MailerLite's recent Gmail Postmaster integration.
 
 ## Automation depth
 
@@ -81,9 +81,9 @@ For a content creator or small business, MailerLite's UI is more approachable. F
 
 For most small businesses in 2026, **MailerLite is the better pick** based on pricing alone — the 30-50% cost savings at small lists is real. Mailchimp's edge is multi-channel features and a longer integration ecosystem. If you primarily do newsletters, switch to MailerLite. If you do multi-channel marketing or use Mailchimp's social features, stay.
 
-## Our testing methodology
+## How we compared
 
-Real billing + deliverability data tracked from March to June 2026 across 20 Mailchimp and MailerLite accounts of various sizes. Subscriber counts ranged from 500 to 18,000. We compared inbox placement against Microsoft, Google, and Yahoo seedlists across 90 days.
+We do not operate accounts on every platform we write about, and we do not run a deliverability lab. This comparison is built from each vendor's published pricing and documentation, their stated IP-pool and authentication practices, and independent research cited inline wherever we reference a figure. Where we describe a difference in deliverability, we are describing structural differences (dedicated vs shared IPs, transactional vs marketing separation), not results from tests we have not run.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for MailerLite or Mailchimp via our links, we may earn a commission. This never changes our recommendations.
 

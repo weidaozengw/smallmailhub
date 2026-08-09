@@ -13,7 +13,7 @@ pros:
   - "24/7 live chat on paid plans (typically under 5-min response)"
 cons:
   - "Pricing has crept up — Email Marketing plan now $19/mo (was $15/mo)"
-  - "Deliverability is below MailerLite and ActiveCampaign (88-92% inbox placement)"
+  - "Deliverability is below MailerLite and ActiveCampaign"
   - "Webinar tool is functional but Zoom/WebinarJam is better"
   - "Automation builder feels dated (less flexible than ActiveCampaign)"
   - "No built-in CRM (separate tool needed for sales pipelines)"
@@ -68,7 +68,7 @@ GetResponse is competitive if you value the all-in-one approach and you don't hi
 **Pricing:** Free 1,000 contacts · $10/mo 1,000 · $20/mo 2,500
 **Best for:** Small businesses not running webinars
 
-MailerLite beats GetResponse on every email dimension that matters: deliverability (97-99% vs 88-92%), pricing (50-70% cheaper), automation depth, and editor quality. You give up webinars and funnels — but if you don't run webinars, MailerLite is unambiguously better.
+MailerLite beats GetResponse on every email dimension that matters: deliverability (best-in-class vs average), pricing (average cheaper), automation depth, and editor quality. You give up webinars and funnels — but if you don't run webinars, MailerLite is unambiguously better.
 
 **Catch**: no webinar + funnel features. For those, look at GetResponse or ConvertKit.
 
@@ -77,7 +77,7 @@ MailerLite beats GetResponse on every email dimension that matters: deliverabili
 **Pricing:** Free 1,000 · $29/mo Creator · $59/mo Creator Pro
 **Best for:** Creators with paid newsletters and digital products
 
-ConvertKit's UI is more creator-friendly than GetResponse's. Paid newsletters, digital products, and tip jars are built-in. Visual automations are easier to build. Deliverability is better (94-96%).
+ConvertKit's UI is more creator-friendly than GetResponse's. Paid newsletters, digital products, and tip jars are built-in. Visual automations are easier to build. Deliverability is better (strong).
 
 **Catch**: no native webinar tool (you'll need Zoom or WebinarJam separately). Pricing is slightly higher than GetResponse.
 
@@ -86,7 +86,7 @@ ConvertKit's UI is more creator-friendly than GetResponse's. Paid newsletters, d
 **Pricing:** $29/mo Lite (500 contacts) · $49/mo Starter (1,000)
 **Best for:** Small businesses with complex automations
 
-ActiveCampaign's automation builder is more flexible than GetResponse's. Built-in CRM is included. Deliverability is better (94-96%).
+ActiveCampaign's automation builder is more flexible than GetResponse's. Built-in CRM is included. Deliverability is better (strong).
 
 **Catch**: no webinar tool (add Zoom or WebinarJam separately). Denser interface.
 
@@ -106,7 +106,7 @@ Brevo combines transactional + marketing in one platform. GetResponse has no tra
 
 If webinar quality matters more than consolidation, Zoom Webinar + MailerLite delivers:
 - Zoom's webinar infrastructure is the gold standard
-- MailerLite's email deliverability is category-best (97-99%)
+- MailerLite's email deliverability is category-best (best-in-class)
 - Total cost: $50-100/mo + $10/mo vs GetResponse's $99/mo
 
 **Catch**: 2 tools to manage instead of 1.
@@ -148,7 +148,7 @@ GetResponse has e-commerce features, but Klaviyo is purpose-built for it. Produc
 
 ## Verdict
 
-**For most small businesses, MailerLite is the better GetResponse alternative.** You give up the webinar and funnel features, but you get 50-70% cost savings, category-best deliverability, and a faster interface.
+**For most small businesses, MailerLite is the better GetResponse alternative.** You give up the webinar and funnel features, but you get average cost savings, category-best deliverability, and a faster interface.
 
 **GetResponse is still the right choice if**:
 - You run weekly webinars as a core channel
@@ -171,7 +171,7 @@ For course creators running webinars, yes — the all-in-one approach saves tool
 
 ### Which GetResponse alternative has the best deliverability?
 
-MailerLite (97-99% inbox placement on paid tiers). ConvertKit and ActiveCampaign are also above 94%. Avoid GetResponse's free tier if deliverability matters — it's below 88%.
+MailerLite (best-in-class inbox placement on paid tiers). ConvertKit and ActiveCampaign are also above strong. Avoid GetResponse's free tier if deliverability matters — it's below average.
 
 ### Can I migrate from GetResponse easily?
 

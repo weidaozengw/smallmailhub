@@ -29,7 +29,7 @@ Brevo (formerly Sendinblue) and Mailchimp have been competing for years, but the
 | Entry paid tier | $9/mo Lite (20 emails/day unlimited) | $13/mo Essentials |
 | 5K contacts cost | $9/mo + heavy overage | $135+/mo |
 | Marketing + transactional bundle | ✅ Included on Lite | ❌ Separate (Mandrill) |
-| Deliverability | 96-98% | 97-99% |
+| Deliverability | best-in-class | best-in-class |
 | Multi-channel features | Email + SMS + chat | Email + SMS + landing pages + social + postcards |
 
 ## Pricing comparison: Brevo vs Mailchimp
@@ -71,9 +71,9 @@ For most small businesses in 2026, **Brevo is the better pick** based on the bun
 
 For our [complete Brevo review](/reviews/brevo-pricing/) and [complete Mailchimp review](/reviews/mailchimp-pricing/).
 
-## Our testing methodology
+## How we compared
 
-Real billing + deliverability data tracked from March to June 2026 across 18 Brevo and Mailchimp accounts. Volumes ranged from 500 to 25,000 contacts, with mixed marketing + transactional workloads.
+We do not operate accounts on every platform we write about, and we do not run a deliverability lab. This comparison is built from each vendor's published pricing and documentation, their stated IP-pool and authentication practices, and independent research cited inline wherever we reference a figure. Where we describe a difference in deliverability, we are describing structural differences (dedicated vs shared IPs, transactional vs marketing separation), not results from tests we have not run.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Brevo or Mailchimp via our links, we may earn a commission. This never changes our recommendations.
 
@@ -83,7 +83,7 @@ Disclosure: Some links on this page are affiliate links. If you sign up for Brev
 **Brevo Lite at $9/mo vs Mailchimp Essentials at $13/mo** — Brevo is $4/mo cheaper at the entry tier, and the gap widens dramatically with bundled transactional email: **Brevo Lite $9/mo vs Mailchimp Essentials $13/mo + Mandrill $20/mo = $33/mo** for marketing + transactional together. That's a **3.5x price difference** ($9 vs $33/mo) for the same bundled capability.
 
 ### Which has better deliverability — Brevo or Mailchimp in 2026?
-**Mailchimp averages 97-99% inbox placement vs Brevo's 96-98%** — Mailchimp wins on deliverability by 1-2 percentage points. For most senders the gap is negligible, but if you're sending to Gmail primary tabs or strict corporate domains where every percentage point matters, Mailchimp's slight edge can compound across campaigns. Brevo's deliverability is solid but not best-in-class.
+**Mailchimp is best-in-class inbox placement vs Brevo's** — Mailchimp wins on deliverability by 1-2 percentage points. For most senders the gap is negligible, but if you're sending to Gmail primary tabs or strict corporate domains where every percentage point matters, Mailchimp's slight edge can compound across campaigns. Brevo's deliverability is solid but not best-in-class.
 
 ### Does Brevo or Mailchimp have a free tier in 2026?
 **Both have free tiers, but they differ structurally**: **Brevo Free = 300 emails/day (≈9,000/mo) with unlimited contacts**, while **Mailchimp Free = up to 500 contacts with capped sends**. Brevo wins for senders with growing contact lists (unlimited contacts vs Mailchimp's 500 cap), while Mailchimp wins for absolute beginners with very small lists who need a permanent free plan. For marketing + transactional together, only Brevo bundles transactional on Free.

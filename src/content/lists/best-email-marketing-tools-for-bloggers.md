@@ -50,7 +50,7 @@ Kit (formerly ConvertKit) is the default recommendation for bloggers for good re
 - **Automation**: Visual workflow builder, but you don't need to use it. Most bloggers send broadcasts, not automations.
 - **Commerce**: Built-in paid newsletters, digital product sales, and tip jars
 - **Landing pages**: Free, mobile-optimized, no design work needed
-- **Deliverability**: 97-99% inbox placement (best-in-class)
+- **Deliverability**: best-in-class inbox placement
 - **Support**: Email + chat support, fast response times
 
 **What we didn't like**:
@@ -99,7 +99,7 @@ MailerLite is the budget pick for bloggers who want a real drag-and-drop email e
 - **Free tier**: 1,000 subscribers free forever — most generous in the category
 - **Email editor**: Drag-and-drop, beautiful templates, mobile preview
 - **Landing pages**: Free, with 100+ templates
-- **Deliverability**: 97-99% inbox placement (we've measured this consistently)
+- **Deliverability**: best-in-class inbox placement
 - **Pricing**: Cheapest at every tier — $10/mo for 1,000 subscribers is hard to beat
 - **Support**: Email + chat, 24/7 on paid plans
 
@@ -260,7 +260,7 @@ MailerLite Starter at $10/mo for 1K subscribers is the cheapest. Mailchimp Essen
 
 ### Which delivers the highest inbox placement?
 
-MailerLite at 97-99% according to vendor documentation is strongest combined with cheapest pricing. Brevo and ActiveCampaign tie closely. Kit's deliverability on shared IPs trails at 92-96% but improves with dedicated IP option.
+MailerLite at best-in-class according to vendor documentation is strongest combined with cheapest pricing. Brevo and ActiveCampaign tie closely. Kit's deliverability on shared IPs trails at strong but improves with dedicated IP option.
 
 ### Should I use Beehiiv for ad revenue?
 

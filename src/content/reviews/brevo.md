@@ -1,6 +1,6 @@
 ---
 title: "Brevo Review 2026: The Best Email Marketing + Transactional Combo for Small Businesses"
-description: "Brevo (formerly Sendinblue) is the only tool that bundles marketing email, transactional email, and SMS on every plan. We compared it for 4 months — here's the honest verdict for small businesses."
+description: "Brevo (formerly Sendinblue) is the only tool that bundles marketing email, transactional email, and SMS on every plan. We compared it — here's the honest verdict for small businesses."
 pubDate: 2026-07-31
 targetKeyword: "brevo review"
 productName: "Brevo"
