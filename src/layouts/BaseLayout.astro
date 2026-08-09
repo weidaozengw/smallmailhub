@@ -11,8 +11,11 @@ const { title, description, canonical, ogImage } = Astro.props;
 const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
 const year = new Date().getFullYear();
 
-// GA4 — set PUBLIC_GA4_ID env var in Cloudflare Pages to enable
-const ga4Id = import.meta.env.PUBLIC_GA4_ID || '';
+// GA4 — the property existed since launch but the ID was never wired up, so the site
+// shipped for months with zero analytics (GA showed "No data received from your website yet").
+// Hardcoded as fallback on 2026-08-09, same pattern as the GSC verification below.
+// A Measurement ID is public by design — it ships in the page HTML — so this is not a secret.
+const ga4Id = import.meta.env.PUBLIC_GA4_ID || 'G-SHGLFCEWBP';
 
 // Search Console verification meta tag — set PUBLIC_GSC_VERIFICATION env var in Cloudflare
 // or hardcode below as fallback. As of 2026-07-29, hardcoded to unlock real search data.
