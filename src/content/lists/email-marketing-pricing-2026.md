@@ -294,7 +294,7 @@ ActiveCampaign Plus at $49/mo — the visual automation canvas, lead scoring, an
 
 ### Which tool has the strongest deliverability per dollar?
 
-MailerLite at best-in-class inbox placement in our 90-day testing is the strongest combined with the cheapest pricing. Brevo and ActiveCampaign tie closely. Kit's deliverability on shared IPs trails at strong, but improves with Kit's dedicated IP option on Pro+.
+MailerLite pairs solid deliverability practice with the cheapest pricing in this comparison. Brevo and ActiveCampaign tie closely. Kit's deliverability on shared IPs trails at strong, but improves with Kit's dedicated IP option on Pro+.
 
 ### What's the difference between marketing email and transactional email?
 

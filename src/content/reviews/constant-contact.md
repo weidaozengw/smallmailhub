@@ -215,7 +215,7 @@ For nonprofits specifically, Constant Contact's 20% nonprofit discount + donatio
 ## Frequently asked questions about Constant Contact
 
 ### Is Constant Contact good for small businesses in 2026?
-**Yes — Constant Contact is built for small businesses with non-technical owners**. In our 90-day testing, a non-technical nonprofit director sent her first campaign within 30 minutes of signing up; with Mailchimp or ActiveCampaign, the same person needed 2-3 hours. Constant Contact is **not** for ecommerce stores (lacks deep Shopify integration), B2B SaaS (lacks automation depth), or creators/bloggers (better tools exist at lower prices).
+**Yes — Constant Contact is built for small businesses with non-technical owners**. Its setup flow exposes fewer options than Mailchimp or ActiveCampaign, which is the whole point — fewer decisions between signing up and sending. The trade-off appears later, when you needed 2-3 hours. Constant Contact is **not** for ecommerce stores (lacks deep Shopify integration), B2B SaaS (lacks automation depth), or creators/bloggers (better tools exist at lower prices).
 
 ### How much does Constant Contact cost per month in 2026?
 **Constant Contact pricing starts at $12/mo for Core (annual prepay)**, **$35/mo for Email Plus**, and **$80/mo for Premium**. All three tiers include unlimited email sends, phone + chat + email support, and 60+ templates. At 1,000 contacts, Constant Contact Email Plus at $35/mo is **2-3x more expensive than MailerLite at $10/mo** for similar functionality. The premium is justified by unlimited sends and support quality but a real cost burden for budget senders.

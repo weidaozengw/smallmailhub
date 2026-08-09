@@ -10,7 +10,7 @@ pros:
   - "Native CRM included on every paid tier — no separate CRM cost for B2B services with deal pipeline needs"
   - "Sales CRM (separate from marketing CRM) included on Plus+ tier — useful for service businesses tracking deal stages"
   - "Predictable per-feature scaling — Lite → Plus → Professional → Enterprise, you know which tier unlocks what"
-  - "Excellent deliverability across all tiers — best-in-class inbox placement in our 12-week testing"
+  - "Deliverability is a documented strength, with dedicated IP options on higher tiers"
   - "Phone support included on Plus+ tier — faster than MailerLite's email-only on basic tiers"
   - "Strong B2B service business workflow patterns built in — lead scoring, deal pipelines, win-loss reporting"
 cons:

@@ -137,20 +137,20 @@ The 27 Reddit comments we pulled confirm what our own testing showed: MailerLite
 
 ## Frequently asked questions about MailerLite Reddit complaints
 
-### MailerLite 2026 年免费版每天最多发送多少封邮件？
-MailerLite 免费版每天最多发送 **1,000 封邮件**。因此 5,000 人的活动无法在一天内一次发完，Reddit 用户通常选择分段发送，或者升级到 **$10/月 Starter** 获得无限发送。
+### What is MailerLite's free plan daily send limit in 2026?
+MailerLite's free plan allows **1,000 emails per day**. A 5,000-recipient campaign therefore cannot go out in a single day; Reddit users typically either split the send across days or move to **$10/mo Starter** for unlimited sending.
 
-### MailerLite 2026 年免费版能做几条自动化流程？
-MailerLite 免费版实际只有 **1 个简单触发流程**和 1 封欢迎邮件。它不包含多步骤 drip、行为触发、if/then 分支或目标追踪；Starter **$10/月**可获得更多单触发流程，复杂可视化流程需要 Advanced **$20/月**。
+### How many automations does MailerLite's free plan include in 2026?
+In practice, **one simple triggered flow** plus a welcome email. It does not include multi-step drips, behavioural triggers, if/then branching or goal tracking. Starter at **$10/mo** adds more single-trigger flows; complex visual workflows require Advanced at **$20/mo**.
 
-### MailerLite 2026 年 Starter 有多变量测试吗？
-MailerLite Starter **$10/月**没有多变量测试，只提供基础 A/B 测试。多变量测试和高级报告被锁在 Advanced **$20/月**，如果需要点击热图等数据，应把每年额外的 **$120** 计入预算。
+### Does MailerLite Starter include multivariate testing in 2026?
+No — Starter at **$10/mo** offers basic A/B testing only. Multivariate testing and advanced reporting sit behind Advanced at **$20/mo**. If you need click maps and deeper reporting, budget the additional **$120/year** rather than assuming it is included.
 
-### MailerLite 2026 年支持专用 IP 吗？
-MailerLite 的公开付费档位不提供专用 IP，专用 IP 只在 Enterprise 定制合同中提供。文章将每月 **50,000 封以上**的高量发送者列为容易受此限制影响的人群；这类团队应在试用期确认 Enterprise 报价。
+### Does MailerLite offer a dedicated IP in 2026?
+Not on the public paid tiers — dedicated IPs are available only under Enterprise contracts. Senders above roughly **50,000 emails/month** are most likely to run into this limit, and should confirm Enterprise pricing during a trial rather than after committing.
 
-### MailerLite 2026 年有电话客服吗？
-MailerLite 2026 年没有电话客服，支持渠道是邮件和聊天。Reddit 用户反馈响应时间从 **2 小时到 24 小时**不等；需要紧急电话支持的团队应评估 Constant Contact 的 $12/月方案。
+### Does MailerLite offer phone support in 2026?
+No — support runs through email and chat. Reddit users report response times from **2 to 24 hours**. Teams that need phone escalation should evaluate Constant Contact's entry plan at $12/mo.
 
-### MailerLite 2026 年免费版最多能存多少订阅者？
-MailerLite 免费版最多存 **1,000 个订阅者**。这个上限是其被 Reddit 用户称为“最慷慨免费层”的主要原因；超过后，Starter 起价 **$10/月**，且付费层没有免费版的每日发送上限。
+### How many subscribers does MailerLite's free plan hold in 2026?
+**1,000 subscribers.** This ceiling is the main reason Reddit users describe it as the most generous free tier among mainstream ESPs. Past that, Starter begins at **$10/mo**, and paid tiers drop the free plan's daily sending cap.

@@ -82,9 +82,8 @@ Encharge wins on setup speed. The visual editor is genuinely faster than ActiveC
 Encharge wins on behavior triggers. The product-usage integration is the killer feature — emails that say "Hey, we noticed you haven't used [feature] in 7 days, here's how to get started" actually fired correctly.
 
 **Email deliverability**:
-- Encharge: 96.average inbox placement (Gmail best-in-class, Outlook best-in-class, Yahoo best-in-class)
-- ActiveCampaign: 97.average inbox placement
-- HubSpot: 97.average inbox placement (slight edge)
+- All three run standard shared-IP infrastructure on their mainstream tiers, with dedicated IPs available higher up.
+- None of them publishes an independent placement figure, and neither do we.
 
 All three tools delivered at industry-standard rates. No meaningful difference for most use cases.
 
@@ -228,7 +227,7 @@ No — Encharge does not have a free tier. The only free option is a **14-day tr
 In 6 weeks of testing on two B2B SaaS accounts (8,500 and 3,200 contacts), Encharge's behavior triggers fired correctly **94% of the time** (the 6% error rate was timing issues, usually events firing 30 seconds late). ActiveCampaign's behavior triggers hit 88% accuracy and are email-engagement-only (no product-usage). HubSpot + Mailchimp combined hit 79% due to sync delays. Encharge wins on behavior triggers because it integrates natively with Segment, Mixpanel, and Amplitude for product usage signals.
 
 ### What is Encharge's email deliverability in 2026?
-Encharge delivered **96.average inbox placement** in our 6-week test — Gmail best-in-class, Outlook best-in-class, Yahoo best-in-class. ActiveCampaign landed at 97.average and HubSpot at 97.average. The gap is small (under 1 percentage point) and within industry-standard variance. Deliverability is not a meaningful differentiator between the three tools, but all three support SPF/DKIM/DMARC authentication and dedicated IPs on top tiers.
+On deliverability, there is no meaningful basis to separate these three: all use conventional shared-IP infrastructure with full authentication support, and any difference will be dominated by your own domain reputation and list hygiene rather than the vendor.
 
 ### Does Encharge have live chat or phone support?
 Encharge is **email-only on every tier** — no live chat, no phone support, even on Enterprise. Response times are 6-10 hours on Starter, 2-4 hours on Growth, and under 2 hours on Scale. ActiveCampaign offers live chat on Plus ($49/mo) and above; HubSpot offers phone support on Professional ($890/mo) and above. If 24/7 chat or phone support is critical for your team, Encharge is weaker than both incumbents.

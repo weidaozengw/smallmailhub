@@ -176,20 +176,20 @@ Last updated: July 2026. We'll re-test pricing and deliverability benchmarks in 
 
 ## Frequently asked questions about best cold email tools in 2026
 
-### Instantly.ai 在 2026 年每月到底多少钱？
-Instantly.ai 2026 年的价格分三档：**$30/mo Growth（1,000 活跃联系人）**、**$47/mo Hypergrowth（更高发送量）**、**$97/mo Light Speed（无限发送）**。最关键的不是单价，而是每个付费档位都附带**不限邮件账号数**——同样是 $30 起步，Smartlead 的 Starter 是 $39/mo 但只能开 1 个账号。每月 $30 跑 14 个账号、日均 50 封的真实测试里，我们达到了 87% 的收件箱到达率和 4.2% 的回复率。
+### How much does Instantly.ai actually cost per month in 2026?
+Instantly.ai lists three tiers: **$30/mo Growth** (1,000 active contacts), **$47/mo Hypergrowth** (higher sending volume), and **$97/mo Light Speed** (unlimited sending). The headline price matters less than what comes with it — every paid tier includes **unlimited email accounts**. For comparison, Smartlead's Starter is $39/mo but caps you at a single account, so the gap widens fast once you run more than one sending inbox.
 
-### 2026 年冷邮件回复率多少才算合格？
-2026 年用 Instantly、Smartlead、Mailshake 这类主流冷邮件工具，**真实 B2B 回复率平均落在 1%–5%** 之间，文中实测 4 家 B2B 业务的中位数约 3%–4%。做 LinkedIn + Email 多渠道序列（Lemlist Multichannel $99/mo），实测回复率能从 **3.1%（纯邮件）拉到 6.8%（多渠道）**。回复率超过 8% 就要怀疑数据来源或退信过滤有问题。
+### What counts as a healthy cold email reply rate in 2026?
+Published industry benchmarks for B2B cold outreach generally land in the **1%–5%** range, with most reporting clustering around 2%–4%. Multichannel sequences that pair email with LinkedIn (Lemlist Multichannel, $99/mo) are commonly reported to land at the higher end. Treat anything above 8% with suspicion — it usually points to a list-quality artefact or bounce filtering rather than genuine engagement.
 
-### Mailshake 和 Instantly.ai 在 2026 年哪个更适合新手？
-2026 年新手直接选 **Mailshake Starter $99/mo**——首次活动 30 分钟内可上线，是 7 款里 UI 最简单的；Instantly.ai 虽然更便宜（$30/mo）、不限账号，但同时跑多账号需要至少懂域名 warmup 和发件阈值。**预算紧、只发 1 个邮箱** → Mailshake；**预算紧、要同时跑 5+ 个邮箱** → Instantly.ai Growth $30/mo。
+### Mailshake or Instantly.ai — which is better for a beginner in 2026?
+**Mailshake Starter ($99/mo)** is the gentler entry point: the setup flow is the most linear of the tools here and the interface exposes fewer moving parts. Instantly.ai is cheaper ($30/mo) with unlimited accounts, but running several inboxes at once assumes you are comfortable with domain warmup and per-domain sending thresholds. **Tight budget, one inbox** → Mailshake. **Tight budget, five or more inboxes** → Instantly.ai Growth at $30/mo.
 
-### 冷邮件工具 2026 年每月总成本到底多少才够用？
-单工具订阅只是基础。**预算 $30–100/mo**（Instantly.ai $30 或 Lemlist $59）只够个人或小团队；要跑代理或 5+ 客户，还要加 **Apollo/ZoomInfo 等联系人库 $50–300/mo**，以及 Woodpecker 级别安全监控 $49/mo 起。文中明确：**严肃的外包团队真实月支出 $300+/mo**。低于 $50/mo 几乎做不了规模化冷邮件。
+### What is the realistic total monthly cost of cold email in 2026?
+The tool subscription is only the base layer. **$30–100/mo** (Instantly.ai at $30 or Lemlist at $59) covers an individual or small team. Running an agency or five-plus clients adds a contact database — **Apollo or ZoomInfo at roughly $50–300/mo** — plus deliverability monitoring in the Woodpecker tier from $49/mo. A serious outbound operation realistically budgets **$300+/mo** all in. Below $50/mo, scaled cold email is difficult to run safely.
 
-### 2026 年为什么不能用 Mailchimp 或 MailerLite 发冷邮件？
-因为这 3 个底层机制不支持：**(1) 没有 warmup**，新域名 2 周内会被 Google/Microsoft 拉黑；**(2) 日发送上限是按 opt-in 列表设计的**（Mailchimp Essentials 5,000 封/月），不是冷邮件按域名 20–50 封/天；**(3) 打开/点击报表对冷邮件没意义**，算法还会把陌生域名内容标成垃圾。专用冷邮件工具同样价位（$30–100/mo），但到达率天差地别。
+### Why can't you send cold email through Mailchimp or MailerLite in 2026?
+Three structural reasons. **(1) No warmup** — a new domain has no reputation history, and there is no built-in ramp. **(2) Sending limits are designed around opt-in lists** (Mailchimp Essentials is 5,000 emails/month), not the 20–50 per domain per day cadence cold outreach requires. **(3) Open and click reporting is built for permission-based campaigns**, and bulk-marketing infrastructure shares sending reputation across all customers, which cold traffic degrades. Purpose-built cold email tools cost about the same ($30–100/mo) but separate that infrastructure.
 
-### Smartlead 的 white-label 在 2026 年值不值 $94/mo？
-如果你是给客户代运营的 agency，**值**——$94/mo Unlimited 档位带 white-label + 不限 warmup，文中测算每周帮客户做回复分类省下 8+ 小时人工。Smartlead $39/mo Starter 不含 white-label，只适合个人 outbound。**单人 SDR / 顾问**：选 Instantly.ai $30；**agency / 多客户**：直接 Smartlead Unlimited $94/mo 或更高。
+### Is Smartlead's white-label worth $94/mo in 2026?
+If you run outreach on behalf of clients, **yes** — the $94/mo Unlimited tier bundles white-label reporting with unlimited warmup, which is the feature agencies actually pay for. Smartlead's $39/mo Starter excludes white-label and suits solo outbound. **Solo SDR or consultant** → Instantly.ai at $30. **Agency or multi-client** → Smartlead Unlimited at $94/mo or above.

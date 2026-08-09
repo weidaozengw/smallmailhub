@@ -323,20 +323,20 @@ The truth is: **the best program is the one your audience actually converts on**
 
 ## Frequently asked questions about email marketing affiliate programs in 2026
 
-### ConvertKit (Kit) 联盟在 2026 年的佣金率到底是多少？
-Kit 联盟 2026 年的标准佣金是 **50% 经常性佣金，持续 12 个月**，cookie 窗口 **90 天**，最低提现 **$50**。文中给的实测转化率约 **3%–5% trial-to-paid**（行业平均 2%–3%），推荐用户的平均 LTV 14–22 个月。50% 是 7 款 ESP 联盟里的最高标准档，加上 90 天 cookie，是大多数 affiliate 的默认推荐。
+### What commission does the ConvertKit (Kit) affiliate programme pay in 2026?
+Kit's standard affiliate terms are **50% recurring for 12 months**, with a minimum payout of **$50**. Kit does not publish its cookie window on the affiliate page — third-party summaries disagree (30, 60 and 90 days all appear), so treat any figure you see elsewhere as unverified. The 50% rate is at the top of the range among ESP programmes, which is why it is a common default recommendation.
 
-### Beehiiv 联盟在 2026 年的"65% 佣金"是真的吗？
-是真的——**前 12 个月有效佣金率是 50% 基础 + 30% 奖励 = 65%**，cookie 90 天。代价是最低提现 **$100**（PayPal 直付可降到 $50），且 Beehiiv 转化率约 2%–4%，略低于 Kit 的 3%–5%。如果你的受众是 newsletter 创作者，Beehiiv 第一年的单次推荐收益会明显高于 Kit；到第 13 个月统一回落到 50%。
+### Is beehiiv's "65% commission" real in 2026?
+Effectively yes, for the first year — beehiiv runs a tiered structure that steps **50% → 55% → 60%**, with promotional boosts pushing the headline higher, and a **60-day first-touch** cookie. Commission is capped at **12 months** per referral, with a per-customer ceiling of $15,000. Payouts are **PayPal only**, which matters if you are outside the countries covered by bank rails. If your audience is newsletter operators, first-year earnings per referral run well above most alternatives.
 
-### 2026 年哪个 ESP 联盟有"终身"佣金？
-**只有 ActiveCampaign**——**30% 经常性佣金，终身有效**，cookie 60 天，最低提现 $50。文中算过：同一个客户在 ActiveCampaign 待 3 年 = 36 个月 × 30%，对比 Kit 12 个月 × 50% 在第 13 个月就归零。ActiveCampaign 单客单价更高（计划 $49–$299/mo），单笔佣金金额也更大，但 cookie 只有 60 天、转化周期长（B2B）。
+### Which ESP affiliate programme still pays lifetime commission in 2026?
+Fewer than people assume. As of August 2026, the programmes still paying for as long as the customer stays are **MailerLite (30%)**, **Moosend (30–40% tiered)**, **AWeber (30–50% by volume)** and **Ghost (30%)**. **ActiveCampaign is not among them** — it caps at 12 months and stops when the customer churns, despite older articles claiming otherwise. GetResponse relaunched its programme in March 2025, replacing 33% lifetime with 40% capped at 12 months. **The direction of travel is one-way**: lifetime terms are being withdrawn, not added, so verify against the official terms page before you build a strategy on any of these.
 
-### 2026 年 ESP 联盟最低提现门槛最低的是哪家？
-**AWeber，最低 $30**（PayPal/Check/ACH），cookie 90 天，佣金 50% 经常性 12 个月——和 Kit 同档但提现更快。其他 6 家最低都是 $50，Beehiiv 走标准渠道要 $100。文中给的经验：**月成交 $1,000+ 的高量 affiliate，AWeber 的 $30 门槛比 Kit 的 $50 现金流快 40%**。
+### Which ESP affiliate programme has the lowest payout threshold in 2026?
+**Kit at $5** is the lowest of the major programmes, which matters more than it sounds — it is the difference between seeing real money in month one and waiting a year. **AWeber is $30** (US) or **$50** (non-US, PayPal in USD only). **MailerLite is $100 and additionally requires two active paying referrals**, so a low-traffic site can take a long time to reach it. **Brevo is €100**, but since its commission is a €100 one-off per paid signup, a single conversion clears the threshold.
 
-### MailerLite 30% 佣金为什么还是值得推？
-MailerLite 30% 经常性 12 个月 + 60 天 cookie + $50 提现，**单看佣金是 7 家里最低**，但 trial-to-paid 转化率实测 **4%–6%——是 7 家里最高的**（Kit 3%–5%、ActiveCampaign 2%–3%）。MailerLite 起价 $10/mo 拉低购买门槛，对价格敏感的小博主和小生意受众反而转化更好。文中结论：**高流量、低单价受众的站，MailerLite 单千次展示收益常常跑赢 50% 档位的 Kit**。
+### Why is MailerLite's 30% still worth promoting?
+Two reasons that have nothing to do with the headline rate. First, it is **genuinely lifetime** — 30% for as long as the customer stays, which overtakes a capped 50% somewhere in year two. Second, MailerLite's **$10/mo entry price** lowers the decision barrier for price-sensitive readers, which is the audience most small sites actually have. The catch is the payout threshold noted above.
 
-### Brevo 联盟 2026 年的混合佣金怎么算？
-Brevo 是 7 家里唯一**混合结算**：**$5 一次性/Signup + 30% 经常性 12 个月**，cookie 90 天，最低 $50。意义是：哪怕推荐用户最终停在免费版或快速流失，**你至少拿 $5**，不会 0 佣金。30% 经常性低于 Kit/Beehiiv，但风险结构不一样。做电商或 SaaS 受众 + 想保底收益的 affiliate，Brevo 的混合模型最稳。
+### How does Brevo's hybrid affiliate commission work in 2026?
+Brevo is the one hybrid structure here: **€100 one-off per paid subscription**, plus **€5 per free signup** (the free-signup component unlocks only after your first paid conversion), with a **90-day** cookie. There is no recurring component. The practical effect is a floor rather than a ceiling — a referral who stays on the free plan still pays something. Note one non-obvious requirement: applications must come from an email address on your own domain; Gmail and other free providers are rejected automatically.

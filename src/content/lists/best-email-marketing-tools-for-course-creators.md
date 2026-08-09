@@ -147,20 +147,20 @@ Last updated: July 2026. We'll re-test pricing and features in October 2026.
 
 ## Frequently asked questions about email tools for course creators in 2026
 
-### Kit (ConvertKit) 在 2026 年做课程发售到底多少钱？
-Kit 课程发售主链路在 2026 年的成本：**免费 1,000 subscribers**；过 1,000 → **$25/mo Creator 档**；过 5,000 → **$75/mo Creator Pro**。文中实测：$497 编程训练营 17 封发售邮件序列 + 4,000+ 收件人，**收件箱到达率 98%**。自带 commerce（数字商品 + 订阅销售）免去再接 Stripe + 课程平台的麻烦，是 6 款里做"邮件 + 收款"一体化最省事的方案。
+### What does Kit (ConvertKit) cost for a course launch in 2026?
+Kit's pricing for the course-launch path: **free up to 1,000 subscribers**; past 1,000 → **$25/mo Creator**; past 5,000 → **$75/mo Creator Pro**. The draw is built-in commerce (digital products and subscriptions), which removes the need to bolt on Stripe plus a separate course platform. Of the six tools here, it is the most self-contained option for combining email and payment.
 
-### MailerLite 在 2026 年做课程比 Kit 便宜多少？
-**便宜一半多**：MailerLite Advanced **$10/mo** vs Kit Creator **$25/mo**——同样 1,000 订阅起步，月省 $15、年省 $180。免费档覆盖 1,000 subscribers 永久。代价是 MailerLite **没有原生 commerce**（数字商品销售），需要外接 Teachable 或 Gumroad。预算紧 + 不介意多接一个工具 → MailerLite $10；想要一体化 → Kit。
+### How much cheaper is MailerLite than Kit for courses in 2026?
+**Roughly half.** MailerLite Advanced is **$10/mo** against Kit Creator at **$25/mo** — same 1,000-subscriber starting point, $15/month or $180/year apart. The free tier covers 1,000 subscribers indefinitely. The trade-off: MailerLite has **no native commerce** for selling digital products, so you pair it with Teachable or Gumroad. Tight budget and comfortable running one more tool → MailerLite at $10. Want it in one place → Kit.
 
-### ActiveCampaign 在 2026 年做 cohort-based 课程值不值 $49/mo？
-值——但**仅限 cohort-based（同期开班）课程**，且订阅量过 1,000。ActiveCampaign Plus **$49/mo** 自带条件分支、lead scoring 和多步工作流，能区分早鸟价/标准价/分期付款不同路径。文中实测同期 12 人 × 4 期/年的设计课：lead scoring 直接筛出 hot leads 给销售，省掉手工筛选。**单人讲师跑线性课程** → $29/mo Lite 已够；**同期班多/价格档复杂** → 必上 $49/mo Plus。
+### Is ActiveCampaign worth $49/mo for cohort-based courses in 2026?
+It can be — but the case is strongest for **cohort-based programmes** past roughly 1,000 subscribers. ActiveCampaign Plus at **$49/mo** brings conditional branching, lead scoring and multi-step workflows, which is what you need to route early-bird, standard and payment-plan buyers down different paths. **A solo instructor running a linear course** is well served by $29/mo Lite. **Multiple cohorts and several price tiers** is where $49/mo Plus starts to pay for itself.
 
-### 2026 年 Teachable 自带邮件到底够不够用？
-**不够独立做严肃发售**——Teachable 自带邮件**没有可视化 automation、没有高级 segmentation**，文中对 200+ 学员的编程训练营实测只能发基本通知。**正确组合**：Teachable 做课程托管 + MailerLite $10/mo 或 Kit $25/mo 做发售邮件。如果你只想发课程通知 + 不跑 drip 序列，Teachable Basic $39/mo 单买就够。
+### Is Teachable's built-in email enough on its own in 2026?
+**Not for a serious launch.** Teachable's built-in email has **no visual automation and no advanced segmentation** — it handles announcements, not sequenced selling. **The workable combination** is Teachable for course hosting plus MailerLite at $10/mo or Kit at $25/mo for launch email. If all you send is course announcements with no drip sequence, Teachable Basic at $39/mo on its own is sufficient.
 
-### 2026 年用 Brevo 跑课程能省多少？
-**每月省约 $30–$50**：Brevo Starter **$9/mo**（含 20,000 封/月营销邮件 + 5,000 封 transactional）vs Mailchimp $13/mo + SendGrid $19.95/mo 分开买（$32.95/mo）。Brevo Standard **$18/mo** 同时给营销邮件 + 课程回执/入学确认 transactional 邮件。**只跑营销邮件** → Kit/MailerLite 更划算；**同时需要 transactional（入学确认、付款回执）** → Brevo 是 6 款里性价比最高的组合。
+### How much does Brevo save on a course stack in 2026?
+**Roughly $30–$50/month.** Brevo Starter is **$9/mo** (20,000 marketing emails plus 5,000 transactional) against buying Mailchimp at $13/mo and SendGrid at $19.95/mo separately ($32.95/mo). Brevo Standard at **$18/mo** covers marketing email and transactional messages — enrolment confirmations, payment receipts — in one place. **Marketing email only** → Kit or MailerLite is better value. **Marketing plus transactional** → Brevo is the strongest combination of the six.
 
-### 2026 年课程发售自动化一般要多少封邮件？
-文中 6 款工具横测同一套 **12 封发售序列**（waitlist → early-bird → cart open → cart close → post-purchase），完整映射出来要 **30 分钟左右**用 Kit 的可视化编辑器。漏掉 post-purchase onboarding 是最常见的坑——**30% 的课程学员从没完成课程**，就是因为没人告诉他们从哪里开始。再补 5 封 onboarding 邮件，总序列约 17 封。
+### How many emails does a course launch sequence usually need?
+A common launch structure runs about **12 emails** (waitlist → early-bird → cart open → cart close → post-purchase). The most frequently skipped piece is post-purchase onboarding — a large share of course buyers never start the material, often simply because nothing told them where to begin. Adding roughly five onboarding emails brings a full sequence to around 17.

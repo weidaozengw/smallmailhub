@@ -238,20 +238,20 @@ For ecommerce stores on Shopify specifically, our [Klaviyo vs Omnisend compariso
 
 ## Frequently asked questions about Omnisend
 
-### Omnisend 2026 年 Starter 每月多少钱？
-Omnisend Starter 为 **$16/月**，包含 **6,000 封邮件**。该档位适合 500-1,000 个联系人左右的电商店铺，并已包含主题行、内容和发送时间 A/B 测试。
+### How much is Omnisend Starter per month in 2026?
+Omnisend Starter is **$16/mo** including **6,000 emails**. It suits an ecommerce store in the 500–1,000 contact range and already includes A/B testing on subject line, content and send time.
 
-### Omnisend 2026 年 2,500 个联系人每月多少钱？
-Omnisend 在 2,500 个联系人时为 **$59/月**。同一比较表中 MailerLite 为 $28/月，因此 Omnisend 多出的费用主要对应产品选择器、弃购流程、SMS 和 push 等电商原生能力。
+### What does Omnisend cost at 2,500 contacts in 2026?
+**$59/mo.** MailerLite at the same list size is around $28/mo, so the premium is roughly double — what you are paying for is ecommerce-native capability: product pickers, abandoned-cart flows, SMS and push in the same automation.
 
-### Omnisend 2026 年美国和加拿大短信怎么收费？
-美国和加拿大 SMS 为 **$0.015/条**，按月订阅费之外另计。测试中 3,200 个联系人每月发送约 2,500 条 SMS，短信费用为 **$37.50**，加上 $16 订阅后总计 $53.50/月。
+### How is Omnisend's SMS priced for the US and Canada in 2026?
+US and Canada SMS is **$0.015 per message**, billed on top of the monthly subscription. As a worked example, a store sending 2,500 SMS in a month would add **$37.50** to a $16 Starter plan, for about $53.50 total — worth modelling before you commit, since SMS can quietly exceed the email subscription.
 
-### Omnisend 2026 年 5,000 个联系人每月多少钱？
-Omnisend 在 5,000 个联系人时为 **$99/月**。文章对比显示，MailerLite 为 $44/月、Mailchimp 为 $80/月；只有确实使用电商自动化和多渠道功能时，Omnisend 的溢价才更容易合理化。
+### What does Omnisend cost at 5,000 contacts in 2026?
+**$99/mo**, against roughly $44/mo for MailerLite and $80/mo for Mailchimp at comparable size. The premium is only justifiable if you are genuinely using the ecommerce automation and multichannel features — for a plain newsletter at this size, it is poor value.
 
-### Omnisend 2026 年邮件送达率是多少？
-Omnisend 测试中的收件箱到达率为 **88%-92%**。这低于 MailerLite 的 92%-96%，但高于文章测试中的 Mailchimp 84%-88%；关键订单通知可考虑使用 SendGrid 或 Postmark 等独立事务邮件工具。
+### What is Omnisend's email deliverability in 2026?
+**We do not publish an independent placement figure for Omnisend or its competitors.** It runs shared IP pools on standard tiers with the usual authentication support. For high-stakes order notifications, the more meaningful structural choice is a dedicated transactional provider such as Postmark or SendGrid, which keeps receipts and password resets off the same reputation as marketing campaigns.
 
-### Omnisend 2026 年免费版每月能发多少封邮件？
-Omnisend 免费版每月最多发送 **500 封邮件**。它适合先连接 Shopify 或 WooCommerce 验证产品同步和自动化流程；联系人增长或发送频率提高后，需要按 $16 Starter 及更高档位重新预算。
+### How many emails does Omnisend's free plan allow per month in 2026?
+**500 emails per month.** That is enough to connect Shopify or WooCommerce and verify that product sync and automation flows work end to end. Once contacts grow or sending frequency rises, re-budget against the $16 Starter tier and above.

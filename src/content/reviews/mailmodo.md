@@ -90,11 +90,8 @@ Detailed breakdown:
 
 The biggest risk with interactive email is deliverability — Gmail might flag AMP emails as suspicious, or interactive elements might trigger spam filters.
 
-The platform sends 47 test campaigns across 12,000 subscribers and tracked inbox placement:
+On deliverability, the mechanics are conventional: AMP content ships alongside a static HTML part, so placement is governed by the usual factors — domain authentication, list hygiene and sending reputation. We have no independent placement measurement for Mailmodo and do not publish one.
 
-- Mailmodo interactive emails: **96.average inbox placement** (vs industry average best-in-class for static)
-- No spam flag spikes, no Gmail Promotion tab demotion
-- Mailmodo has its own dedicated IP pool and warms them properly
 
 **Verdict**: deliverability is not a concern for Mailmodo at the volumes we compared. The platform handles inbox placement as well as Mailchimp or ConvertKit.
 
@@ -190,20 +187,20 @@ If Mailmodo is too expensive or too focused on interactive, consider:
 
 ## Frequently asked questions about Mailmodo
 
-### Mailmodo 2026 年免费版每月能发多少封邮件？
-Mailmodo 免费版每月最多发送 **100 封邮件**，并支持 1,000 名订阅者。这个额度只适合测试交互组件；要进行实际团队营销，Essentials 是 **$99/月**并包含 10,000 封邮件。
+### How many emails does Mailmodo's free plan allow per month in 2026?
+Mailmodo's free plan allows **100 emails per month** across up to 1,000 subscribers. That is enough to test how the interactive components render, not to run real campaigns — team marketing starts at Essentials, **$99/mo** with 10,000 emails.
 
-### Mailmodo 2026 年 Essentials 每月多少钱？
-Mailmodo Essentials 为 **$99/月**，包含每月 **10,000 封邮件**和最多 10,000 名订阅者。文章的测试显示，只有在邮件有 demo、调查或 RSVP 等转化目标时，互动组件带来的收益才更可能覆盖这项成本。
+### How much is Mailmodo Essentials per month in 2026?
+Mailmodo Essentials is **$99/mo**, covering **10,000 emails** and up to 10,000 subscribers. The cost only makes sense when your emails carry a conversion goal that benefits from interaction — booking a demo, completing a survey, RSVPing to an event. For a plain newsletter, it is hard to justify against $10–20/mo alternatives.
 
-### Mailmodo 2026 年互动邮件比普通邮件提高多少转化？
-测试中互动邮件的转化率约为普通静态邮件的 **2-3 倍**。例如 demo 预约从静态邮件的 4.2%升到互动日历的 11.7%，平均预约时间也从 18 小时缩短到 4 小时。
+### Do interactive emails convert better than static ones in 2026?
+Vendors in this category, Mailmodo included, publish case studies claiming meaningful lifts for in-email actions such as booking and survey completion. **We have not run an independent test**, and published lift figures come from the vendors or their customers, so treat them as directional rather than benchmarks. The mechanism is plausible — removing the click-through step removes a drop-off point — but the size of the effect depends heavily on the offer.
 
-### Mailmodo 2026 年 AMP 邮件有多少收件人能看到互动版本？
-测试中约 **80%** 的收件人能看到 AMP 互动版本，约 20%会看到静态 HTML 回退版本。Mailmodo 会自动回退，因此旧版 Outlook 等不支持 AMP 的客户端仍能收到普通邮件。
+### How many recipients can actually see AMP interactive emails in 2026?
+Not all of them. AMP for Email is supported by Gmail and a subset of other clients; Outlook's older desktop builds and several mobile clients are not among them. Mailmodo falls back to a static HTML version automatically, so unsupported clients still receive a usable email — but you should assume a significant share of your list sees the fallback, and design the static version as the real one.
 
-### Mailmodo 2026 年互动邮件送达率是多少？
-Mailmodo 在 12,000 名订阅者、47 次测试活动中的收件箱到达率为 **96.4%**。文章称没有观察到垃圾邮件标记增加或 Gmail Promotion Tab 降权，结果与静态邮件行业常见的 95%-99%范围相近。
+### Does Mailmodo affect deliverability in 2026?
+AMP content is delivered alongside a static HTML part, so the sending mechanics are conventional and deliverability is governed by the usual factors — domain authentication, list hygiene, sending reputation. We have no independent placement measurement for Mailmodo and do not publish one.
 
-### Mailmodo 2026 年 Pro 方案每月多少钱？
-Mailmodo Pro 为 **$399/月**，包含每月 **50,000 封邮件**和最多 50,000 名订阅者。相比 Essentials 多出的预算适合已有规模、需要大量互动活动的团队；每月发送少于 5,000 封时，文章建议考虑 MailerLite $10/月。
+### How much is Mailmodo Pro per month in 2026?
+Mailmodo Pro is **$399/mo**, covering **50,000 emails** and up to 50,000 subscribers. That step up suits teams already running interactive campaigns at scale. If you send under roughly 5,000 emails a month, MailerLite at $10/mo covers the basics for a fraction of the cost.

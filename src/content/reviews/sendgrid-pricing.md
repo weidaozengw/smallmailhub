@@ -155,20 +155,20 @@ Disclosure: Some links on this page are affiliate links. If you sign up for Send
 
 ## Frequently asked questions about SendGrid pricing
 
-### SendGrid 2026 年免费版每天能发多少封邮件？
-SendGrid Free Essentials 每天最多发送 **100 封邮件**，约为每月 **3,000 封**。它适合开发阶段测试 Web API 和 SMTP relay，但不适合向真实订阅者列表持续发送 newsletter。
+### How many emails does SendGrid's free plan allow per day in 2026?
+SendGrid Free Essentials allows **100 emails per day**, roughly **3,000 per month**. That is sized for development — exercising the Web API and SMTP relay — not for sending a newsletter to a real subscriber list on an ongoing basis.
 
-### SendGrid 2026 年 Essentials 每月多少钱？
-SendGrid Email API Essentials 为 **$15/月**，包含每月 **50,000 封邮件**。如果还要使用 Marketing Campaigns，需要再付 **$15/月**，因此事务邮件加基础营销的最低合计为 $30/月。
+### How much is SendGrid Essentials per month in 2026?
+SendGrid Email API Essentials is **$15/mo** for **50,000 emails per month**. Marketing Campaigns is a separate **$15/mo**, so transactional plus basic marketing starts at $30/mo combined.
 
-### SendGrid 2026 年 Marketing Campaigns 要额外收费吗？
-Marketing Campaigns 在 Essentials 方案上额外收费 **$15/月**。SendGrid 将 Email API 和 Marketing Campaigns 作为两个产品销售，所以只看 API 的 $15/月标价会低估同时做营销邮件的实际账单。
+### Does SendGrid charge extra for Marketing Campaigns in 2026?
+Yes — **$15/mo** on top of an Essentials plan. SendGrid sells Email API and Marketing Campaigns as two products, so quoting the $15/mo API price alone understates the real bill for anyone who also wants marketing email.
 
-### SendGrid 2026 年 Pro 方案每月发送 100,000 封邮件多少钱？
-SendGrid Pro 在 100,000 封邮件/月时为 **$15/月**，加上文章列出的专用 IP **$10/月**后合计 $25/月。Pro 还包含 Marketing Campaigns Pro 和优先邮件支持，适合需要 API 与轻量营销并存的工程团队。
+### What does SendGrid Pro cost for 100,000 emails per month in 2026?
+SendGrid Pro is **$15/mo** at 100,000 emails/month, plus a dedicated IP at **$10/mo**, for around $25/mo combined. Pro also includes Marketing Campaigns Pro and priority email support, which suits engineering teams needing an API with lightweight marketing alongside it.
 
-### SendGrid 2026 年适合发送 newsletter 吗？
-SendGrid 适合事务邮件 API，不是营销 newsletter 的优先选择。Essentials 的 API 加 Marketing Campaigns 至少 **$30/月**，而 MailerLite Starter 是 **$10/月**；需要可视化自动化和营销工作流的团队应先比较 MailerLite 或 ActiveCampaign。
+### Is SendGrid a good choice for newsletters in 2026?
+It is built for transactional email, not marketing newsletters. Essentials plus Marketing Campaigns starts at **$30/mo**, against MailerLite Starter at **$10/mo**. Teams that want visual automation and marketing workflows should price MailerLite or ActiveCampaign first.
 
-### SendGrid 2026 年 100,000 封事务邮件和 Mailjet 哪个更划算？
-SendGrid Pro 加专用 IP约为 **$25-$100/月**，Mailjet Premium 的对比成本为 **$35/月**。SendGrid 的优势是 API 文档、SDK 和 webhook 质量；如果更看重营销与事务邮件合并，Mailjet Premium 已包含事务邮件。
+### For 100,000 transactional emails, is SendGrid or Mailjet cheaper in 2026?
+SendGrid Pro with a dedicated IP lands around **$25–$100/mo** depending on configuration, against Mailjet Premium at roughly **$35/mo**. SendGrid's edge is API documentation, SDK coverage and webhook quality. If you value marketing and transactional in one vendor, Mailjet Premium already bundles both.

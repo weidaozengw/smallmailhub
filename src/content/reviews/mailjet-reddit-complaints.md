@@ -121,20 +121,20 @@ The 15+ Reddit comments confirm what our own testing showed: Mailjet is the righ
 
 ## Frequently asked questions about Mailjet Reddit complaints
 
-### Mailjet 2026 年 Reddit 用户反映的共享 IP 送达率是多少？
-部分用户账户的 Mailjet 共享 IP 收件箱到达率为 **92%-96%**，低于 Mailchimp 和 MailerLite 常见的 97%-99%。文章建议配置 SPF、DKIM、DMARC、使用确认订阅并定期清理不活跃联系人，以降低进入 Gmail 垃圾箱的风险。
+### What inbox placement do Reddit users report on Mailjet's shared IPs in 2026?
+Some users report shared-IP inbox placement in the **92%–96%** range on their own accounts, below the 97%–99% commonly cited for Mailchimp and MailerLite. These are individual user reports, not a controlled test. If placement is your concern, configure SPF, DKIM and DMARC, use confirmed opt-in, and clean inactive contacts regularly before drawing conclusions about the provider.
 
-### Mailjet 2026 年从 Starter 升到 Premium 会涨到多少钱？
-Mailjet Starter 为 **$15.65/月**，跨过 50,000 个联系人后 Premium 可能达到 **$90+/月**。文章中的 Reddit 案例称，30,000 个联系人增长到 50,000 后出现了这次升级；接近门槛时应提前清理不活跃用户并重新比较成本。
+### How much does Mailjet cost going from Starter to Premium in 2026?
+Mailjet Starter runs **$15.65/mo**, and crossing 50,000 contacts can push Premium past **$90/mo**. One Reddit account describes this upgrade after growing from 30,000 to 50,000 contacts. As with most contact-tiered pricing, clean inactive contacts and re-price before you cross a threshold.
 
-### Mailjet 2026 年免费版每天最多发多少封邮件？
-Mailjet 免费版每天最多发送 **200 封邮件**，并支持 1,000 个联系人。这个限制足以测试事务 API，却会让超过 200 人的同日营销活动需要拆分发送。
+### What is Mailjet's free plan daily send limit in 2026?
+Mailjet's free plan allows **200 emails per day** across 1,000 contacts. That is enough to exercise the transactional API, but a same-day marketing campaign to more than 200 recipients has to be split across days.
 
-### Mailjet 2026 年支持电话客服吗？
-Mailjet 2026 年所有档位都没有电话客服，主要提供邮件和聊天支持。Reddit 用户报告的响应时间从 **4 小时到 24 小时**；发布活动遇到送达问题时，应提前预留支持响应时间。
+### Does Mailjet offer phone support in 2026?
+No — no tier includes phone support; the channels are email and chat. Reddit users report response times ranging from **4 to 24 hours**. If you are launching a campaign, build that response window into your timeline rather than assuming immediate help with a deliverability issue.
 
-### Mailjet 2026 年适合复杂营销自动化吗？
-Mailjet 的自动化适合欢迎邮件和弃购等基础流程，但不具备 ActiveCampaign 或 Klaviyo 那样的深度行为分支。文章建议把 Mailjet 用于简单流程和事务发送；需要“打开了 X 但没点击 Y”等行为触发时，应另配深度自动化工具。
+### Is Mailjet suitable for complex marketing automation in 2026?
+Mailjet's automation handles the basics — welcome sequences, cart abandonment — but does not offer the depth of behavioural branching found in ActiveCampaign or Klaviyo. It fits simple flows and transactional sending. If you need logic like "opened X but did not click Y", pair it with a dedicated automation tool.
 
-### Mailjet 2026 年专用 IP 要多少钱？
-Mailjet 专用 IP 是额外付费选项，文章记录的高量发送者估算为 **$50+/月**。如果你的主要问题是共享 IP 的送达率，先完成域名认证和名单清理，再按实际发送量评估专用 IP 是否值得。
+### What does a dedicated IP cost on Mailjet in 2026?
+A dedicated IP is a paid add-on; high-volume senders quoted on this page estimate **$50+/mo**. If shared-IP deliverability is your core problem, complete domain authentication and list hygiene first — those are free — then evaluate whether a dedicated IP is justified at your actual volume.

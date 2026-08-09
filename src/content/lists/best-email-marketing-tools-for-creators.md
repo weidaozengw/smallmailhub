@@ -270,20 +270,20 @@ The truth is: **the best creator email tool is the one that matches your monetiz
 
 ## Frequently asked questions about creator email tools in 2026
 
-### Kit 在 2026 年订阅 1,000 到 50,000 人价格怎么走？
-Kit Creator 阶梯价格：**1K 订阅 $9/mo**、**3K $25/mo**、**10K $65/mo**、**15K $135/mo**、**25K $215/mo**、**50K $415/mo**。免费档 1,000 subscribers。**收件箱到达率 97%–99%** 是 8 款里最稳的，包含原生 commerce（数字商品 + 付费订阅）。1,000 订阅起步选 Creator，3,000 以上要看是否需要 Creator Pro 的推荐计划功能。
+### How does Kit's pricing scale from 1,000 to 50,000 subscribers in 2026?
+Kit Creator scales roughly as: **1K → $9/mo**, **3K → $25/mo**, **10K → $65/mo**, **15K → $135/mo**, **25K → $215/mo**, **50K → $415/mo**, with a free tier up to 1,000 subscribers. It includes native commerce (digital products and paid subscriptions), which is the main reason creators pick it over cheaper alternatives. Start on Creator at 1,000; past 3,000 the question becomes whether you need Creator Pro's referral features.
 
-### Substack 和 Beehiiv 在 2026 年哪个抽成更高？
-**Substack 抽 10%** 付费订阅收入（无月费）；**Beehiiv 抽 0%**，但 Beehiiv 月费 $49/mo Starter 起。如果你的付费订阅年收入 < $588（约 Substack 抽成 = Beehiiv $49×12 = $588/年），Substack 实际更便宜。**年收入 > $588**：Beehiiv 净收入更高。文中给的数据：10,000+ 订阅量时 10% 抽成开始变得很痛。
+### Substack or beehiiv — which takes more of your money in 2026?
+**Substack takes 10%** of paid subscription revenue with no monthly fee. **beehiiv takes 0%** but charges from **$49/mo** on its paid tiers. The crossover is arithmetic: below roughly **$588/year** in paid subscription revenue (10% of which equals beehiiv's $588 annual fee), Substack costs less. Above it, beehiiv nets more — and the gap widens fast, which is why larger paid newsletters tend to migrate off revenue-share models.
 
-### 2026 年 Ghost 自托管到底要不要技术？
-**要**——自托管 Ghost 要求你跑服务器：Node.js、MySQL/SQLite、Nginx 反代、SSL 证书和系统更新。好处：**0% 平台费 + 完全拥有数据和样式**。Ghost(Pro) 托管版 **$9/mo Starter（1K）**、$25/mo（3K）、$69/mo（10K）、$169/mo（25K）、**$749/mo（100K）**。100K 订阅档是 8 款里最贵的之一——月费接近 Kajabi $399/mo Growth，但功能更窄。
+### Does self-hosting Ghost require technical skill in 2026?
+**Yes.** Self-hosted Ghost means running the stack yourself: Node.js, MySQL or SQLite, an Nginx reverse proxy, SSL certificates and ongoing system updates. What you get is **0% platform fees and full ownership of data and templates**. Ghost(Pro) managed hosting runs **$9/mo Starter (1K)**, $25/mo (3K), $69/mo (10K), $169/mo (25K) and **$749/mo (100K)** — that top tier is among the most expensive here, approaching Kajabi Growth territory with a narrower feature set.
 
-### 2026 年 Kajabi $149/mo 到底是不是智商税？
-**对单人创作者是，对年收入 $100K+ 的创作者不是**。Kajabi Basic **$149/mo**（年付 $1,499/年）整合邮件 + 课程 + 社群 + 网站 + 销售漏斗 + 支付，**0% 交易费**。但 Kit Creator $9/mo + 独立课程工具的组合通常 < $100/mo。**年收入 $100K+、产品线复杂（课程 + 社群 + 数字下载）**：Kajabi 一体化减少工具切换成本，值。**单人 newsletter + 1 个付费课程**：直接 Kit，**省 $140/mo**。
+### Is Kajabi at $149/mo worth it in 2026?
+**For a solo creator, rarely. For a creator past roughly $100K/year, often.** Kajabi Basic at **$149/mo** ($1,499/year annually) bundles email, courses, community, website, funnels and payments with **0% transaction fees**. The comparison point is Kit Creator at $9/mo plus a standalone course tool, which typically lands under $100/mo. **Complex product lines** (courses plus community plus digital downloads) is where the consolidation genuinely saves time. **A newsletter plus one paid course** does not need it — Kit saves you around $140/mo.
 
-### Beehiiv 在 2026 年能跑自动化吗？
-**不能**——Beehiiv 没有 automation workflows，只能发 newsletter。这是它和 Kit/MailerLite 的最大区别。**你只能用 Beehiiv 跑**：welcome email（一次性）、manual broadcast、Boosts 推荐系统。**做不到**：course delivery drip、win-back 序列、lead scoring。如果你的业务靠 sponsorship 广告（Beehiiv 独有的 Ad Network），Beehiiv 合适；**要做任何复杂 lifecycle 自动化** → Kit 或 ActiveCampaign。
+### Can beehiiv run automations in 2026?
+**No.** beehiiv has no automation workflows; it sends newsletters. This is the sharpest line between it and Kit or MailerLite. **What you can do**: a one-off welcome email, manual broadcasts, and the Boosts recommendation network. **What you cannot do**: course delivery drips, win-back sequences, lead scoring. If your revenue comes from sponsorships — beehiiv's Ad Network is genuinely differentiated — it fits. **For any real lifecycle automation**, choose Kit or ActiveCampaign.
 
-### 2026 年 MailerLite Free 到底够不够创作者起步？
-**对 0–1,000 订阅的创作者够用**——免费档 **1,000 subscribers 永久**、含落地页和拖拽编辑器。**不够用的 2 个点**：(1) **没有原生付费订阅**——要做 paid newsletter 必须外接 Stripe；(2) **1,000 emails/天上限**——订阅量过 5,000 后免费档无法一次发完。**付费档 $10/mo Advanced（1K 订阅）** 是 8 款里最便宜的入门付费，落地页和弹窗都带。
+### Is MailerLite's free tier enough for a creator starting out in 2026?
+**For 0–1,000 subscribers, yes** — the free tier covers 1,000 subscribers indefinitely and includes landing pages and the drag-and-drop editor. **Two limits to know**: (1) **no native paid subscriptions**, so a paid newsletter needs Stripe bolted on; (2) a **daily sending cap** that becomes awkward once your list outgrows a single send. The paid entry point, **Advanced at $10/mo (1K)**, is the cheapest paid tier among the eight and includes landing pages and popups.

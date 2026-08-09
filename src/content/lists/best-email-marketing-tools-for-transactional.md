@@ -156,7 +156,7 @@ Amazon SES at $0.10 per 1,000 outbound emails is the cheapest at scale. Below 10
 
 ### Which transactional API has the best deliverability?
 
-Postmark at best-in-class inbox placement in our 90-day testing. SendGrid is best-in-class. Mailgun sits at best-in-class. All four are above industry baseline but Postmark is the consistent leader.
+Postmark is the one that separates transactional traffic from bulk marketing mail at the infrastructure level, which is the structural reason it is widely cited as the category benchmark. SendGrid and Mailgun both offer dedicated IPs higher up their tiers. We do not publish placement measurements of our own.
 
 ### Do I need Postmark and SendGrid for different use cases?
 

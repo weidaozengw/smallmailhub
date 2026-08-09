@@ -49,11 +49,7 @@ At every tier below 25K, **MailerLite is significantly cheaper than Mailchimp** 
 
 ## Deliverability — they're tied
 
-In our 90-day testing across 12 Mailchimp accounts and 8 MailerLite accounts:
-- Mailchimp averaged **97.average inbox placement**
-- MailerLite averaged **97.average inbox placement**
-
-The 0.average difference is within measurement noise. **Both tools have similar deliverability**. The marketing claim that "Mailchimp delivers better" is no longer accurate in 2026 — MailerLite catches up, partly because of MailerLite's recent Gmail Postmaster integration.
+We do not publish placement measurements of our own. Independent studies generally place mainstream ESPs within a couple of percentage points of each other — a spread narrower than the variation between individual sending domains. **Both tools have similar deliverability**. The marketing claim that "Mailchimp delivers better" is no longer accurate in 2026 — MailerLite catches up, partly because of MailerLite's recent Gmail Postmaster integration.
 
 ## Automation depth
 
@@ -89,20 +85,20 @@ Disclosure: Some links on this page are affiliate links. If you sign up for Mail
 
 ## Frequently asked questions about Mailchimp vs MailerLite
 
-### Mailchimp vs MailerLite 2026 年 1,000 个联系人每月多少钱？
-1,000 个联系人时，Mailchimp Standard 是 **$20/月**，MailerLite Advanced 也是 **$20/月**。但 MailerLite Starter 只需 **$10/月**，因此需要基础 newsletter 功能的小团队可先看 Starter，而不是直接按 Advanced 对比。
+### Mailchimp vs MailerLite at 1,000 contacts in 2026 — what does each cost?
+At 1,000 contacts, Mailchimp Standard is **$20/mo** and MailerLite Advanced is also **$20/mo**. But MailerLite Starter covers the same list for **$10/mo**, so a small team needing straightforward newsletter features should price against Starter rather than assuming Advanced.
 
-### Mailchimp 和 MailerLite 2026 年 5,000 个联系人谁更便宜？
-5,000 个联系人时，MailerLite Advanced 为 **$85/月**，Mailchimp Standard 为 **$135/月以上**。文章的 90 天账单比较显示，MailerLite 在 25,000 以下的多数档位便宜约 30%-50%，newsletter 为主的团队通常能直接省下月费差额。
+### Which is cheaper at 5,000 contacts in 2026?
+MailerLite Advanced is **$85/mo**; Mailchimp Standard is **$135/mo or more** at that tier. Across most tiers below 25,000 contacts, MailerLite lands roughly 30–50% cheaper on list price — which for a newsletter-first team is a direct monthly saving.
 
-### Mailchimp vs MailerLite 2026 年谁的邮件送达率更高？
-测试中 Mailchimp 平均收件箱到达率为 **97.6%**，MailerLite 为 **97.4%**。两者只有 0.2 个百分点差异，在测试误差范围内；因此不应仅凭送达率宣传选择 Mailchimp。
+### Which has better email deliverability in 2026?
+**We do not publish placement rates of our own for either.** Both are established senders with comparable authentication support and shared-IP infrastructure on standard tiers, and independent studies generally place mainstream ESPs within a few points of each other — a gap smaller than the variance between individual sending domains. **Deliverability is the wrong axis to choose between these two**; your own list hygiene and domain reputation will matter more than the vendor.
 
-### MailerLite 2026 年免费版比 Mailchimp 多支持多少联系人？
-MailerLite 免费版支持 **1,000 个联系人**，Mailchimp 免费版支持 **250 个联系人**。这意味着 MailerLite 的免费联系人上限是 Mailchimp 的 4 倍，适合先用 newsletter 验证需求的用户。
+### How much bigger is MailerLite's free plan than Mailchimp's in 2026?
+MailerLite's free plan covers **1,000 contacts**; Mailchimp's covers **500**. That makes MailerLite's free ceiling twice as large, which matters if you are validating a newsletter before paying anything.
 
-### Mailchimp 和 MailerLite 2026 年谁更适合多渠道营销？
-Mailchimp 支持邮件、SMS、落地页和明信片等多渠道营销，MailerLite 的定位更偏 newsletter。文章测试认为 Mailchimp 的 Customer Journey 和更广集成生态更适合多渠道团队，而 MailerLite 的界面更容易上手。
+### Which is better for multichannel marketing in 2026?
+Mailchimp spans email, SMS, landing pages and postcards, with Customer Journey Builder and a much larger integration catalogue. MailerLite is more focused on newsletters. **Multichannel teams** are better served by Mailchimp; **teams that want to get a newsletter out quickly** will find MailerLite's interface faster to learn.
 
-### Mailchimp vs MailerLite 2026 年谁支持发送时间优化？
-Mailchimp 的发送时间优化仅在 **Premium** 级别提供，而 MailerLite 在 **Advanced** 方案提供。MailerLite Advanced 的价格是 **$20/月**；如果发送时间优化是刚需，这一功能门槛会显著改变两者的实际成本比较。
+### Which offers send-time optimisation in 2026?
+Mailchimp gates send-time optimisation at **Premium**; MailerLite includes it on **Advanced** at **$20/mo**. If send-time optimisation is a requirement rather than a nice-to-have, that gating changes the real cost comparison substantially.
