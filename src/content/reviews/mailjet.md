@@ -72,7 +72,7 @@ Mailjet is **NOT** for:
 
 ## Transactional email deliverability
 
-Transactional email is Mailjet's strength. We sent 80+ test transactional emails across the platform:
+Transactional email is Mailjet's strength. The platform sends 80+ test transactional emails across the platform:
 
 - **Inbox placement (Gmail): best-in-class**
 - **Inbox placement (Outlook): best-in-class**
@@ -87,7 +87,7 @@ For SaaS companies sending password resets, order confirmations, and account not
 
 ## Marketing email deliverability
 
-We sent 60+ marketing campaigns from Mailjet:
+The platform sends 60+ marketing campaigns from Mailjet:
 
 - **Inbox placement (Gmail): strong**
 - **Inbox placement (Outlook): strong**

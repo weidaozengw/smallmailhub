@@ -29,17 +29,17 @@ const formatDate = (date: Date) => new Intl.DateTimeFormat('en-US', {
 // 该测试从未发生（站长确认为 AI 生成内容时编造），属虚假测评声明，
 // 触及 FTC 消费者评论规则并违反几乎所有联盟计划条款，已移除。
 const title = 'MailPilot — Email Marketing Tool Comparisons, Pricing & Alternatives';
-const description = 'We tested 26 email marketing tools hands-on for 12 weeks across 3 small business scenarios. Compare real pricing, deliverability data, and pros/cons of MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot, and more.';
+const description = 'Compare 26 email marketing tools on real pricing, plan limits, automation depth and deliverability approach — MailerLite, Brevo, ActiveCampaign, Kit, Mailchimp, Klaviyo, HubSpot and more. Built from vendor pricing pages and published research, with sources stated.';
 
 // FAQ data — drives FAQ schema + rendered Q&A below
 const faqs = [
   {
     q: 'Which email marketing tool is best for a small business?',
-    a: 'For most small businesses in 2026, MailerLite is the best overall pick: free tier covers 1,000 subscribers, paid plans start at $10/mo, and deliverability measured 97-99% in our testing. For B2B service businesses that need CRM + email, HubSpot Free CRM + Mailchimp Essentials ($13/mo) is the budget alternative.',
+    a: 'For most small businesses in 2026, MailerLite is the best overall pick: free tier covers 1,000 subscribers, paid plans start at $10/mo, and it publishes clear plan limits with no contact-count surprises. For B2B service businesses that need CRM + email, HubSpot Free CRM + Mailchimp Essentials ($13/mo) is the budget alternative.',
   },
   {
     q: 'How do you test email marketing tools?',
-    a: 'Every tool goes through an 8-week testing protocol: sign up with real business details, import 1,000+ test contacts, send 12 test campaigns, measure deliverability across Gmail/Outlook/Yahoo via 8 seed list services, build identical welcome series and abandoned cart automations, test customer support response times, and calculate true cost including hidden fees.',
+    a: 'We do not run a deliverability lab. Pricing is modelled from each vendor\'s public pricing page at common subscriber tiers; features and limits come from vendor documentation; deliverability is described structurally (shared vs dedicated IP pools, transactional/marketing separation) and any figure we quote is attributed to the vendor or a named third-party study. If a number has no source next to it, treat it as a vendor claim rather than an independent measurement.',
   },
   {
     q: 'Do affiliate links change your recommendations?',
@@ -113,7 +113,7 @@ function withUtm(url: string, source: string): string {
     name: 'MailPilot',
     url: 'https://smallmailhub.com',
     logo: 'https://smallmailhub.com/favicon.svg',
-    description: 'Independent reviews and comparisons of email marketing tools, tested hands-on for 12 weeks across 26 platforms.',
+    description: 'Independent comparisons of 26 email marketing tools, built from vendor pricing pages, product documentation and published third-party research.',
     sameAs: [
       'https://twitter.com/zengyisi1029086',
     ],

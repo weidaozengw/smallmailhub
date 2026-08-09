@@ -281,9 +281,9 @@ For budget-conscious B2B businesses, **the HubSpot CRM free + ActiveCampaign Plu
 
 If ActiveCampaign fits your needs, start with the [14-day free trial](https://www.activecampaign.com/?via=mailpilot) to test the automation builder with your actual workflows.
 
-If HubSpot fits your needs, start with the [free CRM and Marketing Hub](https://www.hubspot.com/affiliates?_ga=2.123456789) to test the platform before committing to the $890/mo Professional tier.
+If HubSpot fits your needs, start with the [free CRM and Marketing Hub](https://www.hubspot.com/products/marketing/email) to test the platform before committing to the $890/mo Professional tier.
 
-For the budget-conscious combination (our top recommendation for most B2B businesses), sign up for [HubSpot CRM free](https://www.hubspot.com/affiliates?_ga=2.123456789) + [ActiveCampaign Plus](https://www.activecampaign.com/?via=mailpilot) and use them together.
+For the budget-conscious combination (our top recommendation for most B2B businesses), sign up for [HubSpot CRM free](https://www.hubspot.com/products/marketing/email) + [ActiveCampaign Plus](https://www.activecampaign.com/?via=mailpilot) and use them together.
 
 **Last updated**: July 3, 2026. ActiveCampaign and HubSpot pricing verified against activecampaign.com and hubspot.com on the same date. Feature comparison based on live testing across two B2B service businesses Q1-Q2 2026.
 

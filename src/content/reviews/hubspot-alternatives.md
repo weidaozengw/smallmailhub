@@ -130,7 +130,7 @@ The catch: deliverability is below MailerLite's. Automation builder feels dated.
 
 ## How we compared these
 
-We signed up for each tool, imported 1,500 contacts, sent 12 campaigns over 8 weeks, and built the same 3-step automation (welcome, abandoned cart, re-engagement). Cost was tracked across the test period. Deliverability was measured via 50+ test campaigns to seed lists.
+Comparison built from each vendor's public pricing pages, product documentation, and published third-party research. Pricing is modelled at common subscriber tiers; deliverability is described structurally (shared vs dedicated IP pools, transactional/marketing separation) rather than measured by us.
 
 ## Verdict
 

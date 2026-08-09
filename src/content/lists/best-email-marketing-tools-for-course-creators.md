@@ -103,8 +103,8 @@ Course creators have very specific email marketing needs that general small busi
 
 - 6 months of hands-on use across three course businesses (coding, yoga, design)
 - 1,000+ test contacts imported per platform
-- 12-email launch sequences built identically across all 6 tools
-- Deliverability measured via 8 seed list services (Gmail, Outlook, Yahoo)
+- Launch-sequence capability compared across all 6 tools from vendor documentation
+
 - Course-specific features: commerce, drip sequences, student onboarding
 - Total cost calculated including transactional email + landing page builders
 

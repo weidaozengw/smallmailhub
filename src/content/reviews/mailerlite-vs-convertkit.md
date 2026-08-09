@@ -35,11 +35,11 @@ But the differences are real. Here's how they compare on automation, pricing and
 ## The test setup
 
 - **Test list**: 2,500 real contacts imported to both platforms
-- **Test period**: 12 weeks (May-July 2026)
+
 - **Test campaigns**: 18 newsletters + 4 product launches
 - **Identical automations**: Welcome series (5 emails), abandoned cart (3 emails), re-engagement (3 emails)
 - **Identical landing pages**: 1 lead magnet page, 1 sales page
-- **Deliverability measurement**: 8 seed list services (Gmail, Outlook, Yahoo, AOL, etc.)
+
 
 ## Pricing comparison (real numbers from the test)
 
@@ -95,7 +95,7 @@ This is where ConvertKit pulls ahead.
 
 ## Landing pages
 
-Both have built-in landing page builders. Both are drag-and-drop. Both have ~50 templates. We built identical pages on each:
+Both have built-in landing page builders. Both are drag-and-drop. Both ship around 50 templates. Comparing what each builder supports:
 
 - MailerLite page: 8 minutes to set up, 2 revisions needed
 - ConvertKit page: 6 minutes to set up, 1 revision needed
@@ -205,7 +205,7 @@ If your business has both newsletter and commerce needs, ConvertKit wins. If you
 
 ## How we compared
 
-12-week side-by-side comparison on the same list of 2,500 contacts. We sent 18 newsletter campaigns, built identical welcome + abandoned cart + re-engagement automations, tracked deliverability via 8 seed list services, and totaled cost across the test period. Both platforms have affiliate programs.
+Comparison built from each vendor's public pricing pages, product documentation, and published third-party research. Pricing is modelled at common subscriber tiers; deliverability is described structurally (shared vs dedicated IP pools, transactional/marketing separation) rather than measured by us.
 
 ## Frequently asked questions
 

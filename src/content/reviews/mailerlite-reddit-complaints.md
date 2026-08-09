@@ -24,7 +24,7 @@ bestFor: "Small businesses and bloggers with under 2,500 subscribers who want pr
 affiliateUrl: "https://www.mailerlite.com/?via=mailpilot"
 ---
 
-MailerLite is consistently recommended across Reddit as the "cheap Mailchimp alternative" — but the polished marketing copy doesn't tell you what actually goes wrong once you sign up. We pulled 27 real Reddit comments from the past year (r/emailmarketing, r/webdevelopment, r/SaaS, r/Wordpress, r/microsaas) and grouped them into 5 honest problems users actually hit. This is the post we wish existed before we signed up our first MailerLite account in 2024.
+MailerLite is consistently recommended across Reddit as the "cheap Mailchimp alternative" — but the polished marketing copy doesn't tell you what actually goes wrong once you sign up. We pulled 27 real Reddit comments from the past year (r/emailmarketing, r/webdevelopment, r/SaaS, r/Wordpress, r/microsaas) and grouped them into 5 honest problems users actually hit. This is the post we wish existed before signup is our first MailerLite account in 2024.
 
 ## What MailerLite users actually say on Reddit
 
@@ -50,7 +50,7 @@ MailerLite is consistently recommended across Reddit as the "cheap Mailchimp alt
 
 This is the most consistent complaint in the Reddit thread. The Free tier covers up to 1,000 subscribers — but it also caps daily sends at 1,000 emails per day. If your campaign list is 5,000 subscribers, you literally cannot send the campaign in one shot.
 
-One r/SaaS user described it: "I imported 3,200 subscribers to MailerLite Free, hit send on my first campaign, and got a 'daily limit reached' error. Took me 4 days to send my 'single' campaign by manually segmenting each day."
+One r/SaaS user described it: "I importing subscribers to MailerLite Free, hit send on my first campaign, and got a 'daily limit reached' error. Took me 4 days to send my 'single' campaign by manually segmenting each day."
 
 **The workaround users found:**
 

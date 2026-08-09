@@ -21,7 +21,7 @@ cons:
   - "Premium tier lacks the multivariate testing and predictive send-time features available on Mailchimp's $299 Premium tier"
 pricing: "Free trial 14 days · Core $12/mo · Email Plus $35/mo · Premium $80/mo · 15-30% nonprofit discount available"
 bestFor: "Small businesses and nonprofits that send 5,000+ emails/month, value phone support, and want a flat predictable bill instead of usage-based pricing"
-affiliateUrl: "https://www.constantcontact.com/affiliates"
+affiliateUrl: "https://www.constantcontact.com/"
 ---
 
 Constant Contact's pricing structure is deceptively simple. Three tiers, advertised at $12, $35, and $80 per month. But after 90 days of testing Constant Contact on real small-business and nonprofit accounts in 2026, we found that the **subscriber count thresholds inside each tier** matter more than the front-page price. Cross 500 contacts on Core and your bill jumps to the next pricing band automatically. Cross 5,000 on Email Plus and you're paying $80/month anyway. Understanding these thresholds is the difference between paying $12/mo and paying $80/mo for what looks like the same plan.

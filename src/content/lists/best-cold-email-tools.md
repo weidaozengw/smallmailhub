@@ -119,7 +119,7 @@ We compared 7 cold email platforms on published pricing, documentation and featu
 - 6 months of hands-on use across 4 B2B businesses
 - 1,000+ prospects contacted per platform
 - 14-day sequences with 4-5 follow-ups each
-- Deliverability tracked via 5 seed list services
+
 - Reply rates measured by human triage (not just opens)
 - Cost calculated including lead database + warmup add-ons
 

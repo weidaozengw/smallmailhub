@@ -168,7 +168,7 @@ Moosend's reporting covers the basics:
 
 ## Deliverability
 
-We sent 60+ test campaigns from Moosend's shared IP infrastructure. Results:
+The platform sends 60+ test campaigns from Moosend's shared IP infrastructure. Results:
 
 - Inbox placement (Gmail): best-in-class
 - Inbox placement (Outlook): best-in-class

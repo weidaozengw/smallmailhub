@@ -21,7 +21,7 @@ cons:
   - "Email deliverability on shared IPs is good but not best-in-class"
 pricing: "Free CRM · Free Marketing Hub (limited) · $20/mo Starter · $890/mo Professional · $3,200/mo Enterprise"
 bestFor: "B2B service businesses and SaaS companies that want a unified CRM + email + sales platform and have budget for the premium tiers"
-affiliateUrl: "https://www.hubspot.com/affiliates?_ga=2.123456789"
+affiliateUrl: "https://www.hubspot.com/products/marketing/email"
 ---
 
 HubSpot is the 800-pound gorilla of marketing software. The pitch is simple: replace your CRM, email tool, landing page builder, form tool, live chat, and sales sequencing tool with one platform. For current plan math, seats, onboarding fees, and marketing-contact tiers, start with our [HubSpot pricing breakdown for 2026](/reviews/hubspot-pricing/).
@@ -111,7 +111,7 @@ But the same functionality can be replicated with ActiveCampaign Plus ($49/mo) +
     <strong style="color: 92400e; font-size: 1.05rem;">Ready to try HubSpot?</strong>
     <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free CRM + Marketing Hub forever. Upgrade to Professional when you're ready.</div>
   </div>
-  <a href="https://www.hubspot.com/affiliates?_ga=2.123456789&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try HubSpot →</a>
+  <a href="https://www.hubspot.com/products/marketing/email&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try HubSpot →</a>
 </div>
 
 
@@ -175,7 +175,7 @@ HubSpot loses 0.8 points for aggressive pricing escalation at the Professional t
 
 ## Get started with HubSpot
 
-If HubSpot fits your needs, start with the [free CRM and Marketing Hub](https://www.hubspot.com/affiliates?_ga=2.123456789) to test the platform. You can always upgrade as your business grows.
+If HubSpot fits your needs, start with the [free CRM and Marketing Hub](https://www.hubspot.com/products/marketing/email) to test the platform. You can always upgrade as your business grows.
 
 For B2B service businesses that want the all-in-one approach with serious automation depth at a lower price point, check out our [ActiveCampaign review](/reviews/activecampaign) — it pairs well with a free CRM like HubSpot CRM free tier or Pipedrive.
 

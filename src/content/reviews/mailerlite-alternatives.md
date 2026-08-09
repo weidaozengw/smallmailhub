@@ -129,7 +129,7 @@ Catch: AWeber's automation builder is dated compared to MailerLite's. Interface 
 
 ## How we compared these
 
-12-week side-by-side testing across each alternative. We imported 1,500 contacts to each, sent 12 campaigns, built identical welcome + abandoned cart automations, tracked inbox placement via 8 seed list services, and totaled cost.
+Comparison built from each vendor's public pricing pages, product documentation, and published third-party research. Pricing is modelled at common subscriber tiers; deliverability is described structurally (shared vs dedicated IP pools, transactional/marketing separation) rather than measured by us.
 
 ## Verdict
 

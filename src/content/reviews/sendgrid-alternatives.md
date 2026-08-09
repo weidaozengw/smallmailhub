@@ -140,7 +140,7 @@ Catch: $100/mo minimum. Overkill for simple transactional use.
 
 ## How we compared
 
-We modelled a representative transactional workload against each vendor's published pricing — signup confirmations, password resets, receipts and newsletters. We compared inbox placement (via 8 seed list services), API response time, support response, and total cost.
+We modelled a representative transactional workload against each vendor's published pricing — signup confirmations, password resets, receipts and newsletters. We compared inbox placement, API response time, support response, and total cost.
 
 ## Verdict
 

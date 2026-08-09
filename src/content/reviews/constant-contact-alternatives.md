@@ -142,7 +142,7 @@ AWeber has been around since 1998. The interface is dated but stable. Free tier 
 
 ## How we compared
 
-12-week side-by-side comparison across each alternative. We imported 1,500 contacts to each, sent 12 campaigns, built identical automations (welcome + event reminder + re-engagement), and tracked deliverability via 8 seed lists.
+Comparison built from each vendor's public pricing pages, product documentation, and published third-party research. Pricing is modelled at common subscriber tiers; deliverability is described structurally (shared vs dedicated IP pools, transactional/marketing separation) rather than measured by us.
 
 ## Verdict
 

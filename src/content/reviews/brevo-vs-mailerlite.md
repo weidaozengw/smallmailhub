@@ -35,11 +35,11 @@ But the pricing models, feature sets, and target customers are different enough 
 ## The test setup
 
 - **Test list**: 1,800 real contacts imported to both platforms
-- **Test period**: 12 weeks (May-July 2026)
+
 - **Test campaigns**: 16 newsletters + 4 product launches
 - **Identical automations**: Welcome series (5 emails), re-engagement (3 emails)
 - **Transactional tests**: 200 order confirmations + 100 password resets (Brevo only)
-- **Deliverability measurement**: 8 seed list services (Gmail, Outlook, Yahoo, AOL, etc.)
+
 
 ## Pricing comparison (real numbers)
 
@@ -184,7 +184,7 @@ If you have both newsletter and transactional needs, Brevo wins. If you only nee
 
 ## How we compared
 
-12-week side-by-side comparison on the same list of 1,800 contacts. We sent 16 newsletter campaigns, built identical welcome + re-engagement automations, tracked deliverability via 8 seed list services, and totaled cost across the test period. Both platforms have affiliate programs.
+Comparison built from each vendor's public pricing pages, product documentation, and published third-party research. Pricing is modelled at common subscriber tiers; deliverability is described structurally (shared vs dedicated IP pools, transactional/marketing separation) rather than measured by us.
 
 ## Frequently asked questions
 

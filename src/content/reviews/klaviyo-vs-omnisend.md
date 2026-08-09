@@ -36,7 +36,7 @@ Both are built for e-commerce, but they diverge sharply on pricing model and SMS
 
 - Store: Shopify store, $40K/mo revenue, 4,200 subscribers
 - Products: Mid-range home goods (avg order $78)
-- Test period: 12 weeks (May-July 2026)
+
 - Identical automations built on both platforms: welcome series, abandoned cart, browse abandonment, post-purchase upsell, win-back
 
 ## Pricing comparison (real numbers from the test)
@@ -162,7 +162,7 @@ If our store doubled in revenue past $80K/mo, we'd revisit Klaviyo for the predi
 
 ## How we compared
 
-12-week side-by-side comparison on the same Shopify store. Identical customer data synced to both platforms. Identical automations built (with Klaviyo using more advanced conditional splits). Tracked revenue, list growth, deliverability, support response, and cost. Both platforms have affiliate programs.
+Comparison built from each vendor's public pricing pages, product documentation, and published third-party research. Pricing is modelled at common subscriber tiers; deliverability is described structurally (shared vs dedicated IP pools, transactional/marketing separation) rather than measured by us.
 
 ## Frequently asked questions
 

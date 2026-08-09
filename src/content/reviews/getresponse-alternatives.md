@@ -144,7 +144,7 @@ GetResponse has e-commerce features, but Klaviyo is purpose-built for it. Produc
 
 ## How we compared
 
-12-week side-by-side comparison across each alternative. We imported 1,500 contacts, sent 12 campaigns, built identical automations (welcome + abandoned cart), tracked deliverability via 8 seed lists, and totaled cost across the test period.
+Comparison built from each vendor's public pricing pages, product documentation, and published third-party research. Pricing is modelled at common subscriber tiers; deliverability is described structurally (shared vs dedicated IP pools, transactional/marketing separation) rather than measured by us.
 
 ## Verdict
 

@@ -59,7 +59,7 @@ A r/SaaS user said: "I searched Reddit for 'Sendinblue complaints' to find user 
 
 Brevo's Free tier is the most generous in the industry for contacts (unlimited), but it caps daily sends at 300 emails/day. For senders with 1,000+ contacts, this cap is brutal.
 
-A r/SaaS user said: "I imported 1,500 subscribers to Brevo Free, hit send on my first campaign, and got a 'daily limit reached' error. Took me 5 days to send my 'single' campaign by manually segmenting each day. MailerLite Free at least gave me 1,000/day."
+A r/SaaS user said: "I importing subscribers to Brevo Free, hit send on my first campaign, and got a 'daily limit reached' error. Took me 5 days to send my 'single' campaign by manually segmenting each day. MailerLite Free at least gave me 1,000/day."
 
 **The workaround:**
 

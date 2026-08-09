@@ -12,7 +12,7 @@ items:
   - "HubSpot — Best for mid-size nonprofits ready to invest in CRM-grade marketing automation"
 pricing: "Free tier available (Brevo, Mailchimp 500 contacts, MailerLite 1,000 contacts) — $10-30/mo with nonprofit discounts — $80+/mo for advanced features"
 bestFor: "Nonprofits, charities, and 501(c)(3) organizations that need affordable email marketing with donation form integration, real nonprofit discounts, and predictable pricing on tight budgets"
-affiliateUrl: "https://www.constantcontact.com/affiliates"
+affiliateUrl: "https://www.constantcontact.com/"
 ---
 
 Email marketing for nonprofits in 2026 has a specific shape: tight budget (often under $50/mo for the email line item), need for donation forms and event integration, real value on nonprofit discounts, and ideally some kind of free tier for very small organizations. After testing 8 email marketing tools with actual 501(c)(3) verification over 90 days (March-June 2026), these 6 tools delivered genuine value for nonprofits across the small-to-mid-size range.

@@ -39,7 +39,7 @@ We compared each tool against the actual solo-founder workflow:
 3. **Free tier must actually send** (no "free trial" that expires)
 4. **Built-in sales tools OR clean Stripe/PayPal integration** (sell a product without bolting on 4 tools)
 5. **Automation templates for the solo workflow** (welcome series, abandoned cart, course delivery — not B2B lead scoring)
-6. **Customer support responds to a one-person business** (we sent a real support ticket to each)
+6. **Customer support responds to a one-person business** (the platform sends a real support ticket to each)
 
 The six below passed. MailerLite wins overall, but Kit, Brevo, and Beehiiv each beat it for specific scenarios.
 

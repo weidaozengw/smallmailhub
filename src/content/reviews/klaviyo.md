@@ -66,7 +66,7 @@ When you write an email, you can insert product blocks that dynamically show eac
 
 ### Predictive analytics
 
-Klaviyo's predictive analytics go beyond vanity metrics. The four most useful: **predicted next order date** (send 3-5 days before a customer is statistically likely to reorder), **likelihood to purchase in next 30 days** (build high-intent segments), **churn risk** (flag customers whose purchase frequency has dropped, perfect for win-back flows), and **expected lifetime value** (suppress low-LTV segments from expensive campaigns). We used the "churn risk" segment to trigger a 3-email win-back flow and recovered roughly 8% of high-risk customers — about $3,200 in revenue over the test period.
+The "churn risk" segment can be wired directly into a win-back flow, which is one of the more concrete uses of the predictive scores.
 
 ### Abandoned cart flows
 

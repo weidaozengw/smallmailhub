@@ -155,7 +155,7 @@ The CDP creates unified customer profiles that power the behavior-based automati
 
 ## Deliverability
 
-We sent 60+ test campaigns from Sendlane. Results:
+The platform sends 60+ test campaigns from Sendlane. Results:
 
 - Inbox placement (Gmail): best-in-class
 - Inbox placement (Outlook): best-in-class

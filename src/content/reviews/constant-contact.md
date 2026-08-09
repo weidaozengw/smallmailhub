@@ -21,7 +21,7 @@ cons:
   - "Reporting depth is shallow on Core and Email Plus tiers"
 pricing: "Free trial (14 days) · $12/mo Core · $35/mo Email Plus · $80/mo Premium"
 bestFor: "Small businesses, nonprofits, and event organizers who need an easy-to-use email tool with strong support and don't need advanced automation"
-affiliateUrl: "https://www.constantcontact.com/affiliates"
+affiliateUrl: "https://www.constantcontact.com/"
 ---
 
 Constant Contact launched in 1995, making it one of the oldest email marketing tools still in active development. While Mailchimp, MailerLite, and ConvertKit dominate the conversation in 2026, Constant Contact still has 600,000+ customers and $1.4 billion in annual revenue. After testing Constant Contact as our primary email tool for a small nonprofit and a local retail business over 90 days, we have a nuanced view of where this old reliable tool fits in the modern landscape.
@@ -154,7 +154,7 @@ If your tech stack relies on deep integrations, Constant Contact will feel limit
     <strong style="color: 991b1b; font-size: 1.05rem;">Ready to try Constant Contact?</strong>
     <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">14-day free trial, no credit card. Phone, chat, and email support included.</div>
   </div>
-  <a href="https://www.constantcontact.com/affiliates&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Constant Contact →</a>
+  <a href="https://www.constantcontact.com/&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Constant Contact →</a>
 </div>
 
 
@@ -204,7 +204,7 @@ Constant Contact loses 1.2 points for premium pricing, basic automation, and dat
 
 ## Get started with Constant Contact
 
-If Constant Contact fits your needs, start with the [14-day free trial](https://www.constantcontact.com/affiliates) — no credit card required, full access to all features during trial.
+If Constant Contact fits your needs, start with the [14-day free trial](https://www.constantcontact.com/) — no credit card required, full access to all features during trial.
 
 For budget-conscious small businesses, check out our [MailerLite review](/reviews/mailerlite) — it delivers 80% of Constant Contact's functionality at 25-30% of the price.
 

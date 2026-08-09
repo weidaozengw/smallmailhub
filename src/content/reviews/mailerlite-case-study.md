@@ -98,7 +98,7 @@ Triggered when a user signs up for the 14-day free trial:
 
 ### 3. Educational weekly (1 email/week)
 
-Every Wednesday at 9am local time, we sent a 600-word email on a specific topic:
+Every Wednesday at 9am local time, the platform sends a 600-word email on a specific topic:
 
 - Topics: agency management, project workflows, client communication, pricing
 - Format: 1 short lesson + 1 actionable takeaway
@@ -165,7 +165,7 @@ MailerLite's subject line A/B testing is built in. We used it starting month 7. 
 
 ### 3. We waited too long to segment
 
-The first 4 months, we sent the same emails to all subscribers. In month 5, we segmented by industry (agencies vs in-house teams) and saw a 28% lift in click-through for industry-specific content.
+The first 4 months, the platform sends the same emails to all subscribers. In month 5, we segmented by industry (agencies vs in-house teams) and saw a 28% lift in click-through for industry-specific content.
 
 **Lesson**: Segment from day 1. It doesn't need to be complex — even 2 segments (industry A vs B) drives measurable lift.
 

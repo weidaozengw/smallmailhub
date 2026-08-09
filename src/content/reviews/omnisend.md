@@ -21,7 +21,7 @@ cons:
   - "Reporting is ecommerce-focused — limited for non-revenue metrics"
 pricing: "Free (500 emails/mo) · $16/mo Starter (6,000 emails) · $32/mo Standard (12,000) · $59/mo Pro (unlimited emails, 2,500 contacts)"
 bestFor: "Ecommerce stores on Shopify, WooCommerce, BigCommerce, or Magento that need email + SMS + automation in one ecommerce-focused platform"
-affiliateUrl: "https://www.omnisend.com/affiliates"
+affiliateUrl: "https://www.omnisend.com/"
 ---
 
 Omnisend launched in 2014 as a Mailchimp alternative built specifically for ecommerce. Where Mailchimp tries to serve every audience (B2B, creators, ecommerce, nonprofits), Omnisend focuses on one thing: helping ecommerce stores drive more revenue through email, SMS, and push notifications. After testing Omnisend as the primary email + SMS tool for two Shopify stores over four months (January-April 2026), we have strong opinions about where Omnisend shines and where it falls short.
@@ -184,7 +184,7 @@ Omnisend is purposefully focused. This is good if you're an ecommerce store. It'
     <strong style="color: 065f46; font-size: 1.05rem;">Ready to try Omnisend?</strong>
     <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">Free 500 emails/mo. Built for ecommerce — product blocks, cart recovery, SMS bundles.</div>
   </div>
-  <a href="https://www.omnisend.com/affiliates&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Omnisend →</a>
+  <a href="https://www.omnisend.com/&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Omnisend →</a>
 </div>
 
 
@@ -230,7 +230,7 @@ Omnisend loses 0.7 points for pricing escalation at higher contact counts, pay-p
 
 ## Get started with Omnisend
 
-If Omnisend fits your needs, start with the [free tier](https://www.omnisend.com/affiliates) (500 emails/mo, 250 contacts) to test the platform with your actual store. The free tier is generous enough to validate the workflow before paying.
+If Omnisend fits your needs, start with the [free tier](https://www.omnisend.com/) (500 emails/mo, 250 contacts) to test the platform with your actual store. The free tier is generous enough to validate the workflow before paying.
 
 For ecommerce stores on Shopify specifically, our [Klaviyo vs Omnisend comparison](/reviews/klaviyo-vs-omnisend) breaks down which tool delivers better ROI for DTC brands.
 

@@ -186,7 +186,7 @@ For completeness, here's why we excluded the other platforms we compared:
 
 - **90-day testing window** across 4 scenarios: creator/Newsletter, e-commerce, B2B, and small local business
 - **Real accounts on each platform** with 1,000-contact lists and weekly send volume
-- **Deliverability measured** via GlockApps and seed list testing
+
 - **Pricing verified** via public pricing pages in July 2026
 - **Affiliate disclosure:** We earn a commission if you buy through links in this article. Our recommendations are based on testing — see [our review process](/how-we-test/) for details.
 

@@ -22,7 +22,7 @@ cons:
   - "Contact-count thresholds auto-upgrade you to higher tiers — silent $20-50 jumps"
 pricing: "Free trial 14 days · Core $12/mo · Email Plus $35/mo · Premium $80/mo · 15-30% nonprofit discount"
 bestFor: "Small businesses, nonprofits, and event organizers who need an easy-to-use email tool with strong support and don't need advanced automation"
-affiliateUrl: "https://www.constantcontact.com/affiliate"
+affiliateUrl: "https://www.constantcontact.com/"
 ---
 
 Constant Contact launched in 1995 and is one of the most established email tools for small businesses and nonprofits. But in 2026, multiple Reddit users complain about pricing and automation depth. We pulled 15+ real Reddit comments from r/nonprofit, r/SaaS, r/smallbusiness, r/emailmarketing, and r/marketing and grouped them into 4 honest problems. The verdict: Constant Contact is **the easiest tool for non-technical users and nonprofits**, but **pricing is higher and automation depth is shallower than MailerLite or Mailchimp**.

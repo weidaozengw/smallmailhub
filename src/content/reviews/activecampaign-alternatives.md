@@ -121,7 +121,7 @@ Catch: strict approval process. You need an existing store with revenue to get a
 
 ## How we compared
 
-12-week side-by-side comparison of each alternative. We built identical welcome series (5 emails), abandoned cart sequences (3 emails), and re-engagement flows. Tracked deliverability, automation flexibility, support response time, and total cost.
+Comparison built from each vendor's public pricing pages, product documentation, and published third-party research. Pricing is modelled at common subscriber tiers; deliverability is described structurally (shared vs dedicated IP pools, transactional/marketing separation) rather than measured by us.
 
 ## Verdict
 

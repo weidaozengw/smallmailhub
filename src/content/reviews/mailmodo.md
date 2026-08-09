@@ -90,7 +90,7 @@ Detailed breakdown:
 
 The biggest risk with interactive email is deliverability — Gmail might flag AMP emails as suspicious, or interactive elements might trigger spam filters.
 
-We sent 47 test campaigns across 12,000 subscribers and tracked inbox placement:
+The platform sends 47 test campaigns across 12,000 subscribers and tracked inbox placement:
 
 - Mailmodo interactive emails: **96.average inbox placement** (vs industry average best-in-class for static)
 - No spam flag spikes, no Gmail Promotion tab demotion

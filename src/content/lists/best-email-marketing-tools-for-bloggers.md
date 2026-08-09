@@ -284,7 +284,7 @@ Ghost is paid publishing with full ownership of your list. Substack is free but 
 We compared 9 email marketing tools across the blogger workflow (write → publish → send → monetize) for 8 weeks total (May-June 2026). Test scenarios:
 
 1. **Newsletter editor**: Wrote the same 1,200-word newsletter in each tool, measured time to publish
-2. **Subscriber management**: Imported 500 test subscribers, tested signup forms, tagging, segmentation
+2. **Subscriber management**: signup forms, tagging and segmentation capabilities as documented by each vendor
 3. **Monetization**: Set up paid newsletter on each tool that supports it, measured setup time
 4. **Deliverability**: Sent 30 test campaigns per tool, measured inbox placement on Gmail/Outlook/Yahoo
 5. **Support**: Submitted 3 support tickets per tool, measured response time and quality

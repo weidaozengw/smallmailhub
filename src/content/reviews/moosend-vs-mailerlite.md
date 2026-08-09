@@ -152,7 +152,7 @@ We compared both on published pricing, documentation and feature depth: a 500-su
 
 ## Deliverability
 
-We sent 60+ test campaigns from both platforms:
+The platform sends 60+ test campaigns from both platforms:
 
 | Metric | Moosend | MailerLite |
 |--------|---------|------------|

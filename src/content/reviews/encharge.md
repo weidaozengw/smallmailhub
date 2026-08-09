@@ -54,7 +54,7 @@ We set up Encharge as the primary email + CRM tool for two B2B SaaS clients:
 1. **Project management SaaS** (8,500 contacts, 12-person team)
 2. **HR tech startup** (3,200 contacts, 4-person team)
 
-Test period: 6 weeks (May-June 2026). We compared Encharge directly against:
+We compared Encharge directly against:
 - **ActiveCampaign** (their previous email tool)
 - **HubSpot Free CRM + Mailchimp** (the budget alternative)
 
