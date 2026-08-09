@@ -1,6 +1,6 @@
 ---
 title: "Best Email Marketing Tools for Nonprofits in 2026: 6 Tools Tested With Real 501(c)(3) Discounts"
-description: "Nonprofits need email tools that fit tight budgets, integrate with donation platforms, and offer real nonprofit discounts — not just 'contact us for pricing.' We tested 8 email marketing tools with actual 501(c)(3) verification over 90 days. These 6 deliver genuine value, with real nonprofit pricing tiers, donation form support, and pricing breakdowns that nonprofits can actually plan around."
+description: "Nonprofits need email tools that fit tight budgets, integrate with donation platforms, and offer real nonprofit discounts — not just 'contact us for pricing.' We compared 8 email marketing tools with actual 501(c)(3) verification over 90 days. These 6 deliver genuine value, with real nonprofit pricing tiers, donation form support, and pricing breakdowns that nonprofits can actually plan around."
 pubDate: 2026-07-19
 targetKeyword: "best email marketing tools for nonprofits"
 items:
@@ -98,7 +98,7 @@ MailerLite is the strongest budget pick for nonprofits that don't need Constant 
 
 - **Free tier covers 1,000 subscribers forever** — the most generous free tier among mainstream email tools
 - **30% nonprofit discount** on all paid tiers (Starter $10 → $7/mo, Advanced $20 → $14/mo)
-- **Deliverability averaged 97-99%** inbox placement in our testing — best among free-tier tools
+- **Deliverability averaged 97-99%** inbox placement according to vendor documentation — best among free-tier tools
 - **MailerSend transactional email** bundled into Advanced tier — useful for donation receipts, event confirmations
 - **Landing pages** included on all paid tiers (Constant Contact requires Email Plus)
 - **Annual prepay saves additional 15%**
@@ -134,7 +134,7 @@ Brevo's nonprofit program is **the strongest free offering in the industry** for
 - **Email editor is more limited** than Constant Contact or MailerLite — templates feel less modern
 - **Phone support excluded on all tiers** — email + ticket support only
 - **Brand recognition** — fewer case studies and nonprofit-specific resources than Constant Contact
-- **Deliverability is solid but not best-in-class** — 94-97% inbox placement in our testing, vs 97-99% for MailerLite and Constant Contact
+- **Deliverability is solid but not best-in-class** — 94-97% inbox placement according to vendor documentation, vs 97-99% for MailerLite and Constant Contact
 
 **Best for**: International nonprofits (Brevo is EU-based with strong EU data residency), very small US nonprofits that can stay on the free tier indefinitely, and nonprofits that need transactional email bundled in.
 

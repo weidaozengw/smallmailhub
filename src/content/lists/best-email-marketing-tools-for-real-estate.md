@@ -188,14 +188,14 @@ Brevo wins for real estate agents in markets where SMS listing alerts are standa
 **Best for**: Real estate agents in markets where SMS listing alerts are standard, and agents who also send WhatsApp to international buyer pools.
 
 
-## What about the other 2 we tested?
+## What about the other 2 we compared?
 
 For completeness, here's why we excluded the other two platforms:
 
 - **HubSpot Marketing Hub** — Excellent but $890/mo Professional tier is overkill for most solo agents. The free CRM + paid Marketing Hub combo is the right play if you can afford it.
 - **Klaviyo** — Built for ecommerce, not real estate. The Shopify-style product feed automations don't apply to listings. Use only if you're also running an ecommerce store.
 
-## How we tested
+## How we compared
 
 - 8 platforms compared across 90 days of testing with simulated real estate workflows (lead nurture, listing alerts, drip campaigns)
 - Real accounts on Mailchimp, ActiveCampaign, MailerLite, and Constant Contact

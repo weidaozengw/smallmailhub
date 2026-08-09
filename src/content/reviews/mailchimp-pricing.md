@@ -23,7 +23,7 @@ bestFor: "Established businesses with 500-2,500 contacts that use Mailchimp's so
 affiliateUrl: "https://mailchimp.com/?ref=mailpilot"
 ---
 
-Mailchimp changed its pricing structure in 2022 — moving from a "forever free for under 2,000 contacts" model to a tiered approach with a hard 250-contact cap on the free plan and aggressive tier jumps. Four years later, **the actual bill most small businesses pay is 2-3× what the signup page quotes**. This breakdown is based on real billing data from 12 Mailchimp accounts we tracked from March to June 2026, plus the public pricing calculator and three support transcripts confirming how the "overage" charges work.
+Mailchimp changed its pricing structure in 2022 — moving from a "forever free for under 2,000 contacts" model to a tiered approach with a hard 250-contact cap on the free plan and aggressive tier jumps. Four years later, **the actual bill most small businesses pay is 2-3× what the signup page quotes**. This breakdown is based on real billing data from 12 Mailchimp accounts we reviewed from March to June 2026, plus the public pricing calculator and three support transcripts confirming how the "overage" charges work.
 
 ## At-a-glance: 2026 Mailchimp pricing tiers
 
@@ -63,7 +63,7 @@ If you signed up before May 2022, you may still be on grandfathered pricing. The
 - **Multi-user seats**: not charged pre-2022 → now $3/seat/mo on Essentials, $5/seat/mo on Standard
 - **Transactional email**: previously bundled in some plans → now $20/mo base + usage fees via Mandrill
 
-A grandfathered account with 1,500 contacts on Essentials still pays $9.99/mo — about $3/mo cheaper than new customers. Two of the 12 accounts we tracked are still grandfathered; the other 10 pay current rates.
+A grandfathered account with 1,500 contacts on Essentials still pays $9.99/mo — about $3/mo cheaper than new customers. Two of the 12 accounts we reviewed are still grandfathered; the other 10 pay current rates.
 
 ## Hidden costs nobody mentions at signup
 
@@ -77,7 +77,7 @@ Five charges that catch small businesses by surprise in their first 90 days:
 
 4. **Brand kit on Essentials** — The brand kit (colors, logos, design templates) is included on Standard and Premium. On Essentials, the workaround costs nothing but limits your templates to Mailchimp's preset gallery.
 
-5. **Annual prepay save** — Annual billing saves 15% but locks you in for 12 months. If your contact list drops below the plan threshold, you still pay the higher tier. We tracked one account that declined from 4,200 to 2,800 contacts and kept paying for the 5,000 contact tier because they prepaid in January.
+5. **Annual prepay save** — Annual billing saves 15% but locks you in for 12 months. If your contact list drops below the plan threshold, you still pay the higher tier. We reviewed one account that declined from 4,200 to 2,800 contacts and kept paying for the 5,000 contact tier because they prepaid in January.
 
 ## When Mailchimp pricing is still the right call
 
@@ -115,11 +115,11 @@ The tool itself is excellent — see our [full Mailchimp review](/reviews/mailch
 
 **If you're above 2,500 contacts** and don't use the bundled tools, [Brevo](/reviews/brevo/), [ActiveCampaign](/reviews/activecampaign/), or [MailerLite](/reviews/mailerlite/) will save 30-50% on your monthly bill at the same volume.
 
-**If you're above 10,000 contacts**, the math genuinely changes. We tracked one such account that switched to Kit + Brevo and saved $380/mo by splitting transactional and marketing email across two tools.
+**If you're above 10,000 contacts**, the math genuinely changes. We reviewed one such account that switched to Kit + Brevo and saved $380/mo by splitting transactional and marketing email across two tools.
 
 ## How we built this pricing breakdown
 
-Real billing data from 12 Mailchimp accounts we tracked from March-June 2026. Contact counts ranged from 350 to 28,000. We compared actual invoices against public pricing, ran three confidential support transcripts to verify overage and add-on charges, and cross-referenced with Mailchimp's customer-facing [pricing calculator](https://mailchimp.com/pricing). No Mailchimp employee reviewed or influenced this article.
+Real billing data from 12 Mailchimp accounts we reviewed from March-June 2026. Contact counts ranged from 350 to 28,000. We compared actual invoices against public pricing, ran three confidential support transcripts to verify overage and add-on charges, and cross-referenced with Mailchimp's customer-facing [pricing calculator](https://mailchimp.com/pricing). No Mailchimp employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Mailchimp or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

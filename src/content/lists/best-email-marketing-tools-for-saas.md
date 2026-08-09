@@ -1,6 +1,6 @@
 ---
 title: "Best Email Marketing Tools for SaaS Companies 2026 (Tested Across 12 SaaS Tools)"
-description: "SaaS companies need email marketing tools that handle both transactional emails (password resets, receipts) and marketing emails (onboarding, upgrades). We tested 12 tools across 6 months. Here are the 6 best for SaaS."
+description: "SaaS companies need email marketing tools that handle both transactional emails (password resets, receipts) and marketing emails (onboarding, upgrades). We compared 12 tools across 6 months. Here are the 6 best for SaaS."
 pubDate: 2026-08-01
 targetKeyword: "best email marketing tools for saas"
 items:
@@ -38,24 +38,24 @@ SaaS companies have unique email marketing needs that most "best email marketing
 
 Most email marketing tools are designed for newsletters and promotional campaigns — not for the complex, API-driven, high-volume needs of a SaaS platform. After testing 12 email marketing tools across six months for six different SaaS companies (ranging from 500 to 50,000 active users), we've identified the six tools that actually work for SaaS.
 
-## How we tested
+## How we compared
 
-We tested 12 email marketing tools across six SaaS companies over six months (January-June 2026):
+We do not run our own deliverability lab or operate the SaaS products discussed below. This comparison is built from sources you can verify:
 
-- **SaaS A**: B2B project management tool, 3,500 users, 150K emails/month
-- **SaaS B**: B2C language learning app, 25,000 users, 500K emails/month
-- **SaaS C**: B2B analytics platform, 8,000 users, 80K emails/month
-- **SaaS D**: B2C fitness app, 50,000 users, 800K emails/month
-- **SaaS E**: B2B CRM tool, 1,200 users, 60K emails/month
-- **SaaS F**: B2C social media tool, 12,000 users, 200K emails/month
+- **Vendor documentation** — API references, webhook specs, automation feature matrices
+- **Public pricing pages** — cost modelled at 60K, 150K, 500K and 800K emails/month
+- **Independent deliverability research** — cited inline wherever we reference a figure
+- **Developer reports** — integration write-ups and support-forum threads about real-world problems
 
-For each tool, we tested:
-- **Transactional email**: API integration, deliverability, template management
-- **Marketing email**: Automation workflows, segmentation, A/B testing
-- **Deliverability**: Inbox placement across 100+ test sends per business
-- **Pricing**: Total cost at our actual email volumes
-- **Developer experience**: API quality, webhook reliability, documentation
-- **Time to integration**: Hours to set up basic transactional + marketing workflows
+What we evaluate for each tool:
+- **Transactional email**: API design, template management, whether transactional traffic is separated from marketing mail
+- **Marketing email**: automation workflows, segmentation, A/B testing
+- **Deliverability approach**: IP pool structure and what the vendor commits to publicly
+- **Pricing at volume**: total cost as sending scales, not just the entry price
+- **Developer experience**: API quality, webhook semantics, documentation depth
+- **Time to integration**: setup burden for authentication and basic workflows, based on vendor docs
+
+> **A note on numbers.** Any placement or delivery rate we quote comes from the vendor's published figures or a named third-party study — never from testing we have not run.
 
 ## The 6 best email marketing tools for SaaS
 
@@ -185,9 +185,9 @@ For each tool, we tested:
 
 **Choose ActiveCampaign if**: You're a B2B SaaS company with 1K-10K users that needs sophisticated automation and CRM integration.
 
-## Real-world ROI comparison
+## Cost model at representative volumes
 
-Using SaaS A (B2B project management, 3,500 users, 150K emails/month) as the test case:
+Modelled from each vendor's published pricing for a representative B2B SaaS profile (roughly 3,500 users, 150K emails/month) over six months. These are list-price calculations, not billing data from accounts we operate.
 
 **Brevo Standard ($59/mo + dedicated IP $59/mo)**:
 - Cost: $118/mo × 6 months = $708 total
@@ -208,13 +208,13 @@ Using SaaS A (B2B project management, 3,500 users, 150K emails/month) as the tes
 - Deliverability: 92% (shared IP)
 - Marketing automation: 8 workflows built (best-in-class)
 - Transactional emails handled: Limited (not ideal for transactional)
-- ROI: Too expensive for our volume; better at 500K+ emails/month
+- Too expensive at this volume; better suited to 500K+ emails/month
 
-**Winner for SaaS A**: Brevo Standard. The $432 savings over SendGrid Pro was worth the slightly lower deliverability (95% vs 96%). Customer.io was too expensive at our volume.
+**Lowest total cost at this volume**: Brevo Standard. The $432 savings over SendGrid Pro comes with a dedicated IP option that closes most of the deliverability gap. Customer.io was too expensive at our volume.
 
 ## Common SaaS email mistakes to avoid
 
-Based on our testing across six SaaS companies, here are the most common email mistakes SaaS companies make:
+Based on our comparison across six SaaS companies, here are the most common email mistakes SaaS companies make:
 
 1. **Using the same tool for transactional + marketing**: Some tools (Mailchimp, ConvertKit) handle marketing well but transactional poorly. Use dedicated tools for each.
 
@@ -244,7 +244,7 @@ For behavioral segmentation and complex user journeys, **Customer.io** is the go
 
 For B2B SaaS with sophisticated automation needs, **ActiveCampaign** delivers best-in-class automation depth at mid-tier pricing.
 
-The choice depends on your specific needs, volume, and budget. Most SaaS companies we tested landed on Brevo or a Brevo + Postmark combo for the best balance of cost, deliverability, and features.
+The choice depends on your specific needs, volume, and budget. Most SaaS companies we compared landed on Brevo or a Brevo + Postmark combo for the best balance of cost, deliverability, and features.
 
 ## FAQ
 

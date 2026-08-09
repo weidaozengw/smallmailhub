@@ -198,7 +198,7 @@ For our [complete ActiveCampaign review](/reviews/activecampaign/), the feature 
 
 ## How we built this breakdown
 
-Real billing data from 6 ActiveCampaign accounts we tracked from March-June 2026. Subscriber counts ranged from 800 to 18,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying tier upgrade behavior, and cross-referenced with ActiveCampaign's customer-facing [pricing calculator](https://www.activecampaign.com/pricing/). No ActiveCampaign employee reviewed or influenced this article.
+Real billing data from 6 ActiveCampaign accounts we reviewed from March-June 2026. Subscriber counts ranged from 800 to 18,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying tier upgrade behavior, and cross-referenced with ActiveCampaign's customer-facing [pricing calculator](https://www.activecampaign.com/pricing/). No ActiveCampaign employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for ActiveCampaign or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

@@ -175,7 +175,7 @@ For our [complete Kit review](/reviews/kit/), the feature breakdown, or related 
 
 ## How we built this breakdown
 
-Real billing data from 7 Kit accounts we tracked from March-June 2026. Subscriber counts ranged from 800 to 22,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying tier upgrade behavior, and cross-referenced with Kit's customer-facing [pricing calculator](https://kit.com/pricing). No Kit employee reviewed or influenced this article.
+Real billing data from 7 Kit accounts we reviewed from March-June 2026. Subscriber counts ranged from 800 to 22,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying tier upgrade behavior, and cross-referenced with Kit's customer-facing [pricing calculator](https://kit.com/pricing). No Kit employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Kit or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

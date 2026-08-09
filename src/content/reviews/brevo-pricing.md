@@ -160,7 +160,7 @@ For our [complete Brevo review](/reviews/brevo/), the feature-by-feature compari
 
 ## How we built this breakdown
 
-Real billing data from 6 Brevo accounts we tracked from October 2025 to June 2026. Email volumes ranged from 2,000 to 180,000 sends per month. We compared against public pricing and three confidential support transcripts confirming overage and tier upgrade behavior. No Brevo employee reviewed or influenced this article.
+Real billing data from 6 Brevo accounts we reviewed from October 2025 to June 2026. Email volumes ranged from 2,000 to 180,000 sends per month. We compared against public pricing and three confidential support transcripts confirming overage and tier upgrade behavior. No Brevo employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Brevo or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

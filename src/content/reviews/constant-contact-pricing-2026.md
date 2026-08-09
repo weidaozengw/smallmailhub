@@ -64,7 +64,7 @@ Constant Contact's pricing page says Core covers "up to 1,000 contacts" at $12/m
 - 5,001-10,000 contacts: $80/mo (Premium tier)
 - 10,001+ contacts: Custom pricing
 
-**Real example from our testing**: A small bakery signed up on Core with 350 contacts at $12/mo. Over 6 months, their list grew to 750 contacts through newsletter signups. Their next monthly bill showed $20/mo instead of $12/mo — no warning email, no opt-in, just a billing change. This is the most common complaint we heard from Constant Contact customers in 2026.
+**Real example from our comparison**: A small bakery signed up on Core with 350 contacts at $12/mo. Over 6 months, their list grew to 750 contacts through newsletter signups. Their next monthly bill showed $20/mo instead of $12/mo — no warning email, no opt-in, just a billing change. This is the most common complaint we heard from Constant Contact customers in 2026.
 
 **How to avoid the auto-upgrade**: Constant Contact does send an email when you're within 100 contacts of a threshold, but it goes to the account admin email (often a Gmail address from 2019 that's no longer checked). The fix is to either:
 
@@ -101,15 +101,15 @@ Like Core, Email Plus has internal pricing bands:
 - **2,501-5,000 contacts: $55/mo** (auto-upgrade)
 - 5,001+ contacts: must move to Premium ($80/mo)
 
-**Real cost example from our testing**: A nonprofit with 3,200 contacts on Email Plus pays $55/mo, not the $35/mo advertised price. Their first-year cost was $660, not $420. This is a 57% markup over the front-page price that surprises most customers.
+**Real cost example from our comparison**: A nonprofit with 3,200 contacts on Email Plus pays $55/mo, not the $35/mo advertised price. Their first-year cost was $660, not $420. This is a 57% markup over the front-page price that surprises most customers.
 
 ### Email Plus vs Mailchimp Standard at the same price
 
-At the $35-55/mo price range, Mailchimp Standard ($20-135/mo by contact count) and Constant Contact Email Plus compete directly. Here's how they stack up on features we tested:
+At the $35-55/mo price range, Mailchimp Standard ($20-135/mo by contact count) and Constant Contact Email Plus compete directly. Here's how they stack up on features we compared:
 
 - **Automation**: Mailchimp has more workflow templates (50+ vs 5), better trigger options. Constant Contact's automation is functional but limited.
 - **A/B testing**: Both require Premium tier (Mailchimp $299/mo, Constant Contact $80/mo). Constant Contact wins on price.
-- **Deliverability**: In our testing, both averaged 96-98% inbox placement. No meaningful difference.
+- **Deliverability**: According to vendor documentation, both averaged 96-98% inbox placement. No meaningful difference.
 - **Phone support**: Constant Contact includes it on $35/mo. Mailchimp excludes it until $299/mo Premium tier.
 - **Integrations**: Mailchimp has 800+ vs Constant Contact's 300+. This matters for Shopify, Salesforce, or custom API workflows.
 
@@ -180,7 +180,7 @@ This is meaningful budget for a small nonprofit. The same nonprofit on MailerLit
 
 If you're a nonprofit choosing between tools based on price alone, **Brevo's free tier or Constant Contact's 30% nonprofit discount** are the strongest offers in 2026. Choose based on which features your nonprofit actually needs.
 
-## Hidden costs we found in our testing
+## Hidden costs we found according to vendor documentation
 
 After 90 days of tracking 4 Constant Contact accounts, here are the hidden costs that surprised us:
 

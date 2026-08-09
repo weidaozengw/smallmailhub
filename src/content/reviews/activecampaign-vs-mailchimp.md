@@ -13,7 +13,7 @@ pros:
   - "No vendor influence — both recommendations based on testing data, not affiliate status"
 cons:
   - "Tool features evolve quickly; specific feature claims based on testing as of mid-2026"
-  - "Customer support experiences vary by account tier and team — our testing on mid-tier accounts"
+  - "Customer support experiences vary by account tier and team — our comparison on mid-tier accounts"
   - "Some advanced features (predictive sending, multivariate testing) only available on top pricing tiers of both tools"
 pricing: "Lite $29/mo · Plus $49/mo · Professional $259/mo · Enterprise custom"
 bestFor: "Small to mid-sized businesses comparing ActiveCampaign vs Mailchimp — looking for the cheapest path with strong deliverability."

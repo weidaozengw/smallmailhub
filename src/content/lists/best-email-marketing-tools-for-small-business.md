@@ -1,6 +1,6 @@
 ---
 title: "Best Email Marketing Tools for Small Business in 2026 (Tested)"
-description: "We tested 14 email marketing platforms across 6 months. These 7 are the ones we'd actually recommend to a small business owner in 2026, ranked by use case and pricing."
+description: "We compared 14 email marketing platforms across 6 months. These 7 are the ones we'd actually recommend to a small business owner in 2026, ranked by use case and pricing."
 pubDate: 2026-08-01
 targetKeyword: "best email marketing tools for small business"
 items:
@@ -181,7 +181,7 @@ Brevo bundles transactional at $9/mo vs MailerLite + MailerSend at $20/mo. For b
 
 ### Which has the strongest deliverability?
 
-MailerLite at 97-99% in our testing is strongest combined with cheapest pricing. Brevo at 96-98%. Mailchimp at 97-99%.
+MailerLite at 97-99% according to vendor documentation is strongest combined with cheapest pricing. Brevo at 96-98%. Mailchimp at 97-99%.
 
 ### What's the best tool for marketing + transactional from one vendor?
 

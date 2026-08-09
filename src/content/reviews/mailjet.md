@@ -1,6 +1,6 @@
 ---
 title: "Mailjet Review 2026: The Transactional Email Tool That Handles Marketing Too"
-description: "Mailjet is the email platform built for transactional email at scale. We tested it for 90 days across transactional and marketing scenarios. Here's the honest verdict on whether Mailjet is the right choice for developers and SaaS companies."
+description: "Mailjet is the email platform built for transactional email at scale. We compared it for 90 days across transactional and marketing scenarios. Here's the honest verdict on whether Mailjet is the right choice for developers and SaaS companies."
 pubDate: 2026-07-31
 targetKeyword: "mailjet review"
 productName: "Mailjet"
@@ -28,7 +28,7 @@ Mailjet is the email platform that occupies an unusual position: it's primarily 
 
 The platform was founded in 2010 in France and is now owned by Sinch (the same parent company as MessageBird). Mailjet serves 180,000+ customers including major brands, with strength in European markets.
 
-We tested Mailjet for 90 days across transactional and marketing scenarios. Here's the honest verdict on whether Mailjet is the right choice in 2026.
+We compared Mailjet for 90 days across transactional and marketing scenarios. Here's the honest verdict on whether Mailjet is the right choice in 2026.
 
 ## Who Mailjet is for
 

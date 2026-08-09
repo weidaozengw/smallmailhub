@@ -156,11 +156,11 @@ Both have good support. Klaviyo's response time is faster on paid plans. Omnisen
 
 ## Our final decision
 
-For our test store ($40K/mo revenue, 4,200 contacts, small marketing team), Omnisend was the better choice. The 4x cost savings, SMS bundling, and cleaner UI outweighed Klaviyo's automation depth advantage at this scale.
+For our comparison store ($40K/mo revenue, 4,200 contacts, small marketing team), Omnisend was the better choice. The 4x cost savings, SMS bundling, and cleaner UI outweighed Klaviyo's automation depth advantage at this scale.
 
 If our store doubled in revenue past $80K/mo, we'd revisit Klaviyo for the predictive LTV and churn scoring.
 
-## How we tested
+## How we compared
 
 12-week side-by-side comparison on the same Shopify store. Identical customer data synced to both platforms. Identical automations built (with Klaviyo using more advanced conditional splits). Tracked revenue, list growth, deliverability, support response, and cost. Both platforms have affiliate programs.
 

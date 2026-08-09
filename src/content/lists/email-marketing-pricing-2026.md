@@ -41,7 +41,7 @@ For deeper breakdowns of each tool's pricing, follow the individual pricing page
 
 ### MailerLite pricing 2026
 
-MailerLite wins at the under-1,000 contact tier with the best free tier in the market (1,000 subscribers free, 12,000 emails/month) and a flat $10/mo Starter plan. We tracked 8 MailerLite accounts — for businesses under 1,000 contacts, MailerLite is genuinely the cheapest comprehensive option.
+MailerLite wins at the under-1,000 contact tier with the best free tier in the market (1,000 subscribers free, 12,000 emails/month) and a flat $10/mo Starter plan. We reviewed 8 MailerLite accounts — for businesses under 1,000 contacts, MailerLite is genuinely the cheapest comprehensive option.
 
 **[Read the full MailerLite pricing breakdown →](/reviews/mailerlite-pricing/)**
 
@@ -316,7 +316,7 @@ Yes — most tools support CSV export and import. Migrating 5K contacts takes 1-
 
 ## Test details
 
-We tested 10 major email marketing tools on MailPilot between January and June 2026:
+We compared 10 major email marketing tools on MailPilot between January and June 2026:
 
 - 10 tools tracked for 90+ days each
 - Subscriber counts ranging from 250 to 30,000 per test account

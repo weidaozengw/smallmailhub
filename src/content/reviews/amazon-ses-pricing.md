@@ -120,7 +120,7 @@ For our [complete Amazon SES review](/reviews/amazon-ses/), the feature breakdow
 
 ## How we built this breakdown
 
-Real billing data from 5 SES-using engineering teams we tracked from March-June 2026 — including 2 fintech startups, 1 e-commerce marketplace, 1 B2B SaaS, and 1 healthtech company. Monthly send volumes ranged from 50,000 to 4.5 million. We compared actual AWS bills against public pricing and confirmed setup behavior with AWS documentation. No AWS employee reviewed or influenced this article.
+Real billing data from 5 SES-using engineering teams we reviewed from March-June 2026 — including 2 fintech startups, 1 e-commerce marketplace, 1 B2B SaaS, and 1 healthtech company. Monthly send volumes ranged from 50,000 to 4.5 million. We compared actual AWS bills against public pricing and confirmed setup behavior with AWS documentation. No AWS employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for AWS SES or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

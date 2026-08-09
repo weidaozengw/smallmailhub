@@ -28,7 +28,7 @@ affiliateUrl: "https://www.mailerlite.com/?via=mailpilot"
 
 Mailchimp was the obvious choice for small businesses for over a decade. In 2026, it isn't anymore. Their pricing restructure in 2023 pushed the "Essentials" plan to $13/mo for 500 contacts, then doubled to $20/mo once you cross 1,000. If you're sending regular newsletters and have a list over 1,000, you're paying for features you probably don't use.
 
-We tested seven platforms that small businesses are actually switching to. This isn't a "Top 10 Tools!" listicle. It's seven tools, ranked by which use case they actually fit.
+We compared seven platforms that small businesses are actually switching to. This isn't a "Top 10 Tools!" listicle. It's seven tools, ranked by which use case they actually fit.
 
 ## Quick answer: who's this guide for?
 

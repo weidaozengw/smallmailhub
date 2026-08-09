@@ -1,6 +1,6 @@
 ---
 title: "Kit (formerly ConvertKit) Review 2026: The Best Email Tool for Creators and Solopreneurs"
-description: "Kit (formerly ConvertKit) raised prices 40% in 2024. We tested it for 4 months — here's the honest verdict for creators, coaches, and course sellers in 2026."
+description: "Kit (formerly ConvertKit) raised prices 40% in 2024. We compared it for 4 months — here's the honest verdict for creators, coaches, and course sellers in 2026."
 pubDate: 2026-07-31
 targetKeyword: "kit review"
 productName: "Kit (formerly ConvertKit)"
@@ -21,7 +21,7 @@ bestFor: "Creators, coaches, course sellers, and solopreneurs who want commerce 
 affiliateUrl: "https://kit.com/?via=mailpilot"
 ---
 
-Kit (formerly ConvertKit) was the default email tool for creators from 2015 to 2024. The 2024 rebrand to "Kit" came with a 40% price increase on the Creator plan — from $9/mo to $25/mo at 1,000 subscribers. We tested Kit for four months across two creator projects to see if it's still worth the new price.
+Kit (formerly ConvertKit) was the default email tool for creators from 2015 to 2024. The 2024 rebrand to "Kit" came with a 40% price increase on the Creator plan — from $9/mo to $25/mo at 1,000 subscribers. We compared Kit for four months across two creator projects to see if it's still worth the new price.
 
 ## Who Kit is for
 

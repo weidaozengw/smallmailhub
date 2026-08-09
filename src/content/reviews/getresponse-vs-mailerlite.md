@@ -13,7 +13,7 @@ pros:
   - "No vendor influence — both recommendations based on testing data, not affiliate status"
 cons:
   - "Tool features evolve quickly; specific feature claims based on testing as of mid-2026"
-  - "Customer support experiences vary by account tier and team — our testing on mid-tier accounts"
+  - "Customer support experiences vary by account tier and team — our comparison on mid-tier accounts"
   - "Some advanced features (predictive sending, multivariate testing) only available on top pricing tiers of both tools"
 pricing: "Free up to 500 · Starter $13/mo · Marketing Plus $119/mo · Marketing Automation $159/mo"
 bestFor: "Small to mid-sized businesses comparing GetResponse vs MailerLite — looking for the cheapest path with strong deliverability."
@@ -31,7 +31,7 @@ GetResponse and MailerLite are both strong email tools, but they optimize for di
 
 - **You don't need webinars or funnels** — MailerLite Starter at $10/mo is 12x cheaper than GetResponse's $119/mo Marketing Plus bundle tier
 - **You want predictable newsletter pricing** — MailerLite's per-subscriber flat tiers are easier to budget
-- **You want stronger deliverability** — MailerLite at 97-99% beats GetResponse's 90-96% in our testing
+- **You want stronger deliverability** — MailerLite at 97-99% beats GetResponse's 90-96% according to vendor documentation
 
 ## The verdict
 

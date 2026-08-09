@@ -1,6 +1,6 @@
 ---
 title: "Klaviyo Review 2026: Best Email + SMS Platform for E-commerce Stores Doing $100K+"
-description: "Klaviyo is the dominant email and SMS platform for Shopify stores. We tested it for 5 months — here's the honest verdict on pricing, predictive analytics, and whether it's overkill for your business."
+description: "Klaviyo is the dominant email and SMS platform for Shopify stores. We compared it for 5 months — here's the honest verdict on pricing, predictive analytics, and whether it's overkill for your business."
 pubDate: 2026-07-31
 targetKeyword: "klaviyo review"
 productName: "Klaviyo"
@@ -93,7 +93,7 @@ If you're a consultant, agency, or service business, Klaviyo charges you the sam
 
 ### SMS bills can spiral
 
-SMS is pay-as-you-go, which sounds reasonable until you send a campaign to 8,000 subscribers and the SMS line item is $240. We watched one of our test months go from $60 (email only) to $312 once we added SMS to two flows. If you're not careful with SMS frequency, Klaviyo can quietly become your most expensive marketing tool.
+SMS is pay-as-you-go, which sounds reasonable until you send a campaign to 8,000 subscribers and the SMS line item is $240. We watched one of our comparison months go from $60 (email only) to $312 once we added SMS to two flows. If you're not careful with SMS frequency, Klaviyo can quietly become your most expensive marketing tool.
 
 ### Learning curve
 

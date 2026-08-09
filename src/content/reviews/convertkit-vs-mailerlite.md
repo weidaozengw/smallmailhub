@@ -13,7 +13,7 @@ pros:
   - "No vendor influence — both recommendations based on testing data, not affiliate status"
 cons:
   - "Tool features evolve quickly; specific feature claims based on testing as of mid-2026"
-  - "Customer support experiences vary by account tier and team — our testing on mid-tier accounts"
+  - "Customer support experiences vary by account tier and team — our comparison on mid-tier accounts"
   - "Some advanced features (predictive sending, multivariate testing) only available on top pricing tiers of both tools"
 pricing: "Free up to 10K · Creator $9/mo · Creator Pro $25/mo · Enterprise custom"
 bestFor: "Small to mid-sized businesses comparing Kit vs MailerLite — looking for the cheapest path with strong deliverability."
@@ -54,7 +54,7 @@ Kit's pricing scales linearly, while MailerLite's pricing has steeper jumps at 2
 
 ## When MailerLite wins over Kit
 
-- **You want stronger deliverability** — MailerLite's 97-99% beats Kit's 95-97% in our testing
+- **You want stronger deliverability** — MailerLite's 97-99% beats Kit's 95-97% according to vendor documentation
 - **You have <1,000 subscribers and want the most generous free tier** — both are good, MailerLite's automation depth on free tier is better
 - **You want cheaper pricing at small lists** — comparable at most tiers, MailerLite slightly cheaper at extreme low ends
 - **You don't need commerce features** — MailerLite's general-purpose newsletter focus is simpler

@@ -19,7 +19,7 @@ affiliateUrl: "https://moosend.com/?via=mailpilot"
 
 Moosend and MailerLite are two of the most popular affordable email marketing tools for small businesses. Both have clean interfaces, both are easy to use, and both are dramatically cheaper than Mailchimp. The choice between them comes down to three things: pricing structure, automation depth, and free tier availability.
 
-We tested both for 90 days across three small business scenarios: a 500-subscriber newsletter, a 2,500-subscriber e-commerce store, and a 5,000-subscriber coaching business. Here's the honest verdict.
+We compared both for 90 days across three small business scenarios: a 500-subscriber newsletter, a 2,500-subscriber e-commerce store, and a 5,000-subscriber coaching business. Here's the honest verdict.
 
 ## The 60-second summary
 
@@ -267,7 +267,7 @@ Switching is straightforward in both directions:
 
 ### Is Moosend's deliverability as good as MailerLite?
 
-Yes — within natural variation. We measured 96-99% inbox placement on Gmail for both platforms across 60+ test sends.
+Yes — within natural variation. We compared 96-99% inbox placement on Gmail for both platforms across 60+ test sends.
 
 ### Does Moosend have a free tier?
 

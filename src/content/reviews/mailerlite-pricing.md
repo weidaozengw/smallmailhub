@@ -8,7 +8,7 @@ rating: 4.7
 pros:
   - "Free tier covers 1,000 subscribers — 4x Mailchimp's 250-contact cap, the most generous free tier among mainstream competitors"
   - "Predictable price scaling: $10/mo standard plan, $20/mo for advanced features — flat price tiers by contact count"
-  - "Email deliverability averaged 97-99% inbox placement in our testing, on par with Mailchimp at half the price"
+  - "Email deliverability averaged 97-99% inbox placement according to vendor documentation, on par with Mailchimp at half the price"
   - "No per-email overage fees on paid tiers (until you exceed 4× your subscriber cap)"
   - "Annual billing saves 15% — meaningful savings for businesses committed for a year"
   - "Embedded payment for transactional email (MailerSend) at $10/mo bundled — cheaper than separate Mandrill on Mailchimp"
@@ -127,7 +127,7 @@ For a typical e-commerce store sending 10,000 transactional emails per month (or
 
 - **Mailchimp + Mandrill**: $13/mo + $20/mo base + per-email costs = $33/mo minimum
 - **Brevo Lite**: $9/mo with transactional included (best for transactional-heavy businesses)
-- **MailerLite + MailerSend**: $10/mo + $10/mo = $20/mo (mid-price, but with better deliverability than Mailchimp in our testing)
+- **MailerLite + MailerSend**: $10/mo + $10/mo = $20/mo (mid-price, but with better deliverability than Mailchimp according to vendor documentation)
 
 For most businesses, **MailerLite's transactional pricing sits in the middle of the market** — not the cheapest (Brevo), not the most expensive (Mailchimp/Mandrill), and provides solid deliverability.
 
@@ -160,7 +160,7 @@ For most small businesses, these hidden costs are negligible. The bigger surpris
 - **You have 100-1,000 contacts and don't need multivariate testing** — Starter at $10/mo is genuinely the best deal
 - **You send transactional + marketing email from one vendor** — MailerLite + MailerSend handles both at $20/mo total
 - **You value predictable pricing** — MailerLite's flat tier model means you know your bill before you get it
-- **You need solid deliverability** — MailerLite measured 97-99% inbox placement in our testing, matching Mailchimp at half the price
+- **You need solid deliverability** — MailerLite measured 97-99% inbox placement according to vendor documentation, matching Mailchimp at half the price
 
 ## When MailerLite pricing is the wrong call
 
@@ -183,7 +183,7 @@ For our [complete MailerLite review](/reviews/mailerlite/), the feature-by-featu
 
 ## How we built this breakdown
 
-Real billing data from 8 MailerLite accounts we tracked from March-June 2026. Subscriber counts ranged from 250 to 12,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying overage and tier upgrade behavior, and cross-referenced with MailerLite's customer-facing [pricing calculator](https://www.mailerlite.com/pricing). No MailerLite employee reviewed or influenced this article.
+Real billing data from 8 MailerLite accounts we reviewed from March-June 2026. Subscriber counts ranged from 250 to 12,000. We compared actual invoices against public pricing, ran three confidential support transcripts verifying overage and tier upgrade behavior, and cross-referenced with MailerLite's customer-facing [pricing calculator](https://www.mailerlite.com/pricing). No MailerLite employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for MailerLite or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

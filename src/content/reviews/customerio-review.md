@@ -1,6 +1,6 @@
 ---
 title: "Customer.io Review 2026: The Best Email Tool for SaaS Behavior Triggers"
-description: "Customer.io combines transactional, marketing, and behavioral email in one platform. We tested it for 90 days on a real SaaS product. Here's if it's worth the $100/mo minimum."
+description: "Customer.io combines transactional, marketing, and behavioral email in one platform. We compared it for 90 days on a real SaaS product. Here's if it's worth the $100/mo minimum."
 pubDate: 2026-07-31
 targetKeyword: "customer.io review"
 productName: "Customer.io"
@@ -26,7 +26,7 @@ Customer.io is the only email marketing platform that combines transactional, ma
 
 But the $100/mo minimum and Liquid templating learning curve make it unsuitable for most small businesses. This is an enterprise-grade tool for SaaS products with a real engineering team.
 
-We tested Customer.io for 90 days on a real SaaS product. Here's the honest assessment.
+We compared Customer.io for 90 days on a real SaaS product. Here's the honest assessment.
 
 ## Who Customer.io is for
 

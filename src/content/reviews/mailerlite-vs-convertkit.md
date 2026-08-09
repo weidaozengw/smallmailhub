@@ -1,6 +1,6 @@
 ---
 title: "MailerLite vs ConvertKit (Kit): Honest 12-Week Comparison for 2026"
-description: "We tested MailerLite vs ConvertKit side-by-side for 12 weeks on real campaigns. Pricing, deliverability, automation, support — who wins for which type of business."
+description: "We compared MailerLite vs ConvertKit side-by-side for 12 weeks on real campaigns. Pricing, deliverability, automation, support — who wins for which type of business."
 pubDate: 2026-08-01
 targetKeyword: "mailerlite vs convertkit"
 productName: "MailerLite"
@@ -102,7 +102,7 @@ Both have built-in landing page builders. Both are drag-and-drop. Both have ~50 
 
 The difference: ConvertKit's templates are slightly more creator-focused (book launches, course signups, podcast subscriptions). MailerLite's templates are more business-focused (lead magnets, event registration, free trial signups).
 
-For our test campaign (a B2B SaaS free trial landing page), MailerLite's templates were actually a better fit.
+For our comparison campaign (a B2B SaaS free trial landing page), MailerLite's templates were actually a better fit.
 
 **Winner**: Tie, with different strengths.
 
@@ -203,7 +203,7 @@ For a creator selling paid newsletters or courses, ConvertKit is the better choi
 
 If your business has both newsletter and commerce needs, ConvertKit wins. If you only need email, MailerLite wins.
 
-## How we tested
+## How we compared
 
 12-week side-by-side comparison on the same list of 2,500 contacts. We sent 18 newsletter campaigns, built identical welcome + abandoned cart + re-engagement automations, tracked deliverability via 8 seed list services, and totaled cost across the test period. Both platforms have affiliate programs.
 

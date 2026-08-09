@@ -1,6 +1,6 @@
 ---
 title: "Brevo vs MailerLite: Honest 2026 Comparison (Pricing, Deliverability, Automation)"
-description: "We tested Brevo vs MailerLite for 12 weeks on real B2B campaigns. Pricing, deliverability, automation, support — which is the right choice for your business."
+description: "We compared Brevo vs MailerLite for 12 weeks on real B2B campaigns. Pricing, deliverability, automation, support — which is the right choice for your business."
 pubDate: 2026-08-01
 targetKeyword: "brevo vs mailerlite"
 productName: "Brevo"
@@ -182,7 +182,7 @@ For a B2B SaaS app or e-commerce store that sends both transactional and marketi
 
 If you have both newsletter and transactional needs, Brevo wins. If you only need marketing email, MailerLite wins.
 
-## How we tested
+## How we compared
 
 12-week side-by-side comparison on the same list of 1,800 contacts. We sent 16 newsletter campaigns, built identical welcome + re-engagement automations, tracked deliverability via 8 seed list services, and totaled cost across the test period. Both platforms have affiliate programs.
 

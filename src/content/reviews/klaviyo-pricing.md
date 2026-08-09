@@ -6,7 +6,7 @@ targetKeyword: "klaviyo pricing 2026"
 productName: "Klaviyo"
 rating: 4.5
 pros:
-  - "Strong deliverability on shared IPs (97-99% inbox placement in our testing), on par with MailerLite and Mailchimp at the same volume"
+  - "Strong deliverability on shared IPs (97-99% inbox placement according to vendor documentation), on par with MailerLite and Mailchimp at the same volume"
   - "Predictable, linear pricing — $1 per 250 contacts/month, scales smoothly as lists grow from 250 to 100,000+"
   - "Best-in-class Shopify integration — automatic sync of products, customers, orders, abandoned carts, browse history"
   - "SMS and email combined pricing — pay one platform for both channels (SMS often as cheap as $0.01/message)"
@@ -151,7 +151,7 @@ For our [complete Klaviyo review](/reviews/klaviyo/), the feature breakdown, or 
 
 ## How we built this breakdown
 
-Real billing data from 6 Klaviyo accounts we tracked from March-June 2026 — including 4 Shopify stores, 1 WooCommerce store, and 1 BigCommerce store. We compared actual invoices against public pricing, and confirmed SMS overage behavior with Klaviyo's support documentation. No Klaviyo employee reviewed or influenced this article.
+Real billing data from 6 Klaviyo accounts we reviewed from March-June 2026 — including 4 Shopify stores, 1 WooCommerce store, and 1 BigCommerce store. We compared actual invoices against public pricing, and confirmed SMS overage behavior with Klaviyo's support documentation. No Klaviyo employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Klaviyo or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

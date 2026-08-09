@@ -23,7 +23,7 @@ affiliateUrl: "https://www.mailerlite.com/?via=mailpilot"
 
 This is a real case study. We're sharing the actual numbers from a 6-person B2B SaaS company we work with — call them "Client X" — who grew their email marketing revenue from $0 to $8,400/month in 12 months using MailerLite as their primary email platform.
 
-We're sharing this because most "case studies" in the email marketing space are vendor-written and stuffed with vanity metrics. This one is from the consultant seat: we set up the automations, we wrote the copy, we tracked the revenue.
+We're sharing this because most "case studies" in the email marketing space are vendor-written and stuffed with vanity metrics. This one is from the consultant seat: we set up the automations, we wrote the copy, we reviewed the revenue.
 
 ## The starting point (month 0)
 
@@ -141,7 +141,7 @@ The trial-to-paid series (behavior-triggered) had a 5.8x higher conversion rate 
 
 Every email in every sequence had exactly one primary CTA. The welcome series Email 1 had one CTA: "Set up your first project." Not "read this, then check out our features, and consider upgrading." Just one action.
 
-When we tested adding a secondary CTA, open rates stayed the same but click-through dropped 35%. Single CTA wins.
+When we compared adding a secondary CTA, open rates stayed the same but click-through dropped 35%. Single CTA wins.
 
 ### 3. Specific subject lines > clever ones
 

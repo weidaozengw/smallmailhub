@@ -149,7 +149,7 @@ For our [complete Mailjet review](/reviews/mailjet/), the feature breakdown, or 
 
 ## How we built this breakdown
 
-Real billing data from 4 Mailjet accounts we tracked from March-June 2026 — transactional-heavy e-commerce stores and European SaaS companies. Subscriber counts ranged from 1,500 to 45,000. We compared actual invoices against public pricing and confirmed tier upgrade behavior with Mailjet's support documentation. No Mailjet employee reviewed or influenced this article.
+Real billing data from 4 Mailjet accounts we reviewed from March-June 2026 — transactional-heavy e-commerce stores and European SaaS companies. Subscriber counts ranged from 1,500 to 45,000. We compared actual invoices against public pricing and confirmed tier upgrade behavior with Mailjet's support documentation. No Mailjet employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for Mailjet or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 

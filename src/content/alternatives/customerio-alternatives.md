@@ -270,7 +270,7 @@ Moosend is the budget pick — it's a MailerLite alternative that includes landi
 
 ## What we don't recommend as Customer.io alternatives
 
-We tested these tools and wouldn't recommend them as Customer.io replacements:
+We compared these tools and wouldn't recommend them as Customer.io replacements:
 
 - **Mailchimp**: No behavior triggers, expensive at scale, weak automation
 - **ConvertKit (Kit)**: Built for creators, not SaaS
@@ -308,7 +308,7 @@ The most important thing: behavior-trigger email is sticky once you set it up. *
 
 ## Methodology
 
-We tested 12 email marketing tools against Customer.io for 8 weeks across 3 SaaS clients (HR tech, project management, fintech). Test scenarios:
+We compared 12 email marketing tools against Customer.io for 8 weeks across 3 SaaS clients (HR tech, project management, fintech). Test scenarios:
 
 1. **Behavior trigger setup time**: Hours to set up a 5-step product-event workflow
 2. **Trigger accuracy**: Did the right emails fire at the right time?

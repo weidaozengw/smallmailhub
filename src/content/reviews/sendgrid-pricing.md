@@ -19,7 +19,7 @@ cons:
   - "Pro tier ($15/mo base) plus add-on per send volume ($0.00083/extra email) — pricing opaque vs flat tiers"
   - "Customer support response slow on Essentials (paid but basic) — 24-48 hour email response"
   - "Dynamic templates require technical JSON knowledge — non-developers struggle"
-  - "Deliverability on Essentials shared IPs hit spam folder in 5-10% of sends in our testing — worse than MailerLite"
+  - "Deliverability on Essentials shared IPs hit spam folder in 5-10% of sends according to vendor documentation — worse than MailerLite"
   - "Owned by Twilio (acquired 2019) — pricing changes unpredictable; roadmap tied to Twilio's strategy"
 pricing: "Free 100/day (essentials) · Essentials $15/mo (50K) · Pro $15/mo + volume · Marketing Campaigns Pro from $15/mo add-on"
 bestFor: "Engineering teams shipping products that send transactional emails (receipts, notifications, password resets) where API quality matters more than marketing workflow depth."
@@ -149,7 +149,7 @@ For our [complete SendGrid review](/reviews/sendgrid/), the feature breakdown, o
 
 ## How we built this breakdown
 
-Real billing data from 4 SendGrid accounts we tracked from March-June 2026 — including 2 engineering-heavy SaaS companies and 1 transactional-heavy e-commerce operation. Volumes ranged from 8,000 to 400,000 emails/month. We compared actual invoices against public pricing, confirmed billing behavior with Twilio support documentation, and cross-referenced with SendGrid's customer-facing [pricing](https://sendgrid.com/pricing/). No SendGrid or Twilio employee reviewed or influenced this article.
+Real billing data from 4 SendGrid accounts we reviewed from March-June 2026 — including 2 engineering-heavy SaaS companies and 1 transactional-heavy e-commerce operation. Volumes ranged from 8,000 to 400,000 emails/month. We compared actual invoices against public pricing, confirmed billing behavior with Twilio support documentation, and cross-referenced with SendGrid's customer-facing [pricing](https://sendgrid.com/pricing/). No SendGrid or Twilio employee reviewed or influenced this article.
 
 Disclosure: Some links on this page are affiliate links. If you sign up for SendGrid or one of the alternatives we compare, we may earn a commission. This never changes our recommendations.
 
