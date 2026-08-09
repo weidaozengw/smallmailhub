@@ -11,11 +11,14 @@ const { title, description, canonical, ogImage } = Astro.props;
 const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
 const year = new Date().getFullYear();
 
-// GA4 — the property existed since launch but the ID was never wired up, so the site
-// shipped for months with zero analytics (GA showed "No data received from your website yet").
-// Hardcoded as fallback on 2026-08-09, same pattern as the GSC verification below.
-// A Measurement ID is public by design — it ships in the page HTML — so this is not a secret.
-const ga4Id = import.meta.env.PUBLIC_GA4_ID || 'G-SHGLFCEWBP';
+// GA4 — 2026-08-09: the deployed site was tagging with G-SHGLFCEWBF (trailing F), but the
+// real property in Google Analytics is G-SHGLFCEWBP (trailing P). One character off, so every
+// pageview since launch was sent to a property that does not exist — which is exactly why the
+// GA dashboard still reads "No data received from your website yet".
+// The wrong value comes from the PUBLIC_GA4_ID environment variable in Cloudflare Pages, so we
+// deliberately do NOT read it here anymore; it would silently override the correct ID again.
+// A Measurement ID ships in the page HTML by design, so hardcoding it leaks nothing.
+const ga4Id = 'G-SHGLFCEWBP';
 
 // Search Console verification meta tag — set PUBLIC_GSC_VERIFICATION env var in Cloudflare
 // or hardcode below as fallback. As of 2026-07-29, hardcoded to unlock real search data.
