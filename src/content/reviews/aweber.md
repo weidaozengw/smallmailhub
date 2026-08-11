@@ -19,7 +19,7 @@ cons:
   - "Price jumps sharply past 5,000 subscribers"
 pricing: "Free up to 500 subscribers · $13/mo Lite for 500-1,000 · $20/mo Plus for 500-1,000 · $899/mo Pro for 100,000+"
 bestFor: "Solopreneurs, coaches, and small businesses with 500-5k subscribers who prioritize email deliverability and don't need modern automation"
-affiliateUrl: "https://www.aweber.com/?id=mailpilot"
+affiliateUrl: "https://www.aweber.com/easy-email.htm?id=561808"
 ---
 
 AWeber was founded in 1998, which makes it older than most of its users. While Mailchimp and MailerLite reinvented their interfaces in the 2020s, AWeber has stayed consistent — same focus on getting email delivered. We compared the 2026 version on published pricing, documentation and feature depth. Here's the honest verdict.
@@ -74,7 +74,7 @@ Paid plans include landing pages, but the template library is small and most des
     <strong style="color: 92400e; font-size: 1.05rem;">Ready to try AWeber?</strong>
     <div style="color: #4b5563; font-size: 0.92rem; margin-top: 4px;">30-day free trial. 500 emails/mo free.</div>
   </div>
-  <a href="https://www.aweber.com/?id=mailpilot&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Aweber →</a>
+  <a href="https://www.aweber.com/easy-email.htm?id=561808&utm_source=smallmailhub&utm_medium=review&utm_campaign=inline-mid" rel="sponsored noopener" target="_blank" style="background: #2563eb; color: white; padding: 11px 22px; border-radius: 6px; text-decoration: none; font-weight: 600; white-space: nowrap;">Try Aweber →</a>
 </div>
 
 

@@ -21,7 +21,7 @@ cons:
   - "Annual discount requires 12-month commitment with no obvious monthly equivalent"
 pricing: "Free up to 500 subscribers · Lite $13/mo (annual) for 500-25K · Plus $29/mo (annual) for 500-25K · Pro $899/mo for 100K+"
 bestFor: "Solopreneurs, coaches, and small businesses with 500-5,000 subscribers who want a predictable flat-price tier and don't need to scale past 25,000 subscribers without re-pricing."
-affiliateUrl: "https://www.aweber.com/?id=mailpilot"
+affiliateUrl: "https://www.aweber.com/easy-email.htm?id=561808"
 ---
 
 AWeber has been around since 1998 and has stayed profitable and independent — a rare feat in the email marketing space. While Mailchimp and MailerLite reinvented their pricing in the 2020s, AWeber's 2026 model is intentionally simple: 4 plans (Free, Lite, Plus, Pro), one pricing page, no calculator headaches. After tracking 6 real AWeber accounts from March to June 2026 (subscribers ranging from 200 to 18,000), here's what the platform actually costs at every relevant tier — including where the "simple pricing" model breaks down.

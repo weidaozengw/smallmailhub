@@ -22,7 +22,7 @@ cons:
   - "No multivariate A/B testing on any tier — only simple subject line A/B on Plus"
 pricing: "Free up to 500 subscribers · Lite $13/mo · Plus $29/mo · Professional $299+/mo"
 bestFor: "Long-time email marketers who want reliable deliverability and don't need modern UI, deep automation, or ecommerce-specific features"
-affiliateUrl: "https://www.aweber.com/?via=mailpilot"
+affiliateUrl: "https://www.aweber.com/easy-email.htm?id=561808"
 ---
 
 AWeber has been around since 1998, making it one of the most established email tools. But in 2026, multiple Reddit users call it "outdated" compared to MailerLite, Mailchimp, or Constant Contact. We pulled 15+ real Reddit comments from r/emailmarketing, r/SaaS, r/Blogging, r/marketing, and r/Entrepreneur and grouped them into 4 honest problems. The verdict: AWeber is **reliable for traditional newsletters**, but **the UI and automation depth trail modern competitors**.

@@ -27,7 +27,12 @@ function withUtm(url: string): string {
 }
 
 const trackedUrl = affiliateUrl ? withUtm(affiliateUrl) : '';
-const isPlaceholder = affiliateUrl?.includes('?via=mailpilot') || !affiliateUrl;
+// 2026-08-11 修：原来这里叫 isPlaceholder，判的是「链接是假的」，
+// 却拿它去控制「我们可能赚佣金」这句披露 —— 方向整个反了：
+//   假链接 → 显示披露 = 对读者撒谎（假链接赚不到一分钱）
+//   真链接 → 不显示披露 = 违反 FTC 联盟披露要求
+// 改成按「这是不是一条真能赚钱的联盟链接」来判，真的才披露。
+const isRealAffiliate = Boolean(affiliateUrl) && !affiliateUrl.includes('mailpilot');
 ---
 
 {variant === 'top' && trackedUrl && (
@@ -43,7 +48,7 @@ const isPlaceholder = affiliateUrl?.includes('?via=mailpilot') || !affiliateUrl;
     </div>
     {bestFor && <p class="cta-top-desc"><strong>Best for:</strong> {bestFor}</p>}
     {pricing && <p class="cta-top-desc cta-top-pricing"><strong>Pricing:</strong> {pricing}</p>}
-    {isPlaceholder && <p class="cta-disclosure">Disclosure: We may earn a commission if you sign up via this link. <a href="/disclosure/">Learn more</a>.</p>}
+    {isRealAffiliate && <p class="cta-disclosure">Disclosure: We may earn a commission if you sign up via this link. <a href="/disclosure/">Learn more</a>.</p>}
   </div>
 )}
 
@@ -67,7 +72,7 @@ const isPlaceholder = affiliateUrl?.includes('?via=mailpilot') || !affiliateUrl;
     <a href={trackedUrl} class="cta-btn cta-btn-primary cta-btn-large" rel="sponsored noopener" target="_blank">
       Try {productName} free →
     </a>
-    {isPlaceholder && <p class="cta-disclosure">Disclosure: We may earn a commission if you sign up via this link. <a href="/disclosure/">Learn more</a>. Affiliate links tracked via UTM for analytics.</p>}
+    {isRealAffiliate && <p class="cta-disclosure">Disclosure: We may earn a commission if you sign up via this link. <a href="/disclosure/">Learn more</a>. Affiliate links tracked via UTM for analytics.</p>}
   </div>
 )}
 
